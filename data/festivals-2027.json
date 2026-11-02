@@ -1,0 +1,2357 @@
+{
+ "year": 2027,
+ "reference_city": "Delhi",
+ "timezone": "Asia/Kolkata",
+ "computed_at": "2026-10-30",
+ "ayanamsa": "Lahiri",
+ "source": "https://bela.so/festivals/",
+ "license": "CC-BY-4.0",
+ "notes": [
+  "Dates are computed for Delhi (IST) from the engine's festival table; a tithi-based observance can fall a day apart in another longitude.",
+  "muhurat_windows lead with the festival's own windows (kind puja, pradosh, nishita, lagna, snan); the day's Abhijit Muhurat comes last.",
+  "rule names the moment the festival's tithi must prevail at: udaya (sunrise), pradosh, nishita, madhyahna, aparahna, purvahna, sayankala or moonrise; nakshatra and sankranti rows are fixed by the Moon's star or the Sun's sign.",
+  "no_date_festivals lists the festivals that have a date in another published year but none in this one, with the previous and next date at Delhi."
+ ],
+ "festivals": [
+  {
+   "date": "2027-01-03",
+   "weekday": "Sunday",
+   "name": "Saphala Ekadashi",
+   "slug": "saphala-ekadashi",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/saphala-ekadashi/2027/",
+   "tithi": {
+    "name": "Ekadashi",
+    "paksha": "Krishna",
+    "start": "2027-01-02T14:25+05:30",
+    "end": "2027-01-03T16:10+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-01-03T12:05+05:30",
+     "end": "2027-01-03T12:46+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-01-14",
+   "weekday": "Thursday",
+   "name": "Lohri",
+   "slug": "lohri",
+   "rule": "eve_of_makar_sankranti",
+   "url": "https://bela.so/festivals/lohri/2027/",
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-01-14T12:09+05:30",
+     "end": "2027-01-14T12:51+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-01-15",
+   "weekday": "Friday",
+   "name": "Makar Sankranti",
+   "slug": "makar-sankranti",
+   "rule": "sankranti",
+   "url": "https://bela.so/festivals/makar-sankranti/2027/",
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-01-15T12:10+05:30",
+     "end": "2027-01-15T12:51+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-01-15",
+   "weekday": "Friday",
+   "name": "Pongal",
+   "slug": "pongal",
+   "rule": "sankranti",
+   "url": "https://bela.so/festivals/pongal/2027/",
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-01-15T12:10+05:30",
+     "end": "2027-01-15T12:51+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-01-18",
+   "weekday": "Monday",
+   "name": "Pausha Putrada Ekadashi",
+   "slug": "pausha-putrada-ekadashi",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/pausha-putrada-ekadashi/2027/",
+   "tithi": {
+    "name": "Ekadashi",
+    "paksha": "Shukla",
+    "start": "2027-01-18T10:28+05:30",
+    "end": "2027-01-19T07:51+05:30"
+   },
+   "gauna": {
+    "date": "2027-01-19",
+    "weekday": "Tuesday"
+   },
+   "rule_holds": false,
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-01-18T12:10+05:30",
+     "end": "2027-01-18T12:53+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-02-02",
+   "weekday": "Tuesday",
+   "name": "Shattila Ekadashi",
+   "slug": "shattila-ekadashi",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/shattila-ekadashi/2027/",
+   "tithi": {
+    "name": "Ekadashi",
+    "paksha": "Krishna",
+    "start": "2027-02-01T08:43+05:30",
+    "end": "2027-02-02T11:12+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-02-02T12:13+05:30",
+     "end": "2027-02-02T12:57+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-02-11",
+   "weekday": "Thursday",
+   "name": "Vasant Panchami",
+   "slug": "vasant-panchami",
+   "rule": "purvahna",
+   "url": "https://bela.so/festivals/vasant-panchami/2027/",
+   "tithi": {
+    "name": "Panchami",
+    "paksha": "Shukla",
+    "start": "2027-02-11T03:06+05:30",
+    "end": "2027-02-12T03:19+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-02-11T12:13+05:30",
+     "end": "2027-02-11T12:58+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-02-13",
+   "weekday": "Saturday",
+   "name": "Ratha Saptami",
+   "slug": "ratha-saptami",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/ratha-saptami/2027/",
+   "tithi": {
+    "name": "Saptami",
+    "paksha": "Shukla",
+    "start": "2027-02-13T03:00+05:30",
+    "end": "2027-02-14T02:08+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-02-13T12:13+05:30",
+     "end": "2027-02-13T12:58+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-02-17",
+   "weekday": "Wednesday",
+   "name": "Jaya Ekadashi",
+   "slug": "jaya-ekadashi",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/jaya-ekadashi/2027/",
+   "tithi": {
+    "name": "Ekadashi",
+    "paksha": "Shukla",
+    "start": "2027-02-16T20:21+05:30",
+    "end": "2027-02-17T17:33+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-02-17T12:13+05:30",
+     "end": "2027-02-17T12:58+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-03-04",
+   "weekday": "Thursday",
+   "name": "Vijaya Ekadashi",
+   "slug": "vijaya-ekadashi",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/vijaya-ekadashi/2027/",
+   "tithi": {
+    "name": "Ekadashi",
+    "paksha": "Krishna",
+    "start": "2027-03-03T04:46+05:30",
+    "end": "2027-03-04T07:25+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-03-04T12:10+05:30",
+     "end": "2027-03-04T12:56+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-03-06",
+   "weekday": "Saturday",
+   "name": "Maha Shivaratri",
+   "slug": "maha-shivaratri",
+   "rule": "nishita",
+   "url": "https://bela.so/festivals/maha-shivaratri/2027/",
+   "tithi": {
+    "name": "Chaturdashi",
+    "paksha": "Krishna",
+    "start": "2027-03-06T12:05+05:30",
+    "end": "2027-03-07T13:48+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-03-06T12:09+05:30",
+     "end": "2027-03-06T12:56+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-03-18",
+   "weekday": "Thursday",
+   "name": "Amalaki Ekadashi",
+   "slug": "amalaka-ekadashi",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/amalaka-ekadashi/2027/",
+   "tithi": {
+    "name": "Ekadashi",
+    "paksha": "Shukla",
+    "start": "2027-03-18T04:23+05:30",
+    "end": "2027-03-19T01:52+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-03-18T12:06+05:30",
+     "end": "2027-03-18T12:54+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-03-22",
+   "weekday": "Monday",
+   "name": "Holi",
+   "slug": "holi",
+   "rule": "pradosh",
+   "url": "https://bela.so/festivals/holi/2027/",
+   "tithi": {
+    "name": "Purnima",
+    "paksha": "Shukla",
+    "start": "2027-03-21T18:23+05:30",
+    "end": "2027-03-22T16:14+05:30"
+   },
+   "days": [
+    {
+     "date": "2027-03-21",
+     "label": "Holika Dahan",
+     "weekday": "Sunday"
+    },
+    {
+     "date": "2027-03-22",
+     "label": "Rangwali Holi (Dhulandi)",
+     "weekday": "Monday"
+    }
+   ],
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-03-22T12:04+05:30",
+     "end": "2027-03-22T12:53+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-03-30",
+   "weekday": "Tuesday",
+   "name": "Sheetala Ashtami (Basoda)",
+   "slug": "sheetala-ashtami",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/sheetala-ashtami/2027/",
+   "tithi": {
+    "name": "Ashtami",
+    "paksha": "Krishna",
+    "start": "2027-03-29T17:12+05:30",
+    "end": "2027-03-30T19:41+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-03-30T12:01+05:30",
+     "end": "2027-03-30T12:51+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-04-02",
+   "weekday": "Friday",
+   "name": "Papamochani Ekadashi",
+   "slug": "papavimochani-ekadashi",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/papavimochani-ekadashi/2027/",
+   "tithi": {
+    "name": "Ekadashi",
+    "paksha": "Krishna",
+    "start": "2027-04-02T00:46+05:30",
+    "end": "2027-04-03T02:53+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-04-02T12:00+05:30",
+     "end": "2027-04-02T12:50+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-04-07",
+   "weekday": "Wednesday",
+   "name": "Chaitra Navratri",
+   "slug": "chaitra-navratri",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/chaitra-navratri/2027/",
+   "tithi": {
+    "name": "Pratipada",
+    "paksha": "Shukla",
+    "start": "2027-04-07T05:22+05:30",
+    "end": "2027-04-08T04:30+05:30"
+   },
+   "days": [
+    {
+     "date": "2027-04-07",
+     "label": "Ghatasthapana (Pratipada)",
+     "weekday": "Wednesday"
+    },
+    {
+     "date": "2027-04-15",
+     "label": "Ram Navami (Navami)",
+     "weekday": "Thursday"
+    }
+   ],
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-04-07T11:58+05:30",
+     "end": "2027-04-07T12:49+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-04-07",
+   "weekday": "Wednesday",
+   "name": "Ugadi / Gudi Padwa",
+   "slug": "ugadi-gudi-padwa",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/ugadi-gudi-padwa/2027/",
+   "tithi": {
+    "name": "Pratipada",
+    "paksha": "Shukla",
+    "start": "2027-04-07T05:22+05:30",
+    "end": "2027-04-08T04:30+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-04-07T11:58+05:30",
+     "end": "2027-04-07T12:49+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-04-14",
+   "weekday": "Wednesday",
+   "name": "Baisakhi (Mesha Sankranti)",
+   "slug": "baisakhi",
+   "rule": "sankranti",
+   "url": "https://bela.so/festivals/baisakhi/2027/",
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-04-14T11:56+05:30",
+     "end": "2027-04-14T12:47+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-04-14",
+   "weekday": "Wednesday",
+   "name": "Tamil New Year",
+   "slug": "tamil-new-year",
+   "rule": "sankranti",
+   "url": "https://bela.so/festivals/tamil-new-year/2027/",
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-04-14T11:56+05:30",
+     "end": "2027-04-14T12:47+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-04-14",
+   "weekday": "Wednesday",
+   "name": "Vishu",
+   "slug": "vishu",
+   "rule": "sankranti",
+   "url": "https://bela.so/festivals/vishu/2027/",
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-04-14T11:56+05:30",
+     "end": "2027-04-14T12:47+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-04-15",
+   "weekday": "Thursday",
+   "name": "Ram Navami",
+   "slug": "ram-navami",
+   "rule": "madhyahna",
+   "url": "https://bela.so/festivals/ram-navami/2027/",
+   "tithi": {
+    "name": "Navami",
+    "paksha": "Shukla",
+    "start": "2027-04-14T15:25+05:30",
+    "end": "2027-04-15T13:22+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-04-15T11:56+05:30",
+     "end": "2027-04-15T12:47+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-04-17",
+   "weekday": "Saturday",
+   "name": "Kamada Ekadashi",
+   "slug": "kamada-ekadashi",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/kamada-ekadashi/2027/",
+   "tithi": {
+    "name": "Ekadashi",
+    "paksha": "Shukla",
+    "start": "2027-04-16T11:23+05:30",
+    "end": "2027-04-17T09:29+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-04-17T11:55+05:30",
+     "end": "2027-04-17T12:47+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-04-20",
+   "weekday": "Tuesday",
+   "name": "Hanuman Jayanti",
+   "slug": "hanuman-jayanti",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/hanuman-jayanti/2027/",
+   "tithi": {
+    "name": "Purnima",
+    "paksha": "Shukla",
+    "start": "2027-04-20T04:52+05:30",
+    "end": "2027-04-21T03:58+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-04-20T11:54+05:30",
+     "end": "2027-04-20T12:46+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-05-02",
+   "weekday": "Sunday",
+   "name": "Varuthini Ekadashi",
+   "slug": "varuthini-ekadashi",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/varuthini-ekadashi/2027/",
+   "tithi": {
+    "name": "Ekadashi",
+    "paksha": "Krishna",
+    "start": "2027-05-01T18:55+05:30",
+    "end": "2027-05-02T19:53+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-05-02T11:52+05:30",
+     "end": "2027-05-02T12:45+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-05-09",
+   "weekday": "Sunday",
+   "name": "Akshaya Tritiya",
+   "slug": "akshaya-tritiya",
+   "rule": "purvahna",
+   "url": "https://bela.so/festivals/akshaya-tritiya/2027/",
+   "tithi": {
+    "name": "Tritiya",
+    "paksha": "Shukla",
+    "start": "2027-05-08T11:44+05:30",
+    "end": "2027-05-09T09:04+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-05-09T11:51+05:30",
+     "end": "2027-05-09T12:45+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-05-14",
+   "weekday": "Friday",
+   "name": "Sita Navami",
+   "slug": "sita-navami",
+   "rule": "madhyahna",
+   "url": "https://bela.so/festivals/sita-navami/2027/",
+   "tithi": {
+    "name": "Navami",
+    "paksha": "Shukla",
+    "start": "2027-05-13T21:19+05:30",
+    "end": "2027-05-14T19:40+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-05-14T11:51+05:30",
+     "end": "2027-05-14T12:45+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-05-16",
+   "weekday": "Sunday",
+   "name": "Mohini Ekadashi",
+   "slug": "mohini-ekadashi",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/mohini-ekadashi/2027/",
+   "tithi": {
+    "name": "Ekadashi",
+    "paksha": "Shukla",
+    "start": "2027-05-15T18:19+05:30",
+    "end": "2027-05-16T17:15+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-05-16T11:51+05:30",
+     "end": "2027-05-16T12:45+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-05-18",
+   "weekday": "Tuesday",
+   "name": "Narasimha Jayanti",
+   "slug": "narasimha-jayanti",
+   "rule": "sayankala",
+   "url": "https://bela.so/festivals/narasimha-jayanti/2027/",
+   "tithi": {
+    "name": "Chaturdashi",
+    "paksha": "Shukla",
+    "start": "2027-05-18T16:05+05:30",
+    "end": "2027-05-19T16:04+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-05-18T11:51+05:30",
+     "end": "2027-05-18T12:45+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-05-20",
+   "weekday": "Thursday",
+   "name": "Buddha Purnima",
+   "slug": "buddha-purnima",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/buddha-purnima/2027/",
+   "tithi": {
+    "name": "Purnima",
+    "paksha": "Shukla",
+    "start": "2027-05-19T16:04+05:30",
+    "end": "2027-05-20T16:30+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-05-20T11:51+05:30",
+     "end": "2027-05-20T12:45+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-06-01",
+   "weekday": "Tuesday",
+   "name": "Apara Ekadashi",
+   "slug": "apara-ekadashi",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/apara-ekadashi/2027/",
+   "tithi": {
+    "name": "Ekadashi",
+    "paksha": "Krishna",
+    "start": "2027-05-31T10:04+05:30",
+    "end": "2027-06-01T09:41+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-06-01T11:51+05:30",
+     "end": "2027-06-01T12:47+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-06-14",
+   "weekday": "Monday",
+   "name": "Nirjala Ekadashi",
+   "slug": "nirjala-ekadashi",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/nirjala-ekadashi/2027/",
+   "tithi": {
+    "name": "Ekadashi",
+    "paksha": "Shukla",
+    "start": "2027-06-14T02:13+05:30",
+    "end": "2027-06-15T02:09+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-06-14T11:54+05:30",
+     "end": "2027-06-14T12:49+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-06-30",
+   "weekday": "Wednesday",
+   "name": "Yogini Ekadashi",
+   "slug": "yogini-ekadashi",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/yogini-ekadashi/2027/",
+   "tithi": {
+    "name": "Ekadashi",
+    "paksha": "Krishna",
+    "start": "2027-06-29T22:05+05:30",
+    "end": "2027-06-30T20:32+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-06-30T11:57+05:30",
+     "end": "2027-06-30T12:53+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-07-14",
+   "weekday": "Wednesday",
+   "name": "Ashadhi Ekadashi",
+   "slug": "ashadha-ekadashi",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/ashadha-ekadashi/2027/",
+   "tithi": {
+    "name": "Ekadashi",
+    "paksha": "Shukla",
+    "start": "2027-07-13T12:10+05:30",
+    "end": "2027-07-14T13:11+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-07-14T11:59+05:30",
+     "end": "2027-07-14T12:54+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-07-14",
+   "weekday": "Wednesday",
+   "name": "Devshayani Ekadashi",
+   "slug": "devashayani-ekadashi",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/devashayani-ekadashi/2027/",
+   "tithi": {
+    "name": "Ekadashi",
+    "paksha": "Shukla",
+    "start": "2027-07-13T12:10+05:30",
+    "end": "2027-07-14T13:11+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-07-14T11:59+05:30",
+     "end": "2027-07-14T12:54+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-07-18",
+   "weekday": "Sunday",
+   "name": "Guru Purnima",
+   "slug": "guru-purnima",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/guru-purnima/2027/",
+   "tithi": {
+    "name": "Purnima",
+    "paksha": "Shukla",
+    "start": "2027-07-17T18:49+05:30",
+    "end": "2027-07-18T21:16+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-07-18T12:00+05:30",
+     "end": "2027-07-18T12:55+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-07-29",
+   "weekday": "Thursday",
+   "name": "Kamika Ekadashi",
+   "slug": "kamika-ekadashi",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/kamika-ekadashi/2027/",
+   "tithi": {
+    "name": "Ekadashi",
+    "paksha": "Krishna",
+    "start": "2027-07-29T07:35+05:30",
+    "end": "2027-07-30T05:14+05:30"
+   },
+   "gauna": {
+    "date": "2027-07-30",
+    "weekday": "Friday"
+   },
+   "rule_holds": false,
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-07-29T12:00+05:30",
+     "end": "2027-07-29T12:55+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-08-06",
+   "weekday": "Friday",
+   "name": "Nag Panchami",
+   "slug": "nag-panchami",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/nag-panchami/2027/",
+   "tithi": {
+    "name": "Panchami",
+    "paksha": "Shukla",
+    "start": "2027-08-06T02:29+05:30",
+    "end": "2027-08-07T00:24+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-08-06T12:00+05:30",
+     "end": "2027-08-06T12:54+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-08-12",
+   "weekday": "Thursday",
+   "name": "Shravana Putrada Ekadashi",
+   "slug": "shravana-putrada-ekadashi",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/shravana-putrada-ekadashi/2027/",
+   "tithi": {
+    "name": "Ekadashi",
+    "paksha": "Shukla",
+    "start": "2027-08-12T01:00+05:30",
+    "end": "2027-08-13T03:01+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-08-12T12:00+05:30",
+     "end": "2027-08-12T12:53+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-08-13",
+   "weekday": "Friday",
+   "name": "Varalakshmi Vratam",
+   "slug": "varalakshmi-vratam",
+   "rule": "friday_before_shravana_purnima",
+   "url": "https://bela.so/festivals/varalakshmi-vratam/2027/",
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-08-13T12:00+05:30",
+     "end": "2027-08-13T12:52+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-08-17",
+   "weekday": "Tuesday",
+   "name": "Raksha Bandhan",
+   "slug": "raksha-bandhan",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/raksha-bandhan/2027/",
+   "tithi": {
+    "name": "Purnima",
+    "paksha": "Shukla",
+    "start": "2027-08-16T10:30+05:30",
+    "end": "2027-08-17T12:59+05:30"
+   },
+   "windows": [
+    {
+     "name": "Rakhi muhurat (Purnima, outside Bhadra)",
+     "kind": "puja",
+     "city": "Delhi",
+     "start": "2027-08-17T05:52+05:30",
+     "end": "2027-08-17T12:59+05:30"
+    },
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-08-17T11:59+05:30",
+     "end": "2027-08-17T12:51+05:30"
+    }
+   ],
+   "city_windows": {
+    "name": "Rakhi muhurat (Purnima, outside Bhadra)",
+    "kind": "puja",
+    "cities": [
+     {
+      "city": "Agra",
+      "start": "2027-08-17T05:51+05:30",
+      "end": "2027-08-17T12:59+05:30"
+     },
+     {
+      "city": "Ahmedabad",
+      "start": "2027-08-17T06:18+05:30",
+      "end": "2027-08-17T12:59+05:30"
+     },
+     {
+      "city": "Bengaluru",
+      "start": "2027-08-17T06:09+05:30",
+      "end": "2027-08-17T12:59+05:30"
+     },
+     {
+      "city": "Bhopal",
+      "start": "2027-08-17T05:58+05:30",
+      "end": "2027-08-17T12:59+05:30"
+     },
+     {
+      "city": "Chandigarh",
+      "start": "2027-08-17T05:51+05:30",
+      "end": "2027-08-17T12:59+05:30"
+     },
+     {
+      "city": "Chennai",
+      "start": "2027-08-17T05:58+05:30",
+      "end": "2027-08-17T12:59+05:30"
+     },
+     {
+      "city": "Coimbatore",
+      "start": "2027-08-17T06:13+05:30",
+      "end": "2027-08-17T12:59+05:30"
+     },
+     {
+      "city": "Delhi",
+      "start": "2027-08-17T05:52+05:30",
+      "end": "2027-08-17T12:59+05:30"
+     },
+     {
+      "city": "Hyderabad",
+      "start": "2027-08-17T06:00+05:30",
+      "end": "2027-08-17T12:59+05:30"
+     },
+     {
+      "city": "Indore",
+      "start": "2027-08-17T06:05+05:30",
+      "end": "2027-08-17T12:59+05:30"
+     },
+     {
+      "city": "Jaipur",
+      "start": "2027-08-17T06:00+05:30",
+      "end": "2027-08-17T12:59+05:30"
+     },
+     {
+      "city": "Kanpur",
+      "start": "2027-08-17T05:42+05:30",
+      "end": "2027-08-17T12:59+05:30"
+     },
+     {
+      "city": "Kolkata",
+      "start": "2027-08-17T05:15+05:30",
+      "end": "2027-08-17T12:59+05:30"
+     },
+     {
+      "city": "Lucknow",
+      "start": "2027-08-17T05:40+05:30",
+      "end": "2027-08-17T12:59+05:30"
+     },
+     {
+      "city": "Ludhiana",
+      "start": "2027-08-17T05:55+05:30",
+      "end": "2027-08-17T12:59+05:30"
+     },
+     {
+      "city": "Mumbai",
+      "start": "2027-08-17T06:21+05:30",
+      "end": "2027-08-17T12:59+05:30"
+     },
+     {
+      "city": "Nagpur",
+      "start": "2027-08-17T05:54+05:30",
+      "end": "2027-08-17T12:59+05:30"
+     },
+     {
+      "city": "Patna",
+      "start": "2027-08-17T05:24+05:30",
+      "end": "2027-08-17T12:59+05:30"
+     },
+     {
+      "city": "Pune",
+      "start": "2027-08-17T06:18+05:30",
+      "end": "2027-08-17T12:59+05:30"
+     },
+     {
+      "city": "Surat",
+      "start": "2027-08-17T06:19+05:30",
+      "end": "2027-08-17T12:59+05:30"
+     },
+     {
+      "city": "Varanasi",
+      "start": "2027-08-17T05:33+05:30",
+      "end": "2027-08-17T12:59+05:30"
+     }
+    ]
+   }
+  },
+  {
+   "date": "2027-08-25",
+   "weekday": "Wednesday",
+   "name": "Krishna Janmashtami",
+   "slug": "janmashtami",
+   "rule": "nishita",
+   "url": "https://bela.so/festivals/janmashtami/2027/",
+   "tithi": {
+    "name": "Ashtami",
+    "paksha": "Krishna",
+    "start": "2027-08-24T20:26+05:30",
+    "end": "2027-08-25T19:21+05:30"
+   },
+   "rule_holds": false,
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-08-25T11:57+05:30",
+     "end": "2027-08-25T12:49+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-08-28",
+   "weekday": "Saturday",
+   "name": "Aja Ekadashi (Annada)",
+   "slug": "annada-aja-ekadashi",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/annada-aja-ekadashi/2027/",
+   "tithi": {
+    "name": "Ekadashi",
+    "paksha": "Krishna",
+    "start": "2027-08-27T15:26+05:30",
+    "end": "2027-08-28T12:43+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-08-28T11:57+05:30",
+     "end": "2027-08-28T12:48+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-09-03",
+   "weekday": "Friday",
+   "name": "Hartalika Teej",
+   "slug": "hartalika-teej",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/hartalika-teej/2027/",
+   "tithi": {
+    "name": "Tritiya",
+    "paksha": "Shukla",
+    "start": "2027-09-02T16:51+05:30",
+    "end": "2027-09-03T14:20+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-09-03T11:55+05:30",
+     "end": "2027-09-03T12:46+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-09-04",
+   "weekday": "Saturday",
+   "name": "Ganesh Chaturthi",
+   "slug": "ganesh-chaturthi",
+   "rule": "madhyahna",
+   "url": "https://bela.so/festivals/ganesh-chaturthi/2027/",
+   "tithi": {
+    "name": "Chaturthi",
+    "paksha": "Shukla",
+    "start": "2027-09-03T14:20+05:30",
+    "end": "2027-09-04T12:27+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-09-04T11:55+05:30",
+     "end": "2027-09-04T12:45+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-09-11",
+   "weekday": "Saturday",
+   "name": "Parsva Ekadashi",
+   "slug": "parsva-ekadashi",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/parsva-ekadashi/2027/",
+   "tithi": {
+    "name": "Ekadashi",
+    "paksha": "Shukla",
+    "start": "2027-09-10T17:02+05:30",
+    "end": "2027-09-11T19:37+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-09-11T11:53+05:30",
+     "end": "2027-09-11T12:43+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-09-12",
+   "weekday": "Sunday",
+   "name": "Onam (Thiruvonam)",
+   "slug": "onam",
+   "rule": "nakshatra",
+   "url": "https://bela.so/festivals/onam/2027/",
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-09-12T11:53+05:30",
+     "end": "2027-09-12T12:42+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-09-14",
+   "weekday": "Tuesday",
+   "name": "Anant Chaturdashi",
+   "slug": "anant-chaturdashi",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/anant-chaturdashi/2027/",
+   "tithi": {
+    "name": "Chaturdashi",
+    "paksha": "Shukla",
+    "start": "2027-09-14T00:41+05:30",
+    "end": "2027-09-15T02:49+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-09-14T11:52+05:30",
+     "end": "2027-09-14T12:41+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-09-16",
+   "weekday": "Thursday",
+   "name": "Pitru Paksha (Mahalaya)",
+   "slug": "pitru-paksha",
+   "rule": "aparahna",
+   "url": "https://bela.so/festivals/pitru-paksha/2027/",
+   "tithi": {
+    "name": "Pratipada",
+    "paksha": "Krishna",
+    "start": "2027-09-16T04:34+05:30",
+    "end": "2027-09-17T05:53+05:30"
+   },
+   "days": [
+    {
+     "date": "2027-09-16",
+     "label": "Pitru Paksha begins",
+     "weekday": "Thursday"
+    },
+    {
+     "date": "2027-09-29",
+     "label": "Sarva Pitru Amavasya",
+     "weekday": "Wednesday"
+    }
+   ],
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-09-16T11:51+05:30",
+     "end": "2027-09-16T12:41+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-09-26",
+   "weekday": "Sunday",
+   "name": "Indira Ekadashi",
+   "slug": "indira-ekadashi",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/indira-ekadashi/2027/",
+   "tithi": {
+    "name": "Ekadashi",
+    "paksha": "Krishna",
+    "start": "2027-09-25T22:32+05:30",
+    "end": "2027-09-26T19:51+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-09-26T11:48+05:30",
+     "end": "2027-09-26T12:36+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-09-30",
+   "weekday": "Thursday",
+   "name": "Sharad Navratri",
+   "slug": "sharad-navratri",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/sharad-navratri/2027/",
+   "tithi": {
+    "name": "Pratipada",
+    "paksha": "Shukla",
+    "start": "2027-09-30T08:07+05:30",
+    "end": "2027-10-01T05:36+05:30"
+   },
+   "days": [
+    {
+     "date": "2027-09-30",
+     "label": "Ghatasthapana (Pratipada)",
+     "weekday": "Thursday"
+    },
+    {
+     "date": "2027-10-07",
+     "label": "Durga Ashtami",
+     "weekday": "Thursday"
+    },
+    {
+     "date": "2027-10-08",
+     "label": "Maha Navami",
+     "weekday": "Friday"
+    },
+    {
+     "date": "2027-10-09",
+     "label": "Vijayadashami (Dussehra)",
+     "weekday": "Saturday"
+    }
+   ],
+   "rule_holds": false,
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-09-30T11:47+05:30",
+     "end": "2027-09-30T12:35+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-10-07",
+   "weekday": "Thursday",
+   "name": "Durga Ashtami (Maha Ashtami)",
+   "slug": "durga-ashtami",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/durga-ashtami/2027/",
+   "tithi": {
+    "name": "Ashtami",
+    "paksha": "Shukla",
+    "start": "2027-10-07T04:14+05:30",
+    "end": "2027-10-08T06:29+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-10-07T11:46+05:30",
+     "end": "2027-10-07T12:32+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-10-08",
+   "weekday": "Friday",
+   "name": "Maha Navami",
+   "slug": "maha-navami",
+   "rule": "aparahna",
+   "url": "https://bela.so/festivals/maha-navami/2027/",
+   "tithi": {
+    "name": "Navami",
+    "paksha": "Shukla",
+    "start": "2027-10-08T06:29+05:30",
+    "end": "2027-10-09T09:03+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-10-08T11:45+05:30",
+     "end": "2027-10-08T12:32+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-10-09",
+   "weekday": "Saturday",
+   "name": "Dussehra (Vijayadashami)",
+   "slug": "dussehra",
+   "rule": "aparahna",
+   "url": "https://bela.so/festivals/dussehra/2027/",
+   "tithi": {
+    "name": "Dashami",
+    "paksha": "Shukla",
+    "start": "2027-10-09T09:03+05:30",
+    "end": "2027-10-10T11:42+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-10-09T11:45+05:30",
+     "end": "2027-10-09T12:32+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-10-11",
+   "weekday": "Monday",
+   "name": "Papankusha Ekadashi",
+   "slug": "pasankusa-ekadashi",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/pasankusa-ekadashi/2027/",
+   "tithi": {
+    "name": "Ekadashi",
+    "paksha": "Shukla",
+    "start": "2027-10-10T11:42+05:30",
+    "end": "2027-10-11T14:10+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-10-11T11:45+05:30",
+     "end": "2027-10-11T12:31+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-10-14",
+   "weekday": "Thursday",
+   "name": "Sharad Purnima (Kojagari)",
+   "slug": "sharad-purnima",
+   "rule": "nishita",
+   "url": "https://bela.so/festivals/sharad-purnima/2027/",
+   "tithi": {
+    "name": "Purnima",
+    "paksha": "Shukla",
+    "start": "2027-10-14T18:50+05:30",
+    "end": "2027-10-15T19:18+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-10-14T11:44+05:30",
+     "end": "2027-10-14T12:30+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-10-18",
+   "weekday": "Monday",
+   "name": "Karwa Chauth",
+   "slug": "karwa-chauth",
+   "rule": "moonrise",
+   "url": "https://bela.so/festivals/karwa-chauth/2027/",
+   "tithi": {
+    "name": "Chaturthi",
+    "paksha": "Krishna",
+    "start": "2027-10-18T17:53+05:30",
+    "end": "2027-10-19T16:43+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-10-18T11:43+05:30",
+     "end": "2027-10-18T12:29+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-10-22",
+   "weekday": "Friday",
+   "name": "Ahoi Ashtami",
+   "slug": "ahoi-ashtami",
+   "rule": "moonrise",
+   "url": "https://bela.so/festivals/ahoi-ashtami/2027/",
+   "tithi": {
+    "name": "Ashtami",
+    "paksha": "Krishna",
+    "start": "2027-10-22T11:57+05:30",
+    "end": "2027-10-23T10:00+05:30"
+   },
+   "moments": [
+    {
+     "at": "2027-10-22T18:09+05:30",
+     "name": "Star sighting (tare)"
+    },
+    {
+     "at": "2027-10-22T23:41+05:30",
+     "name": "Moonrise"
+    }
+   ],
+   "windows": [
+    {
+     "name": "Ahoi Ashtami puja muhurat",
+     "kind": "puja",
+     "city": "Delhi",
+     "start": "2027-10-22T17:45+05:30",
+     "end": "2027-10-22T19:01+05:30"
+    },
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-10-22T11:43+05:30",
+     "end": "2027-10-22T12:28+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-10-25",
+   "weekday": "Monday",
+   "name": "Rama Ekadashi",
+   "slug": "ramaa-ekadashi",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/ramaa-ekadashi/2027/",
+   "tithi": {
+    "name": "Ekadashi",
+    "paksha": "Krishna",
+    "start": "2027-10-25T05:41+05:30",
+    "end": "2027-10-26T03:23+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-10-25T11:43+05:30",
+     "end": "2027-10-25T12:27+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-10-27",
+   "weekday": "Wednesday",
+   "name": "Dhanteras (Dhantrayodashi)",
+   "slug": "dhanteras",
+   "rule": "pradosh",
+   "url": "https://bela.so/festivals/dhanteras/2027/",
+   "tithi": {
+    "name": "Trayodashi",
+    "paksha": "Krishna",
+    "start": "2027-10-27T01:05+05:30",
+    "end": "2027-10-27T22:51+05:30"
+   },
+   "windows": [
+    {
+     "name": "Dhanteras puja muhurat",
+     "kind": "puja",
+     "city": "Delhi",
+     "start": "2027-10-27T18:43+05:30",
+     "end": "2027-10-27T20:14+05:30"
+    },
+    {
+     "name": "Pradosh Kaal",
+     "kind": "pradosh",
+     "city": "Delhi",
+     "start": "2027-10-27T17:40+05:30",
+     "end": "2027-10-27T20:14+05:30"
+    },
+    {
+     "name": "Vrishabha Kaal (Taurus rising)",
+     "kind": "lagna",
+     "city": "Delhi",
+     "start": "2027-10-27T18:43+05:30",
+     "end": "2027-10-27T20:38+05:30"
+    },
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-10-27T11:43+05:30",
+     "end": "2027-10-27T12:27+05:30"
+    }
+   ],
+   "city_windows": {
+    "name": "Dhanteras puja muhurat",
+    "kind": "puja",
+    "cities": [
+     {
+      "city": "Agra",
+      "start": "2027-10-27T18:42+05:30",
+      "end": "2027-10-27T20:12+05:30"
+     },
+     {
+      "city": "Ahmedabad",
+      "start": "2027-10-27T19:11+05:30",
+      "end": "2027-10-27T20:37+05:30"
+     },
+     {
+      "city": "Bengaluru",
+      "start": "2027-10-27T19:06+05:30",
+      "end": "2027-10-27T20:22+05:30"
+     },
+     {
+      "city": "Bhopal",
+      "start": "2027-10-27T18:51+05:30",
+      "end": "2027-10-27T20:17+05:30"
+     },
+     {
+      "city": "Chandigarh",
+      "start": "2027-10-27T18:40+05:30",
+      "end": "2027-10-27T20:15+05:30"
+     },
+     {
+      "city": "Chennai",
+      "start": "2027-10-27T18:55+05:30",
+      "end": "2027-10-27T20:12+05:30"
+     },
+     {
+      "city": "Coimbatore",
+      "start": "2027-10-27T19:11+05:30",
+      "end": "2027-10-27T20:26+05:30"
+     },
+     {
+      "city": "Delhi",
+      "start": "2027-10-27T18:43+05:30",
+      "end": "2027-10-27T20:14+05:30"
+     },
+     {
+      "city": "Hyderabad",
+      "start": "2027-10-27T18:56+05:30",
+      "end": "2027-10-27T20:16+05:30"
+     },
+     {
+      "city": "Indore",
+      "start": "2027-10-27T18:58+05:30",
+      "end": "2027-10-27T20:24+05:30"
+     },
+     {
+      "city": "Jaipur",
+      "start": "2027-10-27T18:51+05:30",
+      "end": "2027-10-27T20:21+05:30"
+     },
+     {
+      "city": "Kanpur",
+      "start": "2027-10-27T18:34+05:30",
+      "end": "2027-10-27T20:03+05:30"
+     },
+     {
+      "city": "Kolkata",
+      "start": "2027-10-27T18:08+05:30",
+      "end": "2027-10-27T19:34+05:30"
+     },
+     {
+      "city": "Lucknow",
+      "start": "2027-10-27T18:31+05:30",
+      "end": "2027-10-27T20:01+05:30"
+     },
+     {
+      "city": "Ludhiana",
+      "start": "2027-10-27T18:44+05:30",
+      "end": "2027-10-27T20:18+05:30"
+     },
+     {
+      "city": "Mumbai",
+      "start": "2027-10-27T19:16+05:30",
+      "end": "2027-10-27T20:38+05:30"
+     },
+     {
+      "city": "Nagpur",
+      "start": "2027-10-27T18:48+05:30",
+      "end": "2027-10-27T20:12+05:30"
+     },
+     {
+      "city": "Patna",
+      "start": "2027-10-27T18:16+05:30",
+      "end": "2027-10-27T19:45+05:30"
+     },
+     {
+      "city": "Pune",
+      "start": "2027-10-27T19:13+05:30",
+      "end": "2027-10-27T20:34+05:30"
+     },
+     {
+      "city": "Surat",
+      "start": "2027-10-27T19:13+05:30",
+      "end": "2027-10-27T20:37+05:30"
+     },
+     {
+      "city": "Varanasi",
+      "start": "2027-10-27T18:25+05:30",
+      "end": "2027-10-27T19:53+05:30"
+     }
+    ]
+   }
+  },
+  {
+   "date": "2027-10-28",
+   "weekday": "Thursday",
+   "name": "Kali Puja",
+   "slug": "kali-puja",
+   "rule": "nishita",
+   "url": "https://bela.so/festivals/kali-puja/2027/",
+   "tithi": {
+    "name": "Amavasya",
+    "paksha": "Krishna",
+    "start": "2027-10-28T20:49+05:30",
+    "end": "2027-10-29T19:07+05:30"
+   },
+   "windows": [
+    {
+     "name": "Kali Puja (Nishita Kaal)",
+     "kind": "puja",
+     "city": "Delhi",
+     "start": "2027-10-28T23:39+05:30",
+     "end": "2027-10-29T00:31+05:30"
+    },
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-10-28T11:43+05:30",
+     "end": "2027-10-28T12:27+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-10-28",
+   "weekday": "Thursday",
+   "name": "Naraka Chaturdashi (Choti Diwali)",
+   "slug": "naraka-chaturdashi",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/naraka-chaturdashi/2027/",
+   "tithi": {
+    "name": "Chaturdashi",
+    "paksha": "Krishna",
+    "start": "2027-10-27T22:51+05:30",
+    "end": "2027-10-28T20:49+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhyang Snan (moonrise to sunrise)",
+     "kind": "snan",
+     "city": "Delhi",
+     "start": "2027-10-28T05:06+05:30",
+     "end": "2027-10-28T06:30+05:30"
+    },
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-10-28T11:43+05:30",
+     "end": "2027-10-28T12:27+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-10-29",
+   "weekday": "Friday",
+   "name": "Diwali (Lakshmi Puja)",
+   "slug": "diwali",
+   "rule": "pradosh",
+   "url": "https://bela.so/festivals/diwali/2027/",
+   "tithi": {
+    "name": "Amavasya",
+    "paksha": "Krishna",
+    "start": "2027-10-28T20:49+05:30",
+    "end": "2027-10-29T19:07+05:30"
+   },
+   "windows": [
+    {
+     "name": "Lakshmi Puja muhurat",
+     "kind": "puja",
+     "city": "Delhi",
+     "start": "2027-10-29T18:35+05:30",
+     "end": "2027-10-29T19:07+05:30"
+    },
+    {
+     "name": "Pradosh Kaal",
+     "kind": "pradosh",
+     "city": "Delhi",
+     "start": "2027-10-29T17:39+05:30",
+     "end": "2027-10-29T20:13+05:30"
+    },
+    {
+     "name": "Vrishabha Kaal (Taurus rising)",
+     "kind": "lagna",
+     "city": "Delhi",
+     "start": "2027-10-29T18:35+05:30",
+     "end": "2027-10-29T20:30+05:30"
+    },
+    {
+     "name": "Mahanishita Kaal (no puja window: Amavasya has ended)",
+     "kind": "nishita",
+     "city": "Delhi",
+     "start": "2027-10-29T23:39+05:30",
+     "end": "2027-10-30T00:31+05:30"
+    },
+    {
+     "name": "Simha Kaal (Leo rising)",
+     "kind": "lagna",
+     "city": "Delhi",
+     "start": "2027-10-30T01:05+05:30",
+     "end": "2027-10-30T03:23+05:30"
+    },
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-10-29T11:43+05:30",
+     "end": "2027-10-29T12:27+05:30"
+    }
+   ],
+   "city_windows": {
+    "name": "Lakshmi Puja muhurat",
+    "kind": "puja",
+    "cities": [
+     {
+      "city": "Agra",
+      "start": "2027-10-29T18:34+05:30",
+      "end": "2027-10-29T19:07+05:30"
+     },
+     {
+      "city": "Ahmedabad",
+      "start": "2027-10-29T18:04+05:30",
+      "end": "2027-10-29T19:07+05:30",
+      "window": "Pradosh Kaal while Amavasya lasts (no fixed lagna holds for a full ghati before it ends)"
+     },
+     {
+      "city": "Bengaluru",
+      "start": "2027-10-29T17:54+05:30",
+      "end": "2027-10-29T19:07+05:30",
+      "window": "Pradosh Kaal while Amavasya lasts (no fixed lagna holds for a full ghati before it ends)"
+     },
+     {
+      "city": "Bhopal",
+      "start": "2027-10-29T17:44+05:30",
+      "end": "2027-10-29T19:07+05:30",
+      "window": "Pradosh Kaal while Amavasya lasts (no fixed lagna holds for a full ghati before it ends)"
+     },
+     {
+      "city": "Chandigarh",
+      "start": "2027-10-29T18:33+05:30",
+      "end": "2027-10-29T19:07+05:30"
+     },
+     {
+      "city": "Chennai",
+      "start": "2027-10-29T17:43+05:30",
+      "end": "2027-10-29T19:07+05:30",
+      "window": "Pradosh Kaal while Amavasya lasts (no fixed lagna holds for a full ghati before it ends)"
+     },
+     {
+      "city": "Coimbatore",
+      "start": "2027-10-29T17:59+05:30",
+      "end": "2027-10-29T19:07+05:30",
+      "window": "Pradosh Kaal while Amavasya lasts (no fixed lagna holds for a full ghati before it ends)"
+     },
+     {
+      "city": "Delhi",
+      "start": "2027-10-29T18:35+05:30",
+      "end": "2027-10-29T19:07+05:30"
+     },
+     {
+      "city": "Hyderabad",
+      "start": "2027-10-29T17:46+05:30",
+      "end": "2027-10-29T19:07+05:30",
+      "window": "Pradosh Kaal while Amavasya lasts (no fixed lagna holds for a full ghati before it ends)"
+     },
+     {
+      "city": "Indore",
+      "start": "2027-10-29T17:51+05:30",
+      "end": "2027-10-29T19:07+05:30",
+      "window": "Pradosh Kaal while Amavasya lasts (no fixed lagna holds for a full ghati before it ends)"
+     },
+     {
+      "city": "Jaipur",
+      "start": "2027-10-29T17:46+05:30",
+      "end": "2027-10-29T19:07+05:30",
+      "window": "Pradosh Kaal while Amavasya lasts (no fixed lagna holds for a full ghati before it ends)"
+     },
+     {
+      "city": "Kanpur",
+      "start": "2027-10-29T18:26+05:30",
+      "end": "2027-10-29T19:07+05:30"
+     },
+     {
+      "city": "Kolkata",
+      "start": "2027-10-29T18:00+05:30",
+      "end": "2027-10-29T19:07+05:30"
+     },
+     {
+      "city": "Lucknow",
+      "start": "2027-10-29T18:23+05:30",
+      "end": "2027-10-29T19:07+05:30"
+     },
+     {
+      "city": "Ludhiana",
+      "start": "2027-10-29T18:36+05:30",
+      "end": "2027-10-29T19:07+05:30"
+     },
+     {
+      "city": "Mumbai",
+      "start": "2027-10-29T18:07+05:30",
+      "end": "2027-10-29T19:07+05:30",
+      "window": "Pradosh Kaal while Amavasya lasts (no fixed lagna holds for a full ghati before it ends)"
+     },
+     {
+      "city": "Nagpur",
+      "start": "2027-10-29T18:40+05:30",
+      "end": "2027-10-29T19:07+05:30"
+     },
+     {
+      "city": "Patna",
+      "start": "2027-10-29T18:08+05:30",
+      "end": "2027-10-29T19:07+05:30"
+     },
+     {
+      "city": "Pune",
+      "start": "2027-10-29T18:03+05:30",
+      "end": "2027-10-29T19:07+05:30",
+      "window": "Pradosh Kaal while Amavasya lasts (no fixed lagna holds for a full ghati before it ends)"
+     },
+     {
+      "city": "Surat",
+      "start": "2027-10-29T18:05+05:30",
+      "end": "2027-10-29T19:07+05:30",
+      "window": "Pradosh Kaal while Amavasya lasts (no fixed lagna holds for a full ghati before it ends)"
+     },
+     {
+      "city": "Varanasi",
+      "start": "2027-10-29T18:17+05:30",
+      "end": "2027-10-29T19:07+05:30"
+     }
+    ]
+   }
+  },
+  {
+   "date": "2027-10-30",
+   "weekday": "Saturday",
+   "name": "Govardhan Puja",
+   "slug": "govardhan-puja",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/govardhan-puja/2027/",
+   "tithi": {
+    "name": "Pratipada",
+    "paksha": "Shukla",
+    "start": "2027-10-29T19:07+05:30",
+    "end": "2027-10-30T17:53+05:30"
+   },
+   "windows": [
+    {
+     "name": "Govardhan Puja (Pratahkala)",
+     "kind": "puja",
+     "city": "Delhi",
+     "start": "2027-10-30T06:31+05:30",
+     "end": "2027-10-30T08:45+05:30"
+    },
+    {
+     "name": "Govardhan Puja (Sayankala)",
+     "kind": "puja",
+     "city": "Delhi",
+     "start": "2027-10-30T15:25+05:30",
+     "end": "2027-10-30T17:38+05:30"
+    },
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-10-30T11:43+05:30",
+     "end": "2027-10-30T12:27+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-10-31",
+   "weekday": "Sunday",
+   "name": "Bhai Dooj",
+   "slug": "bhai-dooj",
+   "rule": "aparahna",
+   "url": "https://bela.so/festivals/bhai-dooj/2027/",
+   "tithi": {
+    "name": "Dwitiya",
+    "paksha": "Shukla",
+    "start": "2027-10-30T17:53+05:30",
+    "end": "2027-10-31T17:14+05:30"
+   },
+   "windows": [
+    {
+     "name": "Bhai Dooj tilak (Aparahna)",
+     "kind": "puja",
+     "city": "Delhi",
+     "start": "2027-10-31T13:11+05:30",
+     "end": "2027-10-31T15:24+05:30"
+    },
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-10-31T11:43+05:30",
+     "end": "2027-10-31T12:27+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-11-04",
+   "weekday": "Thursday",
+   "name": "Chhath Puja",
+   "slug": "chhath-puja",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/chhath-puja/2027/",
+   "tithi": {
+    "name": "Shashthi",
+    "paksha": "Shukla",
+    "start": "2027-11-03T19:33+05:30",
+    "end": "2027-11-04T21:39+05:30"
+   },
+   "days": [
+    {
+     "date": "2027-11-02",
+     "label": "Nahay Khay",
+     "weekday": "Tuesday"
+    },
+    {
+     "date": "2027-11-03",
+     "label": "Kharna",
+     "weekday": "Wednesday"
+    },
+    {
+     "date": "2027-11-04",
+     "label": "Sandhya Arghya",
+     "weekday": "Thursday"
+    },
+    {
+     "date": "2027-11-05",
+     "label": "Usha Arghya",
+     "weekday": "Friday"
+    }
+   ],
+   "moments": [
+    {
+     "at": "2027-11-04T17:34+05:30",
+     "name": "Sandhya Arghya (sunset)"
+    },
+    {
+     "at": "2027-11-05T06:36+05:30",
+     "name": "Usha Arghya (sunrise)"
+    }
+   ],
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-11-04T11:43+05:30",
+     "end": "2027-11-04T12:26+05:30"
+    }
+   ],
+   "city_moments": [
+    {
+     "city": "Agra",
+     "sunrise": "2027-11-05T06:30+05:30",
+     "sunset": "2027-11-04T17:33+05:30"
+    },
+    {
+     "city": "Ahmedabad",
+     "sunrise": "2027-11-05T06:47+05:30",
+     "sunset": "2027-11-04T18:00+05:30"
+    },
+    {
+     "city": "Bengaluru",
+     "sunrise": "2027-11-05T06:14+05:30",
+     "sunset": "2027-11-04T17:52+05:30"
+    },
+    {
+     "city": "Bhopal",
+     "sunrise": "2027-11-05T06:28+05:30",
+     "sunset": "2027-11-04T17:41+05:30"
+    },
+    {
+     "city": "Chandigarh",
+     "sunrise": "2027-11-05T06:40+05:30",
+     "sunset": "2027-11-04T17:33+05:30"
+    },
+    {
+     "city": "Chennai",
+     "sunrise": "2027-11-05T06:04+05:30",
+     "sunset": "2027-11-04T17:41+05:30"
+    },
+    {
+     "city": "Coimbatore",
+     "sunrise": "2027-11-05T06:15+05:30",
+     "sunset": "2027-11-04T17:57+05:30"
+    },
+    {
+     "city": "Delhi",
+     "sunrise": "2027-11-05T06:36+05:30",
+     "sunset": "2027-11-04T17:34+05:30"
+    },
+    {
+     "city": "Hyderabad",
+     "sunrise": "2027-11-05T06:16+05:30",
+     "sunset": "2027-11-04T17:43+05:30"
+    },
+    {
+     "city": "Indore",
+     "sunrise": "2027-11-05T06:33+05:30",
+     "sunset": "2027-11-04T17:47+05:30"
+    },
+    {
+     "city": "Jaipur",
+     "sunrise": "2027-11-05T06:39+05:30",
+     "sunset": "2027-11-04T17:42+05:30"
+    },
+    {
+     "city": "Kanpur",
+     "sunrise": "2027-11-05T06:20+05:30",
+     "sunset": "2027-11-04T17:25+05:30"
+    },
+    {
+     "city": "Kolkata",
+     "sunrise": "2027-11-05T05:43+05:30",
+     "sunset": "2027-11-04T16:58+05:30"
+    },
+    {
+     "city": "Lucknow",
+     "sunrise": "2027-11-05T06:18+05:30",
+     "sunset": "2027-11-04T17:22+05:30"
+    },
+    {
+     "city": "Ludhiana",
+     "sunrise": "2027-11-05T06:44+05:30",
+     "sunset": "2027-11-04T17:36+05:30"
+    },
+    {
+     "city": "Mumbai",
+     "sunrise": "2027-11-05T06:41+05:30",
+     "sunset": "2027-11-04T18:04+05:30"
+    },
+    {
+     "city": "Nagpur",
+     "sunrise": "2027-11-05T06:18+05:30",
+     "sunset": "2027-11-04T17:36+05:30"
+    },
+    {
+     "city": "Patna",
+     "sunrise": "2027-11-05T06:00+05:30",
+     "sunset": "2027-11-04T17:07+05:30"
+    },
+    {
+     "city": "Pune",
+     "sunrise": "2027-11-05T06:36+05:30",
+     "sunset": "2027-11-04T18:01+05:30"
+    },
+    {
+     "city": "Surat",
+     "sunrise": "2027-11-05T06:43+05:30",
+     "sunset": "2027-11-04T18:01+05:30"
+    },
+    {
+     "city": "Varanasi",
+     "sunrise": "2027-11-05T06:08+05:30",
+     "sunset": "2027-11-04T17:15+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-11-10",
+   "weekday": "Wednesday",
+   "name": "Devutthana Ekadashi (Prabodhini)",
+   "slug": "prabodhini-devuthana-ekadashi",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/prabodhini-devuthana-ekadashi/2027/",
+   "tithi": {
+    "name": "Ekadashi",
+    "paksha": "Shukla",
+    "start": "2027-11-09T07:36+05:30",
+    "end": "2027-11-10T09:12+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-11-10T11:43+05:30",
+     "end": "2027-11-10T12:26+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-11-24",
+   "weekday": "Wednesday",
+   "name": "Utpanna Ekadashi",
+   "slug": "utpanna-ekadashi",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/utpanna-ekadashi/2027/",
+   "tithi": {
+    "name": "Ekadashi",
+    "paksha": "Krishna",
+    "start": "2027-11-23T13:46+05:30",
+    "end": "2027-11-24T12:12+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-11-24T11:47+05:30",
+     "end": "2027-11-24T12:29+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-12-03",
+   "weekday": "Friday",
+   "name": "Vivaha Panchami",
+   "slug": "vivaha-panchami",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/vivaha-panchami/2027/",
+   "tithi": {
+    "name": "Panchami",
+    "paksha": "Shukla",
+    "start": "2027-12-02T13:45+05:30",
+    "end": "2027-12-03T16:15+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-12-03T11:50+05:30",
+     "end": "2027-12-03T12:32+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-12-09",
+   "weekday": "Thursday",
+   "name": "Gita Jayanti",
+   "slug": "gita-jayanti",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/gita-jayanti/2027/",
+   "tithi": {
+    "name": "Ekadashi",
+    "paksha": "Shukla",
+    "start": "2027-12-09T03:00+05:30",
+    "end": "2027-12-10T03:21+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-12-09T11:53+05:30",
+     "end": "2027-12-09T12:34+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-12-09",
+   "weekday": "Thursday",
+   "name": "Guruvayur Ekadashi",
+   "slug": "guruvayur-ekadashi",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/guruvayur-ekadashi/2027/",
+   "tithi": {
+    "name": "Ekadashi",
+    "paksha": "Shukla",
+    "start": "2027-12-09T03:00+05:30",
+    "end": "2027-12-10T03:21+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-12-09T11:53+05:30",
+     "end": "2027-12-09T12:34+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-12-09",
+   "weekday": "Thursday",
+   "name": "Mokshada Ekadashi",
+   "slug": "mokshadha-ekadashi",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/mokshadha-ekadashi/2027/",
+   "tithi": {
+    "name": "Ekadashi",
+    "paksha": "Shukla",
+    "start": "2027-12-09T03:00+05:30",
+    "end": "2027-12-10T03:21+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-12-09T11:53+05:30",
+     "end": "2027-12-09T12:34+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-12-13",
+   "weekday": "Monday",
+   "name": "Karthigai Deepam",
+   "slug": "karthigai-deepam",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/karthigai-deepam/2027/",
+   "tithi": {
+    "name": "Purnima",
+    "paksha": "Shukla",
+    "start": "2027-12-12T23:56+05:30",
+    "end": "2027-12-13T21:39+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-12-13T11:54+05:30",
+     "end": "2027-12-13T12:36+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2027-12-23",
+   "weekday": "Thursday",
+   "name": "Saphala Ekadashi",
+   "slug": "saphala-ekadashi",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/saphala-ekadashi/2027/",
+   "tithi": {
+    "name": "Ekadashi",
+    "paksha": "Krishna",
+    "start": "2027-12-22T23:42+05:30",
+    "end": "2027-12-23T23:13+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2027-12-23T11:59+05:30",
+     "end": "2027-12-23T12:41+05:30"
+    }
+   ]
+  }
+ ],
+ "no_date_festivals": [
+  {
+   "name": "Padmini Ekadashi",
+   "slug": "padmini-vishuddha-ekadashi",
+   "previous": {
+    "date": "2026-05-27",
+    "weekday": "Wednesday"
+   },
+   "next": {
+    "date": "2029-03-26",
+    "weekday": "Monday"
+   },
+   "url": "https://bela.so/festivals/padmini-vishuddha-ekadashi/2027/"
+  },
+  {
+   "name": "Parama Ekadashi",
+   "slug": "parama-shuddha-ekadashi",
+   "previous": {
+    "date": "2026-06-11",
+    "weekday": "Thursday"
+   },
+   "next": {
+    "date": "2029-04-09",
+    "weekday": "Monday"
+   },
+   "url": "https://bela.so/festivals/parama-shuddha-ekadashi/2027/"
+  },
+  {
+   "name": "Vaikuntha Ekadashi",
+   "slug": "vaikunta-ekadashi",
+   "previous": {
+    "date": "2026-12-20",
+    "weekday": "Sunday"
+   },
+   "next": {
+    "date": "2028-01-08",
+    "weekday": "Saturday"
+   },
+   "url": "https://bela.so/festivals/vaikunta-ekadashi/2027/"
+  }
+ ]
+}

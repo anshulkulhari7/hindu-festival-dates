@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this data, please credit it as below."
+type: dataset
+title: "Hindu festival dates, 2026 and 2027"
+authors:
+  - name: "Bela"
+    website: "https://bela.so"
+url: "https://bela.so/festivals/"
+repository-code: "https://github.com/anshulkulhari7/hindu-festival-dates"
+license: CC-BY-4.0
+date-released: "2026-11-02"
+keywords:
+  - hindu festivals
+  - panchang
+  - muhurat
+  - tithi
+  - hindu calendar
+  - india

@@ -1,0 +1,2332 @@
+{
+ "year": 2026,
+ "reference_city": "Delhi",
+ "timezone": "Asia/Kolkata",
+ "computed_at": "2026-10-30",
+ "ayanamsa": "Lahiri",
+ "source": "https://bela.so/festivals/",
+ "license": "CC-BY-4.0",
+ "notes": [
+  "Dates are computed for Delhi (IST) from the engine's festival table; a tithi-based observance can fall a day apart in another longitude.",
+  "muhurat_windows lead with the festival's own windows (kind puja, pradosh, nishita, lagna, snan); the day's Abhijit Muhurat comes last.",
+  "rule names the moment the festival's tithi must prevail at: udaya (sunrise), pradosh, nishita, madhyahna, aparahna, purvahna, sayankala or moonrise; nakshatra and sankranti rows are fixed by the Moon's star or the Sun's sign.",
+  "no_date_festivals lists the festivals that have a date in another published year but none in this one, with the previous and next date at Delhi."
+ ],
+ "festivals": [
+  {
+   "date": "2026-01-13",
+   "weekday": "Tuesday",
+   "name": "Lohri",
+   "slug": "lohri",
+   "rule": "eve_of_makar_sankranti",
+   "url": "https://bela.so/festivals/lohri/2026/",
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-01-13T12:09+05:30",
+     "end": "2026-01-13T12:51+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-01-14",
+   "weekday": "Wednesday",
+   "name": "Makar Sankranti",
+   "slug": "makar-sankranti",
+   "rule": "sankranti",
+   "url": "https://bela.so/festivals/makar-sankranti/2026/",
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-01-14T12:09+05:30",
+     "end": "2026-01-14T12:51+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-01-14",
+   "weekday": "Wednesday",
+   "name": "Pongal",
+   "slug": "pongal",
+   "rule": "sankranti",
+   "url": "https://bela.so/festivals/pongal/2026/",
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-01-14T12:09+05:30",
+     "end": "2026-01-14T12:51+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-01-14",
+   "weekday": "Wednesday",
+   "name": "Shattila Ekadashi",
+   "slug": "shattila-ekadashi",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/shattila-ekadashi/2026/",
+   "tithi": {
+    "name": "Ekadashi",
+    "paksha": "Krishna",
+    "start": "2026-01-13T15:19+05:30",
+    "end": "2026-01-14T17:54+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-01-14T12:09+05:30",
+     "end": "2026-01-14T12:51+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-01-23",
+   "weekday": "Friday",
+   "name": "Vasant Panchami",
+   "slug": "vasant-panchami",
+   "rule": "purvahna",
+   "url": "https://bela.so/festivals/vasant-panchami/2026/",
+   "tithi": {
+    "name": "Panchami",
+    "paksha": "Shukla",
+    "start": "2026-01-23T02:30+05:30",
+    "end": "2026-01-24T01:47+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-01-23T12:12+05:30",
+     "end": "2026-01-23T12:54+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-01-25",
+   "weekday": "Sunday",
+   "name": "Ratha Saptami",
+   "slug": "ratha-saptami",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/ratha-saptami/2026/",
+   "tithi": {
+    "name": "Saptami",
+    "paksha": "Shukla",
+    "start": "2026-01-25T00:41+05:30",
+    "end": "2026-01-25T23:11+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-01-25T12:12+05:30",
+     "end": "2026-01-25T12:55+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-01-29",
+   "weekday": "Thursday",
+   "name": "Jaya Ekadashi",
+   "slug": "jaya-ekadashi",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/jaya-ekadashi/2026/",
+   "tithi": {
+    "name": "Ekadashi",
+    "paksha": "Shukla",
+    "start": "2026-01-28T16:37+05:30",
+    "end": "2026-01-29T13:56+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-01-29T12:13+05:30",
+     "end": "2026-01-29T12:56+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-02-13",
+   "weekday": "Friday",
+   "name": "Vijaya Ekadashi",
+   "slug": "vijaya-ekadashi",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/vijaya-ekadashi/2026/",
+   "tithi": {
+    "name": "Ekadashi",
+    "paksha": "Krishna",
+    "start": "2026-02-12T12:23+05:30",
+    "end": "2026-02-13T14:27+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-02-13T12:13+05:30",
+     "end": "2026-02-13T12:58+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-02-15",
+   "weekday": "Sunday",
+   "name": "Maha Shivaratri",
+   "slug": "maha-shivaratri",
+   "rule": "nishita",
+   "url": "https://bela.so/festivals/maha-shivaratri/2026/",
+   "tithi": {
+    "name": "Chaturdashi",
+    "paksha": "Krishna",
+    "start": "2026-02-15T17:06+05:30",
+    "end": "2026-02-16T17:35+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-02-15T12:13+05:30",
+     "end": "2026-02-15T12:58+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-02-27",
+   "weekday": "Friday",
+   "name": "Amalaki Ekadashi",
+   "slug": "amalaka-ekadashi",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/amalaka-ekadashi/2026/",
+   "tithi": {
+    "name": "Ekadashi",
+    "paksha": "Shukla",
+    "start": "2026-02-27T00:35+05:30",
+    "end": "2026-02-27T22:34+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-02-27T12:11+05:30",
+     "end": "2026-02-27T12:57+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-03-04",
+   "weekday": "Wednesday",
+   "name": "Holi",
+   "slug": "holi",
+   "rule": "pradosh",
+   "url": "https://bela.so/festivals/holi/2026/",
+   "tithi": {
+    "name": "Purnima",
+    "paksha": "Shukla",
+    "start": "2026-03-02T17:57+05:30",
+    "end": "2026-03-03T17:09+05:30"
+   },
+   "days": [
+    {
+     "date": "2026-03-03",
+     "label": "Holika Dahan",
+     "weekday": "Tuesday"
+    },
+    {
+     "date": "2026-03-04",
+     "label": "Rangwali Holi (Dhulandi)",
+     "weekday": "Wednesday"
+    }
+   ],
+   "rule_holds": false,
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-03-04T12:10+05:30",
+     "end": "2026-03-04T12:56+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-03-11",
+   "weekday": "Wednesday",
+   "name": "Sheetala Ashtami (Basoda)",
+   "slug": "sheetala-ashtami",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/sheetala-ashtami/2026/",
+   "tithi": {
+    "name": "Ashtami",
+    "paksha": "Krishna",
+    "start": "2026-03-11T01:56+05:30",
+    "end": "2026-03-12T04:21+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-03-11T12:08+05:30",
+     "end": "2026-03-11T12:55+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-03-15",
+   "weekday": "Sunday",
+   "name": "Papamochani Ekadashi",
+   "slug": "papavimochani-ekadashi",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/papavimochani-ekadashi/2026/",
+   "tithi": {
+    "name": "Ekadashi",
+    "paksha": "Krishna",
+    "start": "2026-03-14T08:12+05:30",
+    "end": "2026-03-15T09:18+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-03-15T12:06+05:30",
+     "end": "2026-03-15T12:54+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-03-19",
+   "weekday": "Thursday",
+   "name": "Chaitra Navratri",
+   "slug": "chaitra-navratri",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/chaitra-navratri/2026/",
+   "tithi": {
+    "name": "Pratipada",
+    "paksha": "Shukla",
+    "start": "2026-03-19T06:54+05:30",
+    "end": "2026-03-20T04:53+05:30"
+   },
+   "days": [
+    {
+     "date": "2026-03-19",
+     "label": "Ghatasthapana (Pratipada)",
+     "weekday": "Thursday"
+    },
+    {
+     "date": "2026-03-26",
+     "label": "Ram Navami (Navami)",
+     "weekday": "Thursday"
+    }
+   ],
+   "rule_holds": false,
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-03-19T12:05+05:30",
+     "end": "2026-03-19T12:53+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-03-19",
+   "weekday": "Thursday",
+   "name": "Ugadi / Gudi Padwa",
+   "slug": "ugadi-gudi-padwa",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/ugadi-gudi-padwa/2026/",
+   "tithi": {
+    "name": "Pratipada",
+    "paksha": "Shukla",
+    "start": "2026-03-19T06:54+05:30",
+    "end": "2026-03-20T04:53+05:30"
+   },
+   "rule_holds": false,
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-03-19T12:05+05:30",
+     "end": "2026-03-19T12:53+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-03-26",
+   "weekday": "Thursday",
+   "name": "Ram Navami",
+   "slug": "ram-navami",
+   "rule": "madhyahna",
+   "url": "https://bela.so/festivals/ram-navami/2026/",
+   "tithi": {
+    "name": "Navami",
+    "paksha": "Shukla",
+    "start": "2026-03-26T11:50+05:30",
+    "end": "2026-03-27T10:08+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-03-26T12:03+05:30",
+     "end": "2026-03-26T12:52+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-03-29",
+   "weekday": "Sunday",
+   "name": "Kamada Ekadashi",
+   "slug": "kamada-ekadashi",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/kamada-ekadashi/2026/",
+   "tithi": {
+    "name": "Ekadashi",
+    "paksha": "Shukla",
+    "start": "2026-03-28T08:47+05:30",
+    "end": "2026-03-29T07:48+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-03-29T12:02+05:30",
+     "end": "2026-03-29T12:51+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-04-02",
+   "weekday": "Thursday",
+   "name": "Hanuman Jayanti",
+   "slug": "hanuman-jayanti",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/hanuman-jayanti/2026/",
+   "tithi": {
+    "name": "Purnima",
+    "paksha": "Shukla",
+    "start": "2026-04-01T07:07+05:30",
+    "end": "2026-04-02T07:43+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-04-02T12:00+05:30",
+     "end": "2026-04-02T12:50+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-04-13",
+   "weekday": "Monday",
+   "name": "Varuthini Ekadashi",
+   "slug": "varuthini-ekadashi",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/varuthini-ekadashi/2026/",
+   "tithi": {
+    "name": "Ekadashi",
+    "paksha": "Krishna",
+    "start": "2026-04-13T01:18+05:30",
+    "end": "2026-04-14T01:10+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-04-13T11:56+05:30",
+     "end": "2026-04-13T12:47+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-04-14",
+   "weekday": "Tuesday",
+   "name": "Baisakhi (Mesha Sankranti)",
+   "slug": "baisakhi",
+   "rule": "sankranti",
+   "url": "https://bela.so/festivals/baisakhi/2026/",
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-04-14T11:56+05:30",
+     "end": "2026-04-14T12:47+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-04-14",
+   "weekday": "Tuesday",
+   "name": "Tamil New Year",
+   "slug": "tamil-new-year",
+   "rule": "sankranti",
+   "url": "https://bela.so/festivals/tamil-new-year/2026/",
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-04-14T11:56+05:30",
+     "end": "2026-04-14T12:47+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-04-14",
+   "weekday": "Tuesday",
+   "name": "Vishu",
+   "slug": "vishu",
+   "rule": "sankranti",
+   "url": "https://bela.so/festivals/vishu/2026/",
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-04-14T11:56+05:30",
+     "end": "2026-04-14T12:47+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-04-19",
+   "weekday": "Sunday",
+   "name": "Akshaya Tritiya",
+   "slug": "akshaya-tritiya",
+   "rule": "purvahna",
+   "url": "https://bela.so/festivals/akshaya-tritiya/2026/",
+   "tithi": {
+    "name": "Tritiya",
+    "paksha": "Shukla",
+    "start": "2026-04-19T10:50+05:30",
+    "end": "2026-04-20T07:29+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-04-19T11:55+05:30",
+     "end": "2026-04-19T12:46+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-04-25",
+   "weekday": "Saturday",
+   "name": "Sita Navami",
+   "slug": "sita-navami",
+   "rule": "madhyahna",
+   "url": "https://bela.so/festivals/sita-navami/2026/",
+   "tithi": {
+    "name": "Navami",
+    "paksha": "Shukla",
+    "start": "2026-04-24T19:23+05:30",
+    "end": "2026-04-25T18:29+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-04-25T11:53+05:30",
+     "end": "2026-04-25T12:46+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-04-27",
+   "weekday": "Monday",
+   "name": "Mohini Ekadashi",
+   "slug": "mohini-ekadashi",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/mohini-ekadashi/2026/",
+   "tithi": {
+    "name": "Ekadashi",
+    "paksha": "Shukla",
+    "start": "2026-04-26T18:08+05:30",
+    "end": "2026-04-27T18:17+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-04-27T11:53+05:30",
+     "end": "2026-04-27T12:45+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-04-30",
+   "weekday": "Thursday",
+   "name": "Narasimha Jayanti",
+   "slug": "narasimha-jayanti",
+   "rule": "sayankala",
+   "url": "https://bela.so/festivals/narasimha-jayanti/2026/",
+   "tithi": {
+    "name": "Chaturdashi",
+    "paksha": "Shukla",
+    "start": "2026-04-29T19:53+05:30",
+    "end": "2026-04-30T21:14+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-04-30T11:52+05:30",
+     "end": "2026-04-30T12:45+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-05-01",
+   "weekday": "Friday",
+   "name": "Buddha Purnima",
+   "slug": "buddha-purnima",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/buddha-purnima/2026/",
+   "tithi": {
+    "name": "Purnima",
+    "paksha": "Shukla",
+    "start": "2026-04-30T21:14+05:30",
+    "end": "2026-05-01T22:54+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-05-01T11:52+05:30",
+     "end": "2026-05-01T12:45+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-05-13",
+   "weekday": "Wednesday",
+   "name": "Apara Ekadashi",
+   "slug": "apara-ekadashi",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/apara-ekadashi/2026/",
+   "tithi": {
+    "name": "Ekadashi",
+    "paksha": "Krishna",
+    "start": "2026-05-12T14:54+05:30",
+    "end": "2026-05-13T13:31+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-05-13T11:51+05:30",
+     "end": "2026-05-13T12:45+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-05-27",
+   "weekday": "Wednesday",
+   "name": "Padmini Ekadashi",
+   "slug": "padmini-vishuddha-ekadashi",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/padmini-vishuddha-ekadashi/2026/",
+   "tithi": {
+    "name": "Ekadashi",
+    "paksha": "Shukla",
+    "start": "2026-05-26T05:12+05:30",
+    "end": "2026-05-27T06:23+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-05-27T11:51+05:30",
+     "end": "2026-05-27T12:46+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-06-11",
+   "weekday": "Thursday",
+   "name": "Parama Ekadashi",
+   "slug": "parama-shuddha-ekadashi",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/parama-shuddha-ekadashi/2026/",
+   "tithi": {
+    "name": "Ekadashi",
+    "paksha": "Krishna",
+    "start": "2026-06-11T00:59+05:30",
+    "end": "2026-06-11T22:37+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-06-11T11:53+05:30",
+     "end": "2026-06-11T12:49+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-06-25",
+   "weekday": "Thursday",
+   "name": "Nirjala Ekadashi",
+   "slug": "nirjala-ekadashi",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/nirjala-ekadashi/2026/",
+   "tithi": {
+    "name": "Ekadashi",
+    "paksha": "Shukla",
+    "start": "2026-06-24T18:14+05:30",
+    "end": "2026-06-25T20:11+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-06-25T11:56+05:30",
+     "end": "2026-06-25T12:52+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-10",
+   "weekday": "Friday",
+   "name": "Yogini Ekadashi",
+   "slug": "yogini-ekadashi",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/yogini-ekadashi/2026/",
+   "tithi": {
+    "name": "Ekadashi",
+    "paksha": "Krishna",
+    "start": "2026-07-10T08:17+05:30",
+    "end": "2026-07-11T05:24+05:30"
+   },
+   "gauna": {
+    "date": "2026-07-11",
+    "weekday": "Saturday"
+   },
+   "rule_holds": false,
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-07-10T11:59+05:30",
+     "end": "2026-07-10T12:54+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-25",
+   "weekday": "Saturday",
+   "name": "Ashadhi Ekadashi",
+   "slug": "ashadha-ekadashi",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/ashadha-ekadashi/2026/",
+   "tithi": {
+    "name": "Ekadashi",
+    "paksha": "Shukla",
+    "start": "2026-07-24T09:14+05:30",
+    "end": "2026-07-25T11:36+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-07-25T12:00+05:30",
+     "end": "2026-07-25T12:55+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-25",
+   "weekday": "Saturday",
+   "name": "Devshayani Ekadashi",
+   "slug": "devashayani-ekadashi",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/devashayani-ekadashi/2026/",
+   "tithi": {
+    "name": "Ekadashi",
+    "paksha": "Shukla",
+    "start": "2026-07-24T09:14+05:30",
+    "end": "2026-07-25T11:36+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-07-25T12:00+05:30",
+     "end": "2026-07-25T12:55+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-07-29",
+   "weekday": "Wednesday",
+   "name": "Guru Purnima",
+   "slug": "guru-purnima",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/guru-purnima/2026/",
+   "tithi": {
+    "name": "Purnima",
+    "paksha": "Shukla",
+    "start": "2026-07-28T18:20+05:30",
+    "end": "2026-07-29T20:06+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-07-29T12:00+05:30",
+     "end": "2026-07-29T12:55+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-09",
+   "weekday": "Sunday",
+   "name": "Kamika Ekadashi",
+   "slug": "kamika-ekadashi",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/kamika-ekadashi/2026/",
+   "tithi": {
+    "name": "Ekadashi",
+    "paksha": "Krishna",
+    "start": "2026-08-08T14:00+05:30",
+    "end": "2026-08-09T11:06+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-08-09T12:00+05:30",
+     "end": "2026-08-09T12:53+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-17",
+   "weekday": "Monday",
+   "name": "Nag Panchami",
+   "slug": "nag-panchami",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/nag-panchami/2026/",
+   "tithi": {
+    "name": "Panchami",
+    "paksha": "Shukla",
+    "start": "2026-08-16T16:54+05:30",
+    "end": "2026-08-17T17:01+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-08-17T11:59+05:30",
+     "end": "2026-08-17T12:51+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-23",
+   "weekday": "Sunday",
+   "name": "Shravana Putrada Ekadashi",
+   "slug": "shravana-putrada-ekadashi",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/shravana-putrada-ekadashi/2026/",
+   "tithi": {
+    "name": "Ekadashi",
+    "paksha": "Shukla",
+    "start": "2026-08-23T02:02+05:30",
+    "end": "2026-08-24T04:20+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-08-23T11:58+05:30",
+     "end": "2026-08-23T12:50+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-26",
+   "weekday": "Wednesday",
+   "name": "Onam (Thiruvonam)",
+   "slug": "onam",
+   "rule": "nakshatra",
+   "url": "https://bela.so/festivals/onam/2026/",
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-08-26T11:57+05:30",
+     "end": "2026-08-26T12:49+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-08-28",
+   "weekday": "Friday",
+   "name": "Raksha Bandhan",
+   "slug": "raksha-bandhan",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/raksha-bandhan/2026/",
+   "tithi": {
+    "name": "Purnima",
+    "paksha": "Shukla",
+    "start": "2026-08-27T09:10+05:30",
+    "end": "2026-08-28T09:49+05:30"
+   },
+   "windows": [
+    {
+     "name": "Rakhi muhurat (Purnima, outside Bhadra)",
+     "kind": "puja",
+     "city": "Delhi",
+     "start": "2026-08-28T05:58+05:30",
+     "end": "2026-08-28T09:49+05:30"
+    },
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-08-28T11:57+05:30",
+     "end": "2026-08-28T12:48+05:30"
+    }
+   ],
+   "city_windows": {
+    "name": "Rakhi muhurat (Purnima, outside Bhadra)",
+    "kind": "puja",
+    "cities": [
+     {
+      "city": "Agra",
+      "start": "2026-08-28T05:56+05:30",
+      "end": "2026-08-28T09:49+05:30"
+     },
+     {
+      "city": "Ahmedabad",
+      "start": "2026-08-28T06:22+05:30",
+      "end": "2026-08-28T09:49+05:30"
+     },
+     {
+      "city": "Bengaluru",
+      "start": "2026-08-28T06:09+05:30",
+      "end": "2026-08-28T09:49+05:30"
+     },
+     {
+      "city": "Bhopal",
+      "start": "2026-08-28T06:02+05:30",
+      "end": "2026-08-28T09:49+05:30"
+     },
+     {
+      "city": "Chandigarh",
+      "start": "2026-08-28T05:58+05:30",
+      "end": "2026-08-28T09:49+05:30"
+     },
+     {
+      "city": "Chennai",
+      "start": "2026-08-28T05:59+05:30",
+      "end": "2026-08-28T09:49+05:30"
+     },
+     {
+      "city": "Coimbatore",
+      "start": "2026-08-28T06:13+05:30",
+      "end": "2026-08-28T09:49+05:30"
+     },
+     {
+      "city": "Delhi",
+      "start": "2026-08-28T05:58+05:30",
+      "end": "2026-08-28T09:49+05:30"
+     },
+     {
+      "city": "Hyderabad",
+      "start": "2026-08-28T06:02+05:30",
+      "end": "2026-08-28T09:49+05:30"
+     },
+     {
+      "city": "Indore",
+      "start": "2026-08-28T06:09+05:30",
+      "end": "2026-08-28T09:49+05:30"
+     },
+     {
+      "city": "Jaipur",
+      "start": "2026-08-28T06:05+05:30",
+      "end": "2026-08-28T09:49+05:30"
+     },
+     {
+      "city": "Kanpur",
+      "start": "2026-08-28T05:48+05:30",
+      "end": "2026-08-28T09:49+05:30"
+     },
+     {
+      "city": "Kolkata",
+      "start": "2026-08-28T05:19+05:30",
+      "end": "2026-08-28T09:49+05:30"
+     },
+     {
+      "city": "Lucknow",
+      "start": "2026-08-28T05:45+05:30",
+      "end": "2026-08-28T09:49+05:30"
+     },
+     {
+      "city": "Ludhiana",
+      "start": "2026-08-28T06:01+05:30",
+      "end": "2026-08-28T09:49+05:30"
+     },
+     {
+      "city": "Mumbai",
+      "start": "2026-08-28T06:24+05:30",
+      "end": "2026-08-28T09:49+05:30"
+     },
+     {
+      "city": "Nagpur",
+      "start": "2026-08-28T05:57+05:30",
+      "end": "2026-08-28T09:49+05:30"
+     },
+     {
+      "city": "Patna",
+      "start": "2026-08-28T05:29+05:30",
+      "end": "2026-08-28T09:49+05:30"
+     },
+     {
+      "city": "Pune",
+      "start": "2026-08-28T06:20+05:30",
+      "end": "2026-08-28T09:49+05:30"
+     },
+     {
+      "city": "Surat",
+      "start": "2026-08-28T06:22+05:30",
+      "end": "2026-08-28T09:49+05:30"
+     },
+     {
+      "city": "Varanasi",
+      "start": "2026-08-28T05:38+05:30",
+      "end": "2026-08-28T09:49+05:30"
+     }
+    ]
+   }
+  },
+  {
+   "date": "2026-08-28",
+   "weekday": "Friday",
+   "name": "Varalakshmi Vratam",
+   "slug": "varalakshmi-vratam",
+   "rule": "friday_before_shravana_purnima",
+   "url": "https://bela.so/festivals/varalakshmi-vratam/2026/",
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-08-28T11:57+05:30",
+     "end": "2026-08-28T12:48+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-04",
+   "weekday": "Friday",
+   "name": "Krishna Janmashtami",
+   "slug": "janmashtami",
+   "rule": "nishita",
+   "url": "https://bela.so/festivals/janmashtami/2026/",
+   "tithi": {
+    "name": "Ashtami",
+    "paksha": "Krishna",
+    "start": "2026-09-04T02:27+05:30",
+    "end": "2026-09-05T00:15+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-09-04T11:55+05:30",
+     "end": "2026-09-04T12:45+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-07",
+   "weekday": "Monday",
+   "name": "Aja Ekadashi (Annada)",
+   "slug": "annada-aja-ekadashi",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/annada-aja-ekadashi/2026/",
+   "tithi": {
+    "name": "Ekadashi",
+    "paksha": "Krishna",
+    "start": "2026-09-06T19:30+05:30",
+    "end": "2026-09-07T17:05+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-09-07T11:54+05:30",
+     "end": "2026-09-07T12:44+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-14",
+   "weekday": "Monday",
+   "name": "Ganesh Chaturthi",
+   "slug": "ganesh-chaturthi",
+   "rule": "madhyahna",
+   "url": "https://bela.so/festivals/ganesh-chaturthi/2026/",
+   "tithi": {
+    "name": "Chaturthi",
+    "paksha": "Shukla",
+    "start": "2026-09-14T07:08+05:30",
+    "end": "2026-09-15T07:45+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-09-14T11:52+05:30",
+     "end": "2026-09-14T12:41+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-14",
+   "weekday": "Monday",
+   "name": "Hartalika Teej",
+   "slug": "hartalika-teej",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/hartalika-teej/2026/",
+   "tithi": {
+    "name": "Tritiya",
+    "paksha": "Shukla",
+    "start": "2026-09-13T07:10+05:30",
+    "end": "2026-09-14T07:08+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-09-14T11:52+05:30",
+     "end": "2026-09-14T12:41+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-22",
+   "weekday": "Tuesday",
+   "name": "Parsva Ekadashi",
+   "slug": "parsva-ekadashi",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/parsva-ekadashi/2026/",
+   "tithi": {
+    "name": "Ekadashi",
+    "paksha": "Shukla",
+    "start": "2026-09-21T20:02+05:30",
+    "end": "2026-09-22T21:45+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-09-22T11:50+05:30",
+     "end": "2026-09-22T12:38+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-25",
+   "weekday": "Friday",
+   "name": "Anant Chaturdashi",
+   "slug": "anant-chaturdashi",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/anant-chaturdashi/2026/",
+   "tithi": {
+    "name": "Chaturdashi",
+    "paksha": "Shukla",
+    "start": "2026-09-24T23:20+05:30",
+    "end": "2026-09-25T23:08+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-09-25T11:49+05:30",
+     "end": "2026-09-25T12:37+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-27",
+   "weekday": "Sunday",
+   "name": "Pitru Paksha (Mahalaya)",
+   "slug": "pitru-paksha",
+   "rule": "aparahna",
+   "url": "https://bela.so/festivals/pitru-paksha/2026/",
+   "tithi": {
+    "name": "Pratipada",
+    "paksha": "Krishna",
+    "start": "2026-09-26T22:20+05:30",
+    "end": "2026-09-27T21:00+05:30"
+   },
+   "days": [
+    {
+     "date": "2026-09-27",
+     "label": "Pitru Paksha begins",
+     "weekday": "Sunday"
+    },
+    {
+     "date": "2026-10-10",
+     "label": "Sarva Pitru Amavasya",
+     "weekday": "Saturday"
+    }
+   ],
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-09-27T11:48+05:30",
+     "end": "2026-09-27T12:36+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-06",
+   "weekday": "Tuesday",
+   "name": "Indira Ekadashi",
+   "slug": "indira-ekadashi",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/indira-ekadashi/2026/",
+   "tithi": {
+    "name": "Ekadashi",
+    "paksha": "Krishna",
+    "start": "2026-10-06T02:09+05:30",
+    "end": "2026-10-07T00:36+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-10-06T11:46+05:30",
+     "end": "2026-10-06T12:33+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-11",
+   "weekday": "Sunday",
+   "name": "Sharad Navratri",
+   "slug": "sharad-navratri",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/sharad-navratri/2026/",
+   "tithi": {
+    "name": "Pratipada",
+    "paksha": "Shukla",
+    "start": "2026-10-10T21:21+05:30",
+    "end": "2026-10-11T21:32+05:30"
+   },
+   "days": [
+    {
+     "date": "2026-10-11",
+     "label": "Ghatasthapana (Pratipada)",
+     "weekday": "Sunday"
+    },
+    {
+     "date": "2026-10-19",
+     "label": "Durga Ashtami",
+     "weekday": "Monday"
+    },
+    {
+     "date": "2026-10-19",
+     "label": "Maha Navami",
+     "weekday": "Monday"
+    },
+    {
+     "date": "2026-10-20",
+     "label": "Vijayadashami (Dussehra)",
+     "weekday": "Tuesday"
+    }
+   ],
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-10-11T11:45+05:30",
+     "end": "2026-10-11T12:31+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-19",
+   "weekday": "Monday",
+   "name": "Durga Ashtami (Maha Ashtami)",
+   "slug": "durga-ashtami",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/durga-ashtami/2026/",
+   "tithi": {
+    "name": "Ashtami",
+    "paksha": "Shukla",
+    "start": "2026-10-18T08:29+05:30",
+    "end": "2026-10-19T10:53+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-10-19T11:43+05:30",
+     "end": "2026-10-19T12:29+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-19",
+   "weekday": "Monday",
+   "name": "Maha Navami",
+   "slug": "maha-navami",
+   "rule": "aparahna",
+   "url": "https://bela.so/festivals/maha-navami/2026/",
+   "tithi": {
+    "name": "Navami",
+    "paksha": "Shukla",
+    "start": "2026-10-19T10:53+05:30",
+    "end": "2026-10-20T12:52+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-10-19T11:43+05:30",
+     "end": "2026-10-19T12:29+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "weekday": "Tuesday",
+   "name": "Dussehra (Vijayadashami)",
+   "slug": "dussehra",
+   "rule": "aparahna",
+   "url": "https://bela.so/festivals/dussehra/2026/",
+   "tithi": {
+    "name": "Dashami",
+    "paksha": "Shukla",
+    "start": "2026-10-20T12:52+05:30",
+    "end": "2026-10-21T14:13+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-10-20T11:43+05:30",
+     "end": "2026-10-20T12:28+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-22",
+   "weekday": "Thursday",
+   "name": "Papankusha Ekadashi",
+   "slug": "pasankusa-ekadashi",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/pasankusa-ekadashi/2026/",
+   "tithi": {
+    "name": "Ekadashi",
+    "paksha": "Shukla",
+    "start": "2026-10-21T14:13+05:30",
+    "end": "2026-10-22T14:49+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-10-22T11:43+05:30",
+     "end": "2026-10-22T12:28+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-25",
+   "weekday": "Sunday",
+   "name": "Sharad Purnima (Kojagari)",
+   "slug": "sharad-purnima",
+   "rule": "nishita",
+   "url": "https://bela.so/festivals/sharad-purnima/2026/",
+   "tithi": {
+    "name": "Purnima",
+    "paksha": "Shukla",
+    "start": "2026-10-25T11:57+05:30",
+    "end": "2026-10-26T09:42+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-10-25T11:43+05:30",
+     "end": "2026-10-25T12:27+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-29",
+   "weekday": "Thursday",
+   "name": "Karwa Chauth",
+   "slug": "karwa-chauth",
+   "rule": "moonrise",
+   "url": "https://bela.so/festivals/karwa-chauth/2026/",
+   "tithi": {
+    "name": "Chaturthi",
+    "paksha": "Krishna",
+    "start": "2026-10-29T01:08+05:30",
+    "end": "2026-10-29T22:11+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-10-29T11:43+05:30",
+     "end": "2026-10-29T12:27+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-01",
+   "weekday": "Sunday",
+   "name": "Ahoi Ashtami",
+   "slug": "ahoi-ashtami",
+   "rule": "moonrise",
+   "url": "https://bela.so/festivals/ahoi-ashtami/2026/",
+   "tithi": {
+    "name": "Ashtami",
+    "paksha": "Krishna",
+    "start": "2026-11-01T14:53+05:30",
+    "end": "2026-11-02T13:12+05:30"
+   },
+   "moments": [
+    {
+     "at": "2026-11-01T18:01+05:30",
+     "name": "Star sighting (tare)"
+    },
+    {
+     "at": "2026-11-01T23:40+05:30",
+     "name": "Moonrise"
+    }
+   ],
+   "windows": [
+    {
+     "name": "Ahoi Ashtami puja muhurat",
+     "kind": "puja",
+     "city": "Delhi",
+     "start": "2026-11-01T17:36+05:30",
+     "end": "2026-11-01T18:54+05:30"
+    },
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-11-01T11:43+05:30",
+     "end": "2026-11-01T12:27+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-05",
+   "weekday": "Thursday",
+   "name": "Rama Ekadashi",
+   "slug": "ramaa-ekadashi",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/ramaa-ekadashi/2026/",
+   "tithi": {
+    "name": "Ekadashi",
+    "paksha": "Krishna",
+    "start": "2026-11-04T11:04+05:30",
+    "end": "2026-11-05T10:37+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-11-05T11:43+05:30",
+     "end": "2026-11-05T12:26+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-06",
+   "weekday": "Friday",
+   "name": "Dhanteras (Dhantrayodashi)",
+   "slug": "dhanteras",
+   "rule": "pradosh",
+   "url": "https://bela.so/festivals/dhanteras/2026/",
+   "tithi": {
+    "name": "Trayodashi",
+    "paksha": "Krishna",
+    "start": "2026-11-06T10:32+05:30",
+    "end": "2026-11-07T10:49+05:30"
+   },
+   "windows": [
+    {
+     "name": "Dhanteras puja muhurat",
+     "kind": "puja",
+     "city": "Delhi",
+     "start": "2026-11-06T18:02+05:30",
+     "end": "2026-11-06T19:58+05:30"
+    },
+    {
+     "name": "Pradosh Kaal",
+     "kind": "pradosh",
+     "city": "Delhi",
+     "start": "2026-11-06T17:33+05:30",
+     "end": "2026-11-06T20:10+05:30"
+    },
+    {
+     "name": "Vrishabha Kaal (Taurus rising)",
+     "kind": "lagna",
+     "city": "Delhi",
+     "start": "2026-11-06T18:02+05:30",
+     "end": "2026-11-06T19:58+05:30"
+    },
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-11-06T11:43+05:30",
+     "end": "2026-11-06T12:26+05:30"
+    }
+   ],
+   "city_windows": {
+    "name": "Dhanteras puja muhurat",
+    "kind": "puja",
+    "cities": [
+     {
+      "city": "Agra",
+      "start": "2026-11-06T18:02+05:30",
+      "end": "2026-11-06T19:58+05:30"
+     },
+     {
+      "city": "Ahmedabad",
+      "start": "2026-11-06T18:30+05:30",
+      "end": "2026-11-06T20:29+05:30"
+     },
+     {
+      "city": "Bengaluru",
+      "start": "2026-11-06T18:26+05:30",
+      "end": "2026-11-06T20:20+05:30"
+     },
+     {
+      "city": "Bhopal",
+      "start": "2026-11-06T18:11+05:30",
+      "end": "2026-11-06T20:09+05:30"
+     },
+     {
+      "city": "Chandigarh",
+      "start": "2026-11-06T18:00+05:30",
+      "end": "2026-11-06T19:55+05:30"
+     },
+     {
+      "city": "Chennai",
+      "start": "2026-11-06T18:15+05:30",
+      "end": "2026-11-06T20:09+05:30"
+     },
+     {
+      "city": "Coimbatore",
+      "start": "2026-11-06T18:31+05:30",
+      "end": "2026-11-06T20:24+05:30"
+     },
+     {
+      "city": "Delhi",
+      "start": "2026-11-06T18:02+05:30",
+      "end": "2026-11-06T19:58+05:30"
+     },
+     {
+      "city": "Hyderabad",
+      "start": "2026-11-06T18:15+05:30",
+      "end": "2026-11-06T20:13+05:30"
+     },
+     {
+      "city": "Indore",
+      "start": "2026-11-06T18:18+05:30",
+      "end": "2026-11-06T20:16+05:30"
+     },
+     {
+      "city": "Jaipur",
+      "start": "2026-11-06T18:11+05:30",
+      "end": "2026-11-06T20:07+05:30"
+     },
+     {
+      "city": "Kanpur",
+      "start": "2026-11-06T17:54+05:30",
+      "end": "2026-11-06T19:50+05:30"
+     },
+     {
+      "city": "Kolkata",
+      "start": "2026-11-06T17:28+05:30",
+      "end": "2026-11-06T19:26+05:30"
+     },
+     {
+      "city": "Lucknow",
+      "start": "2026-11-06T17:50+05:30",
+      "end": "2026-11-06T19:47+05:30"
+     },
+     {
+      "city": "Ludhiana",
+      "start": "2026-11-06T18:03+05:30",
+      "end": "2026-11-06T19:58+05:30"
+     },
+     {
+      "city": "Mumbai",
+      "start": "2026-11-06T18:35+05:30",
+      "end": "2026-11-06T20:35+05:30"
+     },
+     {
+      "city": "Nagpur",
+      "start": "2026-11-06T18:07+05:30",
+      "end": "2026-11-06T20:06+05:30"
+     },
+     {
+      "city": "Patna",
+      "start": "2026-11-06T17:36+05:30",
+      "end": "2026-11-06T19:33+05:30"
+     },
+     {
+      "city": "Pune",
+      "start": "2026-11-06T18:32+05:30",
+      "end": "2026-11-06T20:31+05:30"
+     },
+     {
+      "city": "Surat",
+      "start": "2026-11-06T18:32+05:30",
+      "end": "2026-11-06T20:31+05:30"
+     },
+     {
+      "city": "Varanasi",
+      "start": "2026-11-06T17:45+05:30",
+      "end": "2026-11-06T19:42+05:30"
+     }
+    ]
+   }
+  },
+  {
+   "date": "2026-11-08",
+   "weekday": "Sunday",
+   "name": "Diwali (Lakshmi Puja)",
+   "slug": "diwali",
+   "rule": "pradosh",
+   "url": "https://bela.so/festivals/diwali/2026/",
+   "tithi": {
+    "name": "Amavasya",
+    "paksha": "Krishna",
+    "start": "2026-11-08T11:29+05:30",
+    "end": "2026-11-09T12:33+05:30"
+   },
+   "windows": [
+    {
+     "name": "Lakshmi Puja muhurat",
+     "kind": "puja",
+     "city": "Delhi",
+     "start": "2026-11-08T17:54+05:30",
+     "end": "2026-11-08T19:50+05:30"
+    },
+    {
+     "name": "Pradosh Kaal",
+     "kind": "pradosh",
+     "city": "Delhi",
+     "start": "2026-11-08T17:31+05:30",
+     "end": "2026-11-08T20:09+05:30"
+    },
+    {
+     "name": "Vrishabha Kaal (Taurus rising)",
+     "kind": "lagna",
+     "city": "Delhi",
+     "start": "2026-11-08T17:54+05:30",
+     "end": "2026-11-08T19:50+05:30"
+    },
+    {
+     "name": "Mahanishita Kaal",
+     "kind": "nishita",
+     "city": "Delhi",
+     "start": "2026-11-08T23:39+05:30",
+     "end": "2026-11-09T00:31+05:30"
+    },
+    {
+     "name": "Simha Kaal (Leo rising)",
+     "kind": "lagna",
+     "city": "Delhi",
+     "start": "2026-11-09T00:25+05:30",
+     "end": "2026-11-09T02:42+05:30"
+    },
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-11-08T11:43+05:30",
+     "end": "2026-11-08T12:26+05:30"
+    }
+   ],
+   "city_windows": {
+    "name": "Lakshmi Puja muhurat",
+    "kind": "puja",
+    "cities": [
+     {
+      "city": "Agra",
+      "start": "2026-11-08T17:54+05:30",
+      "end": "2026-11-08T19:50+05:30"
+     },
+     {
+      "city": "Ahmedabad",
+      "start": "2026-11-08T18:22+05:30",
+      "end": "2026-11-08T20:21+05:30"
+     },
+     {
+      "city": "Bengaluru",
+      "start": "2026-11-08T18:18+05:30",
+      "end": "2026-11-08T20:20+05:30"
+     },
+     {
+      "city": "Bhopal",
+      "start": "2026-11-08T18:03+05:30",
+      "end": "2026-11-08T20:01+05:30"
+     },
+     {
+      "city": "Chandigarh",
+      "start": "2026-11-08T17:52+05:30",
+      "end": "2026-11-08T19:47+05:30"
+     },
+     {
+      "city": "Chennai",
+      "start": "2026-11-08T18:07+05:30",
+      "end": "2026-11-08T20:09+05:30"
+     },
+     {
+      "city": "Coimbatore",
+      "start": "2026-11-08T18:23+05:30",
+      "end": "2026-11-08T20:24+05:30"
+     },
+     {
+      "city": "Delhi",
+      "start": "2026-11-08T17:54+05:30",
+      "end": "2026-11-08T19:50+05:30"
+     },
+     {
+      "city": "Hyderabad",
+      "start": "2026-11-08T18:08+05:30",
+      "end": "2026-11-08T20:08+05:30"
+     },
+     {
+      "city": "Indore",
+      "start": "2026-11-08T18:10+05:30",
+      "end": "2026-11-08T20:08+05:30"
+     },
+     {
+      "city": "Jaipur",
+      "start": "2026-11-08T18:03+05:30",
+      "end": "2026-11-08T20:00+05:30"
+     },
+     {
+      "city": "Kanpur",
+      "start": "2026-11-08T17:46+05:30",
+      "end": "2026-11-08T19:42+05:30"
+     },
+     {
+      "city": "Kolkata",
+      "start": "2026-11-08T17:20+05:30",
+      "end": "2026-11-08T19:19+05:30"
+     },
+     {
+      "city": "Lucknow",
+      "start": "2026-11-08T17:43+05:30",
+      "end": "2026-11-08T19:39+05:30"
+     },
+     {
+      "city": "Ludhiana",
+      "start": "2026-11-08T17:56+05:30",
+      "end": "2026-11-08T19:50+05:30"
+     },
+     {
+      "city": "Mumbai",
+      "start": "2026-11-08T18:27+05:30",
+      "end": "2026-11-08T20:27+05:30"
+     },
+     {
+      "city": "Nagpur",
+      "start": "2026-11-08T17:59+05:30",
+      "end": "2026-11-08T19:58+05:30"
+     },
+     {
+      "city": "Patna",
+      "start": "2026-11-08T17:28+05:30",
+      "end": "2026-11-08T19:25+05:30"
+     },
+     {
+      "city": "Pune",
+      "start": "2026-11-08T18:24+05:30",
+      "end": "2026-11-08T20:25+05:30"
+     },
+     {
+      "city": "Surat",
+      "start": "2026-11-08T18:24+05:30",
+      "end": "2026-11-08T20:23+05:30"
+     },
+     {
+      "city": "Varanasi",
+      "start": "2026-11-08T17:37+05:30",
+      "end": "2026-11-08T19:34+05:30"
+     }
+    ]
+   }
+  },
+  {
+   "date": "2026-11-08",
+   "weekday": "Sunday",
+   "name": "Kali Puja",
+   "slug": "kali-puja",
+   "rule": "nishita",
+   "url": "https://bela.so/festivals/kali-puja/2026/",
+   "tithi": {
+    "name": "Amavasya",
+    "paksha": "Krishna",
+    "start": "2026-11-08T11:29+05:30",
+    "end": "2026-11-09T12:33+05:30"
+   },
+   "windows": [
+    {
+     "name": "Kali Puja (Nishita Kaal)",
+     "kind": "puja",
+     "city": "Delhi",
+     "start": "2026-11-08T23:39+05:30",
+     "end": "2026-11-09T00:31+05:30"
+    },
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-11-08T11:43+05:30",
+     "end": "2026-11-08T12:26+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-08",
+   "weekday": "Sunday",
+   "name": "Naraka Chaturdashi (Choti Diwali)",
+   "slug": "naraka-chaturdashi",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/naraka-chaturdashi/2026/",
+   "tithi": {
+    "name": "Chaturdashi",
+    "paksha": "Krishna",
+    "start": "2026-11-07T10:49+05:30",
+    "end": "2026-11-08T11:29+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhyang Snan (moonrise to sunrise)",
+     "kind": "snan",
+     "city": "Delhi",
+     "start": "2026-11-08T05:41+05:30",
+     "end": "2026-11-08T06:38+05:30"
+    },
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-11-08T11:43+05:30",
+     "end": "2026-11-08T12:26+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "weekday": "Tuesday",
+   "name": "Govardhan Puja",
+   "slug": "govardhan-puja",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/govardhan-puja/2026/",
+   "tithi": {
+    "name": "Pratipada",
+    "paksha": "Shukla",
+    "start": "2026-11-09T12:33+05:30",
+    "end": "2026-11-10T14:01+05:30"
+   },
+   "windows": [
+    {
+     "name": "Govardhan Puja (Pratahkala)",
+     "kind": "puja",
+     "city": "Delhi",
+     "start": "2026-11-10T06:40+05:30",
+     "end": "2026-11-10T08:50+05:30"
+    },
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-11-10T11:43+05:30",
+     "end": "2026-11-10T12:27+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-11",
+   "weekday": "Wednesday",
+   "name": "Bhai Dooj",
+   "slug": "bhai-dooj",
+   "rule": "aparahna",
+   "url": "https://bela.so/festivals/bhai-dooj/2026/",
+   "tithi": {
+    "name": "Dwitiya",
+    "paksha": "Shukla",
+    "start": "2026-11-10T14:01+05:30",
+    "end": "2026-11-11T15:55+05:30"
+   },
+   "windows": [
+    {
+     "name": "Bhai Dooj tilak (Aparahna)",
+     "kind": "puja",
+     "city": "Delhi",
+     "start": "2026-11-11T13:10+05:30",
+     "end": "2026-11-11T15:20+05:30"
+    },
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-11-11T11:43+05:30",
+     "end": "2026-11-11T12:27+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-15",
+   "weekday": "Sunday",
+   "name": "Chhath Puja",
+   "slug": "chhath-puja",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/chhath-puja/2026/",
+   "tithi": {
+    "name": "Shashthi",
+    "paksha": "Shukla",
+    "start": "2026-11-14T23:25+05:30",
+    "end": "2026-11-16T02:02+05:30"
+   },
+   "days": [
+    {
+     "date": "2026-11-13",
+     "label": "Nahay Khay",
+     "weekday": "Friday"
+    },
+    {
+     "date": "2026-11-14",
+     "label": "Kharna",
+     "weekday": "Saturday"
+    },
+    {
+     "date": "2026-11-15",
+     "label": "Sandhya Arghya",
+     "weekday": "Sunday"
+    },
+    {
+     "date": "2026-11-16",
+     "label": "Usha Arghya",
+     "weekday": "Monday"
+    }
+   ],
+   "moments": [
+    {
+     "at": "2026-11-15T17:28+05:30",
+     "name": "Sandhya Arghya (sunset)"
+    },
+    {
+     "at": "2026-11-16T06:44+05:30",
+     "name": "Usha Arghya (sunrise)"
+    }
+   ],
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-11-15T11:44+05:30",
+     "end": "2026-11-15T12:27+05:30"
+    }
+   ],
+   "city_moments": [
+    {
+     "city": "Agra",
+     "sunrise": "2026-11-16T06:39+05:30",
+     "sunset": "2026-11-15T17:27+05:30"
+    },
+    {
+     "city": "Ahmedabad",
+     "sunrise": "2026-11-16T06:54+05:30",
+     "sunset": "2026-11-15T17:55+05:30"
+    },
+    {
+     "city": "Bengaluru",
+     "sunrise": "2026-11-16T06:19+05:30",
+     "sunset": "2026-11-15T17:50+05:30"
+    },
+    {
+     "city": "Bhopal",
+     "sunrise": "2026-11-16T06:35+05:30",
+     "sunset": "2026-11-15T17:36+05:30"
+    },
+    {
+     "city": "Chandigarh",
+     "sunrise": "2026-11-16T06:50+05:30",
+     "sunset": "2026-11-15T17:26+05:30"
+    },
+    {
+     "city": "Chennai",
+     "sunrise": "2026-11-16T06:08+05:30",
+     "sunset": "2026-11-15T17:39+05:30"
+    },
+    {
+     "city": "Coimbatore",
+     "sunrise": "2026-11-16T06:18+05:30",
+     "sunset": "2026-11-15T17:55+05:30"
+    },
+    {
+     "city": "Delhi",
+     "sunrise": "2026-11-16T06:44+05:30",
+     "sunset": "2026-11-15T17:28+05:30"
+    },
+    {
+     "city": "Hyderabad",
+     "sunrise": "2026-11-16T06:21+05:30",
+     "sunset": "2026-11-15T17:40+05:30"
+    },
+    {
+     "city": "Indore",
+     "sunrise": "2026-11-16T06:40+05:30",
+     "sunset": "2026-11-15T17:43+05:30"
+    },
+    {
+     "city": "Jaipur",
+     "sunrise": "2026-11-16T06:47+05:30",
+     "sunset": "2026-11-15T17:36+05:30"
+    },
+    {
+     "city": "Kanpur",
+     "sunrise": "2026-11-16T06:28+05:30",
+     "sunset": "2026-11-15T17:19+05:30"
+    },
+    {
+     "city": "Kolkata",
+     "sunrise": "2026-11-16T05:50+05:30",
+     "sunset": "2026-11-15T16:53+05:30"
+    },
+    {
+     "city": "Lucknow",
+     "sunrise": "2026-11-16T06:26+05:30",
+     "sunset": "2026-11-15T17:16+05:30"
+    },
+    {
+     "city": "Ludhiana",
+     "sunrise": "2026-11-16T06:54+05:30",
+     "sunset": "2026-11-15T17:29+05:30"
+    },
+    {
+     "city": "Mumbai",
+     "sunrise": "2026-11-16T06:46+05:30",
+     "sunset": "2026-11-15T18:00+05:30"
+    },
+    {
+     "city": "Nagpur",
+     "sunrise": "2026-11-16T06:25+05:30",
+     "sunset": "2026-11-15T17:32+05:30"
+    },
+    {
+     "city": "Patna",
+     "sunrise": "2026-11-16T06:08+05:30",
+     "sunset": "2026-11-15T17:01+05:30"
+    },
+    {
+     "city": "Pune",
+     "sunrise": "2026-11-16T06:42+05:30",
+     "sunset": "2026-11-15T17:57+05:30"
+    },
+    {
+     "city": "Surat",
+     "sunrise": "2026-11-16T06:50+05:30",
+     "sunset": "2026-11-15T17:57+05:30"
+    },
+    {
+     "city": "Varanasi",
+     "sunrise": "2026-11-16T06:16+05:30",
+     "sunset": "2026-11-15T17:10+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "weekday": "Friday",
+   "name": "Guruvayur Ekadashi",
+   "slug": "guruvayur-ekadashi",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/guruvayur-ekadashi/2026/",
+   "tithi": {
+    "name": "Ekadashi",
+    "paksha": "Shukla",
+    "start": "2026-11-20T07:17+05:30",
+    "end": "2026-11-21T06:33+05:30"
+   },
+   "gauna": {
+    "date": "2026-11-21",
+    "weekday": "Saturday"
+   },
+   "rule_holds": false,
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-11-20T11:45+05:30",
+     "end": "2026-11-20T12:28+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "weekday": "Friday",
+   "name": "Devutthana Ekadashi (Prabodhini)",
+   "slug": "prabodhini-devuthana-ekadashi",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/prabodhini-devuthana-ekadashi/2026/",
+   "tithi": {
+    "name": "Ekadashi",
+    "paksha": "Shukla",
+    "start": "2026-11-20T07:17+05:30",
+    "end": "2026-11-21T06:33+05:30"
+   },
+   "gauna": {
+    "date": "2026-11-21",
+    "weekday": "Saturday"
+   },
+   "rule_holds": false,
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-11-20T11:45+05:30",
+     "end": "2026-11-20T12:28+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "weekday": "Tuesday",
+   "name": "Karthigai Deepam",
+   "slug": "karthigai-deepam",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/karthigai-deepam/2026/",
+   "tithi": {
+    "name": "Purnima",
+    "paksha": "Shukla",
+    "start": "2026-11-23T23:44+05:30",
+    "end": "2026-11-24T20:24+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-11-24T11:47+05:30",
+     "end": "2026-11-24T12:29+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-04",
+   "weekday": "Friday",
+   "name": "Utpanna Ekadashi",
+   "slug": "utpanna-ekadashi",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/utpanna-ekadashi/2026/",
+   "tithi": {
+    "name": "Ekadashi",
+    "paksha": "Krishna",
+    "start": "2026-12-03T23:05+05:30",
+    "end": "2026-12-04T23:46+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-12-04T11:50+05:30",
+     "end": "2026-12-04T12:32+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-14",
+   "weekday": "Monday",
+   "name": "Vivaha Panchami",
+   "slug": "vivaha-panchami",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/vivaha-panchami/2026/",
+   "tithi": {
+    "name": "Panchami",
+    "paksha": "Shukla",
+    "start": "2026-12-13T16:49+05:30",
+    "end": "2026-12-14T19:17+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-12-14T11:55+05:30",
+     "end": "2026-12-14T12:36+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-20",
+   "weekday": "Sunday",
+   "name": "Gita Jayanti",
+   "slug": "gita-jayanti",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/gita-jayanti/2026/",
+   "tithi": {
+    "name": "Ekadashi",
+    "paksha": "Shukla",
+    "start": "2026-12-19T22:11+05:30",
+    "end": "2026-12-20T20:16+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-12-20T11:58+05:30",
+     "end": "2026-12-20T12:39+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-20",
+   "weekday": "Sunday",
+   "name": "Mokshada Ekadashi",
+   "slug": "mokshadha-ekadashi",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/mokshadha-ekadashi/2026/",
+   "tithi": {
+    "name": "Ekadashi",
+    "paksha": "Shukla",
+    "start": "2026-12-19T22:11+05:30",
+    "end": "2026-12-20T20:16+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-12-20T11:58+05:30",
+     "end": "2026-12-20T12:39+05:30"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-20",
+   "weekday": "Sunday",
+   "name": "Vaikuntha Ekadashi",
+   "slug": "vaikunta-ekadashi",
+   "rule": "udaya",
+   "url": "https://bela.so/festivals/vaikunta-ekadashi/2026/",
+   "tithi": {
+    "name": "Ekadashi",
+    "paksha": "Shukla",
+    "start": "2026-12-19T22:11+05:30",
+    "end": "2026-12-20T20:16+05:30"
+   },
+   "windows": [
+    {
+     "name": "Abhijit Muhurat",
+     "kind": "abhijit",
+     "city": "Delhi",
+     "start": "2026-12-20T11:58+05:30",
+     "end": "2026-12-20T12:39+05:30"
+    }
+   ]
+  }
+ ],
+ "no_date_festivals": [
+  {
+   "name": "Pausha Putrada Ekadashi",
+   "slug": "pausha-putrada-ekadashi",
+   "previous": {
+    "date": "2025-12-30",
+    "weekday": "Tuesday"
+   },
+   "next": {
+    "date": "2027-01-18",
+    "weekday": "Monday"
+   },
+   "url": "https://bela.so/festivals/pausha-putrada-ekadashi/2026/"
+  },
+  {
+   "name": "Saphala Ekadashi",
+   "slug": "saphala-ekadashi",
+   "previous": {
+    "date": "2025-12-15",
+    "weekday": "Monday"
+   },
+   "next": {
+    "date": "2027-01-03",
+    "weekday": "Sunday"
+   },
+   "url": "https://bela.so/festivals/saphala-ekadashi/2026/"
+  }
+ ]
+}
