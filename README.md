@@ -31,7 +31,7 @@ The data comes from [Bela](https://bela.so/festivals/), where each festival has 
 | Bhai Dooj | [11 Nov 2026](https://bela.so/festivals/bhai-dooj/2026/) | [31 Oct 2027](https://bela.so/festivals/bhai-dooj/2027/) |
 | Chhath Puja | [15 Nov 2026](https://bela.so/festivals/chhath-puja/2026/) | [4 Nov 2027](https://bela.so/festivals/chhath-puja/2027/) |
 
-Every festival is in [`data/`](data/). Each date links to the festival's page for that year.
+Every festival is in [`data/`](https://github.com/anshulkulhari7/hindu-festival-dates/tree/main/data). Each date links to the festival's page for that year.
 
 ## Files
 
@@ -63,7 +63,7 @@ The [methodology page](https://bela.so/methodology/) has the details, and [this 
 
 ## License and citation
 
-The data is released under [CC BY 4.0](LICENSE). A credit like this is enough:
+The data is released under [CC BY 4.0](https://github.com/anshulkulhari7/hindu-festival-dates/blob/main/LICENSE). A credit like this is enough:
 
 > Festival dates: Bela (bela.so), computed for Delhi (IST).
 
