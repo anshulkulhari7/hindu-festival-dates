@@ -44,7 +44,7 @@ Every festival is in [`data/`](https://github.com/anshulkulhari7/hindu-festival-
 
 ## Add the calendar
 
-- **Subscribe by URL:** in Google Calendar, use Settings, then Add calendar, then From URL, and paste `https://raw.githubusercontent.com/anshulkulhari7/hindu-festival-dates/main/calendar/hindu-festivals-2026-2027.ics`. Apple Calendar and Outlook have the same option.
+- **Subscribe by URL:** in Google Calendar, use Settings, then Add calendar, then From URL, and paste `https://bela.so/calendar/hindu-festivals.ics`. Apple Calendar and Outlook have the same option. For Ekadashi fasts alone, use `https://bela.so/calendar/ekadashi.ics`.
 - **Import once:** download the `.ics` file and import it into your calendar app.
 
 ## How the dates are computed
@@ -69,7 +69,7 @@ The data is released under [CC BY 4.0](https://github.com/anshulkulhari7/hindu-f
 
 ## Related data
 
-[Muhurat dates by event](https://bela.so/datasets/) for 2026 and 2027, also CC BY 4.0, are published on bela.so.
+The same festival data has a [dataset page on bela.so](https://bela.so/datasets/hindu-festivals/). [Muhurat dates by event](https://bela.so/datasets/) for 2026 and 2027, also CC BY 4.0, are published there too.
 
 ## Corrections
 

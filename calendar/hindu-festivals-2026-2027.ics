@@ -3,143 +3,145 @@ VERSION:2.0
 PRODID:-//Bela//Hindu festival dates//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Hindu festivals 2026-2027 (Delhi)
+X-WR-CALNAME:Hindu festivals (Delhi)
 X-WR-TIMEZONE:Asia/Kolkata
-X-WR-CALDESC:Hindu festival dates computed for Delhi (IST). Source: Bela\, 
- https://bela.so/festivals/
+X-WR-CALDESC:Hindu festival dates. Computed for Delhi (IST). Source: Bela\,
+  https://bela.so/festivals/
 BEGIN:VEVENT
-UID:lohri-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:lohri-2026-01-13-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260113
 DTEND;VALUE=DATE:20260114
 SUMMARY:Lohri
-DESCRIPTION:Abhijit Muhurat: 12:09 PM to 12:51 PM. Computed for Delhi (IST)
- . A tithi-based date can differ by a day elsewhere. Details: https://bela.
- so/festivals/lohri/2026/
+DESCRIPTION:Computed for Delhi (IST). A tithi-based date can differ by a da
+ y elsewhere. Details: https://bela.so/festivals/lohri/2026/
 URL:https://bela.so/festivals/lohri/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:makar-sankranti-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:makar-sankranti-2026-01-14-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260114
 DTEND;VALUE=DATE:20260115
 SUMMARY:Makar Sankranti
-DESCRIPTION:Abhijit Muhurat: 12:09 PM to 12:51 PM. Computed for Delhi (IST)
- . A tithi-based date can differ by a day elsewhere. Details: https://bela.
- so/festivals/makar-sankranti/2026/
+DESCRIPTION:Computed for Delhi (IST). A tithi-based date can differ by a da
+ y elsewhere. Details: https://bela.so/festivals/makar-sankranti/2026/
 URL:https://bela.so/festivals/makar-sankranti/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:pongal-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:pongal-2026-01-14-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260114
 DTEND;VALUE=DATE:20260115
 SUMMARY:Pongal
-DESCRIPTION:Abhijit Muhurat: 12:09 PM to 12:51 PM. Computed for Delhi (IST)
- . A tithi-based date can differ by a day elsewhere. Details: https://bela.
- so/festivals/pongal/2026/
+DESCRIPTION:Computed for Delhi (IST). A tithi-based date can differ by a da
+ y elsewhere. Details: https://bela.so/festivals/pongal/2026/
 URL:https://bela.so/festivals/pongal/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:shattila-ekadashi-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:shattila-ekadashi-2026-01-14-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260114
 DTEND;VALUE=DATE:20260115
 SUMMARY:Shattila Ekadashi
 DESCRIPTION:Tithi: Krishna Ekadashi\, ends 5:54 PM on 14 Jan (IST\, Delhi).
-  Abhijit Muhurat: 12:09 PM to 12:51 PM. Computed for Delhi (IST). A tithi-
- based date can differ by a day elsewhere. Details: https://bela.so/festiva
- ls/shattila-ekadashi/2026/
+  Computed for Delhi (IST). A tithi-based date can differ by a day elsewher
+ e. Details: https://bela.so/festivals/shattila-ekadashi/2026/
 URL:https://bela.so/festivals/shattila-ekadashi/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:vasant-panchami-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:vasant-panchami-2026-01-23-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260123
 DTEND;VALUE=DATE:20260124
 SUMMARY:Vasant Panchami
 DESCRIPTION:Tithi: Shukla Panchami\, ends 1:47 AM on 24 Jan (IST\, Delhi). 
- Abhijit Muhurat: 12:12 PM to 12:54 PM. Computed for Delhi (IST). A tithi-b
- ased date can differ by a day elsewhere. Details: https://bela.so/festival
- s/vasant-panchami/2026/
+ Computed for Delhi (IST). A tithi-based date can differ by a day elsewhere
+ . Details: https://bela.so/festivals/vasant-panchami/2026/
 URL:https://bela.so/festivals/vasant-panchami/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ratha-saptami-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:ratha-saptami-2026-01-25-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260125
 DTEND;VALUE=DATE:20260126
 SUMMARY:Ratha Saptami
 DESCRIPTION:Tithi: Shukla Saptami\, ends 11:11 PM on 25 Jan (IST\, Delhi). 
- Abhijit Muhurat: 12:12 PM to 12:55 PM. Computed for Delhi (IST). A tithi-b
- ased date can differ by a day elsewhere. Details: https://bela.so/festival
- s/ratha-saptami/2026/
+ Computed for Delhi (IST). A tithi-based date can differ by a day elsewhere
+ . Details: https://bela.so/festivals/ratha-saptami/2026/
 URL:https://bela.so/festivals/ratha-saptami/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:jaya-ekadashi-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:jaya-ekadashi-2026-01-29-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260129
 DTEND;VALUE=DATE:20260130
 SUMMARY:Jaya Ekadashi
 DESCRIPTION:Tithi: Shukla Ekadashi\, ends 1:56 PM on 29 Jan (IST\, Delhi). 
- Abhijit Muhurat: 12:13 PM to 12:56 PM. Computed for Delhi (IST). A tithi-b
- ased date can differ by a day elsewhere. Details: https://bela.so/festival
- s/jaya-ekadashi/2026/
+ Computed for Delhi (IST). A tithi-based date can differ by a day elsewhere
+ . Details: https://bela.so/festivals/jaya-ekadashi/2026/
 URL:https://bela.so/festivals/jaya-ekadashi/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:vijaya-ekadashi-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:vijaya-ekadashi-2026-02-13-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260213
 DTEND;VALUE=DATE:20260214
 SUMMARY:Vijaya Ekadashi
 DESCRIPTION:Tithi: Krishna Ekadashi\, ends 2:27 PM on 13 Feb (IST\, Delhi).
-  Abhijit Muhurat: 12:13 PM to 12:58 PM. Computed for Delhi (IST). A tithi-
- based date can differ by a day elsewhere. Details: https://bela.so/festiva
- ls/vijaya-ekadashi/2026/
+  Computed for Delhi (IST). A tithi-based date can differ by a day elsewher
+ e. Details: https://bela.so/festivals/vijaya-ekadashi/2026/
 URL:https://bela.so/festivals/vijaya-ekadashi/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:maha-shivaratri-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:maha-shivaratri-2026-02-15-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260215
 DTEND;VALUE=DATE:20260216
 SUMMARY:Maha Shivaratri
 DESCRIPTION:Tithi: Krishna Chaturdashi\, ends 5:35 PM on 16 Feb (IST\, Delh
- i). Abhijit Muhurat: 12:13 PM to 12:58 PM. Computed for Delhi (IST). A tit
- hi-based date can differ by a day elsewhere. Details: https://bela.so/fest
- ivals/maha-shivaratri/2026/
+ i). Computed for Delhi (IST). A tithi-based date can differ by a day elsew
+ here. Details: https://bela.so/festivals/maha-shivaratri/2026/
 URL:https://bela.so/festivals/maha-shivaratri/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:amalaka-ekadashi-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:amalaka-ekadashi-2026-02-27-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260227
 DTEND;VALUE=DATE:20260228
 SUMMARY:Amalaki Ekadashi
 DESCRIPTION:Tithi: Shukla Ekadashi\, ends 10:34 PM on 27 Feb (IST\, Delhi).
-  Abhijit Muhurat: 12:11 PM to 12:57 PM. Computed for Delhi (IST). A tithi-
- based date can differ by a day elsewhere. Details: https://bela.so/festiva
- ls/amalaka-ekadashi/2026/
+  Computed for Delhi (IST). A tithi-based date can differ by a day elsewher
+ e. Details: https://bela.so/festivals/amalaka-ekadashi/2026/
 URL:https://bela.so/festivals/amalaka-ekadashi/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:holi-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:holi-2026-03-04-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260303
 DTEND;VALUE=DATE:20260304
 SUMMARY:Holi: Holika Dahan
+DESCRIPTION:Part of Holi. Main day: Wednesday\, 4 March 2026. Computed for 
+ Delhi (IST). A tithi-based date can differ by a day elsewhere. Details: ht
+ tps://bela.so/festivals/holi/2026/
+URL:https://bela.so/festivals/holi/2026/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:holi-2026-03-04-1@bela.so
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20260304
+DTEND;VALUE=DATE:20260305
+SUMMARY:Holi: Rangwali Holi (Dhulandi)
 DESCRIPTION:Tithi: Shukla Purnima\, ends 5:09 PM on 3 Mar (IST\, Delhi). Co
  mputed for Delhi (IST). A tithi-based date can differ by a day elsewhere. 
  Details: https://bela.so/festivals/holi/2026/
@@ -147,76 +149,35 @@ URL:https://bela.so/festivals/holi/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:holi-2026-1@bela.so
-DTSTAMP:20261102T000000Z
-DTSTART;VALUE=DATE:20260304
-DTEND;VALUE=DATE:20260305
-SUMMARY:Holi: Rangwali Holi (Dhulandi)
-DESCRIPTION:Tithi: Shukla Purnima\, ends 5:09 PM on 3 Mar (IST\, Delhi). Ab
- hijit Muhurat: 12:10 PM to 12:56 PM. Computed for Delhi (IST). A tithi-bas
- ed date can differ by a day elsewhere. Details: https://bela.so/festivals/
- holi/2026/
-URL:https://bela.so/festivals/holi/2026/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:sheetala-ashtami-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:sheetala-ashtami-2026-03-11-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260311
 DTEND;VALUE=DATE:20260312
 SUMMARY:Sheetala Ashtami (Basoda)
 DESCRIPTION:Tithi: Krishna Ashtami\, ends 4:21 AM on 12 Mar (IST\, Delhi). 
- Abhijit Muhurat: 12:08 PM to 12:55 PM. Computed for Delhi (IST). A tithi-b
- ased date can differ by a day elsewhere. Details: https://bela.so/festival
- s/sheetala-ashtami/2026/
+ Computed for Delhi (IST). A tithi-based date can differ by a day elsewhere
+ . Details: https://bela.so/festivals/sheetala-ashtami/2026/
 URL:https://bela.so/festivals/sheetala-ashtami/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:papavimochani-ekadashi-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:papavimochani-ekadashi-2026-03-15-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260315
 DTEND;VALUE=DATE:20260316
 SUMMARY:Papamochani Ekadashi
 DESCRIPTION:Tithi: Krishna Ekadashi\, ends 9:18 AM on 15 Mar (IST\, Delhi).
-  Abhijit Muhurat: 12:06 PM to 12:54 PM. Computed for Delhi (IST). A tithi-
- based date can differ by a day elsewhere. Details: https://bela.so/festiva
- ls/papavimochani-ekadashi/2026/
+  Computed for Delhi (IST). A tithi-based date can differ by a day elsewher
+ e. Details: https://bela.so/festivals/papavimochani-ekadashi/2026/
 URL:https://bela.so/festivals/papavimochani-ekadashi/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:chaitra-navratri-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:chaitra-navratri-2026-03-19-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260319
 DTEND;VALUE=DATE:20260320
 SUMMARY:Chaitra Navratri: Ghatasthapana (Pratipada)
-DESCRIPTION:Tithi: Shukla Pratipada\, ends 4:53 AM on 20 Mar (IST\, Delhi).
-  Abhijit Muhurat: 12:05 PM to 12:53 PM. Computed for Delhi (IST). A tithi-
- based date can differ by a day elsewhere. Details: https://bela.so/festiva
- ls/chaitra-navratri/2026/
-URL:https://bela.so/festivals/chaitra-navratri/2026/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ugadi-gudi-padwa-2026-0@bela.so
-DTSTAMP:20261102T000000Z
-DTSTART;VALUE=DATE:20260319
-DTEND;VALUE=DATE:20260320
-SUMMARY:Ugadi / Gudi Padwa
-DESCRIPTION:Tithi: Shukla Pratipada\, ends 4:53 AM on 20 Mar (IST\, Delhi).
-  Abhijit Muhurat: 12:05 PM to 12:53 PM. Computed for Delhi (IST). A tithi-
- based date can differ by a day elsewhere. Details: https://bela.so/festiva
- ls/ugadi-gudi-padwa/2026/
-URL:https://bela.so/festivals/ugadi-gudi-padwa/2026/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:chaitra-navratri-2026-1@bela.so
-DTSTAMP:20261102T000000Z
-DTSTART;VALUE=DATE:20260326
-DTEND;VALUE=DATE:20260327
-SUMMARY:Chaitra Navratri: Ram Navami (Navami)
 DESCRIPTION:Tithi: Shukla Pratipada\, ends 4:53 AM on 20 Mar (IST\, Delhi).
   Computed for Delhi (IST). A tithi-based date can differ by a day elsewher
  e. Details: https://bela.so/festivals/chaitra-navratri/2026/
@@ -224,449 +185,415 @@ URL:https://bela.so/festivals/chaitra-navratri/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ram-navami-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:ugadi-gudi-padwa-2026-03-19-0@bela.so
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20260319
+DTEND;VALUE=DATE:20260320
+SUMMARY:Ugadi / Gudi Padwa
+DESCRIPTION:Tithi: Shukla Pratipada\, ends 4:53 AM on 20 Mar (IST\, Delhi).
+  Computed for Delhi (IST). A tithi-based date can differ by a day elsewher
+ e. Details: https://bela.so/festivals/ugadi-gudi-padwa/2026/
+URL:https://bela.so/festivals/ugadi-gudi-padwa/2026/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chaitra-navratri-2026-03-19-1@bela.so
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20260326
+DTEND;VALUE=DATE:20260327
+SUMMARY:Chaitra Navratri: Ram Navami (Navami)
+DESCRIPTION:Part of Chaitra Navratri. Main day: Thursday\, 19 March 2026. C
+ omputed for Delhi (IST). A tithi-based date can differ by a day elsewhere.
+  Details: https://bela.so/festivals/chaitra-navratri/2026/
+URL:https://bela.so/festivals/chaitra-navratri/2026/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-navami-2026-03-26-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260326
 DTEND;VALUE=DATE:20260327
 SUMMARY:Ram Navami
-DESCRIPTION:Tithi: Shukla Navami\, ends 10:08 AM on 27 Mar (IST\, Delhi). A
- bhijit Muhurat: 12:03 PM to 12:52 PM. Computed for Delhi (IST). A tithi-ba
- sed date can differ by a day elsewhere. Details: https://bela.so/festivals
- /ram-navami/2026/
+DESCRIPTION:Tithi: Shukla Navami\, ends 10:08 AM on 27 Mar (IST\, Delhi). C
+ omputed for Delhi (IST). A tithi-based date can differ by a day elsewhere.
+  Details: https://bela.so/festivals/ram-navami/2026/
 URL:https://bela.so/festivals/ram-navami/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:kamada-ekadashi-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:kamada-ekadashi-2026-03-29-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260329
 DTEND;VALUE=DATE:20260330
 SUMMARY:Kamada Ekadashi
 DESCRIPTION:Tithi: Shukla Ekadashi\, ends 7:48 AM on 29 Mar (IST\, Delhi). 
- Abhijit Muhurat: 12:02 PM to 12:51 PM. Computed for Delhi (IST). A tithi-b
- ased date can differ by a day elsewhere. Details: https://bela.so/festival
- s/kamada-ekadashi/2026/
+ Computed for Delhi (IST). A tithi-based date can differ by a day elsewhere
+ . Details: https://bela.so/festivals/kamada-ekadashi/2026/
 URL:https://bela.so/festivals/kamada-ekadashi/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:hanuman-jayanti-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:hanuman-jayanti-2026-04-02-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260402
 DTEND;VALUE=DATE:20260403
 SUMMARY:Hanuman Jayanti
-DESCRIPTION:Tithi: Shukla Purnima\, ends 7:43 AM on 2 Apr (IST\, Delhi). Ab
- hijit Muhurat: 12:00 PM to 12:50 PM. Computed for Delhi (IST). A tithi-bas
- ed date can differ by a day elsewhere. Details: https://bela.so/festivals/
- hanuman-jayanti/2026/
+DESCRIPTION:Tithi: Shukla Purnima\, ends 7:43 AM on 2 Apr (IST\, Delhi). Co
+ mputed for Delhi (IST). A tithi-based date can differ by a day elsewhere. 
+ Details: https://bela.so/festivals/hanuman-jayanti/2026/
 URL:https://bela.so/festivals/hanuman-jayanti/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:varuthini-ekadashi-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:varuthini-ekadashi-2026-04-13-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260413
 DTEND;VALUE=DATE:20260414
 SUMMARY:Varuthini Ekadashi
 DESCRIPTION:Tithi: Krishna Ekadashi\, ends 1:10 AM on 14 Apr (IST\, Delhi).
-  Abhijit Muhurat: 11:56 AM to 12:47 PM. Computed for Delhi (IST). A tithi-
- based date can differ by a day elsewhere. Details: https://bela.so/festiva
- ls/varuthini-ekadashi/2026/
+  Computed for Delhi (IST). A tithi-based date can differ by a day elsewher
+ e. Details: https://bela.so/festivals/varuthini-ekadashi/2026/
 URL:https://bela.so/festivals/varuthini-ekadashi/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:baisakhi-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:baisakhi-2026-04-14-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260414
 DTEND;VALUE=DATE:20260415
 SUMMARY:Baisakhi (Mesha Sankranti)
-DESCRIPTION:Abhijit Muhurat: 11:56 AM to 12:47 PM. Computed for Delhi (IST)
- . A tithi-based date can differ by a day elsewhere. Details: https://bela.
- so/festivals/baisakhi/2026/
+DESCRIPTION:Computed for Delhi (IST). A tithi-based date can differ by a da
+ y elsewhere. Details: https://bela.so/festivals/baisakhi/2026/
 URL:https://bela.so/festivals/baisakhi/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:tamil-new-year-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:tamil-new-year-2026-04-14-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260414
 DTEND;VALUE=DATE:20260415
 SUMMARY:Tamil New Year
-DESCRIPTION:Abhijit Muhurat: 11:56 AM to 12:47 PM. Computed for Delhi (IST)
- . A tithi-based date can differ by a day elsewhere. Details: https://bela.
- so/festivals/tamil-new-year/2026/
+DESCRIPTION:Computed for Delhi (IST). A tithi-based date can differ by a da
+ y elsewhere. Details: https://bela.so/festivals/tamil-new-year/2026/
 URL:https://bela.so/festivals/tamil-new-year/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:vishu-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:vishu-2026-04-14-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260414
 DTEND;VALUE=DATE:20260415
 SUMMARY:Vishu
-DESCRIPTION:Abhijit Muhurat: 11:56 AM to 12:47 PM. Computed for Delhi (IST)
- . A tithi-based date can differ by a day elsewhere. Details: https://bela.
- so/festivals/vishu/2026/
+DESCRIPTION:Computed for Delhi (IST). A tithi-based date can differ by a da
+ y elsewhere. Details: https://bela.so/festivals/vishu/2026/
 URL:https://bela.so/festivals/vishu/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:akshaya-tritiya-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:akshaya-tritiya-2026-04-19-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260419
 DTEND;VALUE=DATE:20260420
 SUMMARY:Akshaya Tritiya
-DESCRIPTION:Tithi: Shukla Tritiya\, ends 7:29 AM on 20 Apr (IST\, Delhi). A
- bhijit Muhurat: 11:55 AM to 12:46 PM. Computed for Delhi (IST). A tithi-ba
- sed date can differ by a day elsewhere. Details: https://bela.so/festivals
- /akshaya-tritiya/2026/
+DESCRIPTION:Tithi: Shukla Tritiya\, ends 7:29 AM on 20 Apr (IST\, Delhi). C
+ omputed for Delhi (IST). A tithi-based date can differ by a day elsewhere.
+  Details: https://bela.so/festivals/akshaya-tritiya/2026/
 URL:https://bela.so/festivals/akshaya-tritiya/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:sita-navami-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:sita-navami-2026-04-25-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260425
 DTEND;VALUE=DATE:20260426
 SUMMARY:Sita Navami
-DESCRIPTION:Tithi: Shukla Navami\, ends 6:29 PM on 25 Apr (IST\, Delhi). Ab
- hijit Muhurat: 11:53 AM to 12:46 PM. Computed for Delhi (IST). A tithi-bas
- ed date can differ by a day elsewhere. Details: https://bela.so/festivals/
- sita-navami/2026/
+DESCRIPTION:Tithi: Shukla Navami\, ends 6:29 PM on 25 Apr (IST\, Delhi). Co
+ mputed for Delhi (IST). A tithi-based date can differ by a day elsewhere. 
+ Details: https://bela.so/festivals/sita-navami/2026/
 URL:https://bela.so/festivals/sita-navami/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mohini-ekadashi-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:mohini-ekadashi-2026-04-27-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260427
 DTEND;VALUE=DATE:20260428
 SUMMARY:Mohini Ekadashi
 DESCRIPTION:Tithi: Shukla Ekadashi\, ends 6:17 PM on 27 Apr (IST\, Delhi). 
- Abhijit Muhurat: 11:53 AM to 12:45 PM. Computed for Delhi (IST). A tithi-b
- ased date can differ by a day elsewhere. Details: https://bela.so/festival
- s/mohini-ekadashi/2026/
+ Computed for Delhi (IST). A tithi-based date can differ by a day elsewhere
+ . Details: https://bela.so/festivals/mohini-ekadashi/2026/
 URL:https://bela.so/festivals/mohini-ekadashi/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:narasimha-jayanti-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:narasimha-jayanti-2026-04-30-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260430
 DTEND;VALUE=DATE:20260501
 SUMMARY:Narasimha Jayanti
 DESCRIPTION:Tithi: Shukla Chaturdashi\, ends 9:14 PM on 30 Apr (IST\, Delhi
- ). Abhijit Muhurat: 11:52 AM to 12:45 PM. Computed for Delhi (IST). A tith
- i-based date can differ by a day elsewhere. Details: https://bela.so/festi
- vals/narasimha-jayanti/2026/
+ ). Computed for Delhi (IST). A tithi-based date can differ by a day elsewh
+ ere. Details: https://bela.so/festivals/narasimha-jayanti/2026/
 URL:https://bela.so/festivals/narasimha-jayanti/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:buddha-purnima-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:buddha-purnima-2026-05-01-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
 SUMMARY:Buddha Purnima
-DESCRIPTION:Tithi: Shukla Purnima\, ends 10:54 PM on 1 May (IST\, Delhi). A
- bhijit Muhurat: 11:52 AM to 12:45 PM. Computed for Delhi (IST). A tithi-ba
- sed date can differ by a day elsewhere. Details: https://bela.so/festivals
- /buddha-purnima/2026/
+DESCRIPTION:Tithi: Shukla Purnima\, ends 10:54 PM on 1 May (IST\, Delhi). C
+ omputed for Delhi (IST). A tithi-based date can differ by a day elsewhere.
+  Details: https://bela.so/festivals/buddha-purnima/2026/
 URL:https://bela.so/festivals/buddha-purnima/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:apara-ekadashi-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:apara-ekadashi-2026-05-13-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260513
 DTEND;VALUE=DATE:20260514
 SUMMARY:Apara Ekadashi
 DESCRIPTION:Tithi: Krishna Ekadashi\, ends 1:31 PM on 13 May (IST\, Delhi).
-  Abhijit Muhurat: 11:51 AM to 12:45 PM. Computed for Delhi (IST). A tithi-
- based date can differ by a day elsewhere. Details: https://bela.so/festiva
- ls/apara-ekadashi/2026/
+  Computed for Delhi (IST). A tithi-based date can differ by a day elsewher
+ e. Details: https://bela.so/festivals/apara-ekadashi/2026/
 URL:https://bela.so/festivals/apara-ekadashi/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:padmini-vishuddha-ekadashi-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:padmini-vishuddha-ekadashi-2026-05-27-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260527
 DTEND;VALUE=DATE:20260528
 SUMMARY:Padmini Ekadashi
 DESCRIPTION:Tithi: Shukla Ekadashi\, ends 6:23 AM on 27 May (IST\, Delhi). 
- Abhijit Muhurat: 11:51 AM to 12:46 PM. Computed for Delhi (IST). A tithi-b
- ased date can differ by a day elsewhere. Details: https://bela.so/festival
- s/padmini-vishuddha-ekadashi/2026/
+ Computed for Delhi (IST). A tithi-based date can differ by a day elsewhere
+ . Details: https://bela.so/festivals/padmini-vishuddha-ekadashi/2026/
 URL:https://bela.so/festivals/padmini-vishuddha-ekadashi/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:parama-shuddha-ekadashi-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:parama-shuddha-ekadashi-2026-06-11-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260611
 DTEND;VALUE=DATE:20260612
 SUMMARY:Parama Ekadashi
 DESCRIPTION:Tithi: Krishna Ekadashi\, ends 10:37 PM on 11 Jun (IST\, Delhi)
- . Abhijit Muhurat: 11:53 AM to 12:49 PM. Computed for Delhi (IST). A tithi
- -based date can differ by a day elsewhere. Details: https://bela.so/festiv
- als/parama-shuddha-ekadashi/2026/
+ . Computed for Delhi (IST). A tithi-based date can differ by a day elsewhe
+ re. Details: https://bela.so/festivals/parama-shuddha-ekadashi/2026/
 URL:https://bela.so/festivals/parama-shuddha-ekadashi/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:nirjala-ekadashi-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:nirjala-ekadashi-2026-06-25-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260625
 DTEND;VALUE=DATE:20260626
 SUMMARY:Nirjala Ekadashi
 DESCRIPTION:Tithi: Shukla Ekadashi\, ends 8:11 PM on 25 Jun (IST\, Delhi). 
- Abhijit Muhurat: 11:56 AM to 12:52 PM. Computed for Delhi (IST). A tithi-b
- ased date can differ by a day elsewhere. Details: https://bela.so/festival
- s/nirjala-ekadashi/2026/
+ Computed for Delhi (IST). A tithi-based date can differ by a day elsewhere
+ . Details: https://bela.so/festivals/nirjala-ekadashi/2026/
 URL:https://bela.so/festivals/nirjala-ekadashi/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:yogini-ekadashi-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:yogini-ekadashi-2026-07-10-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260711
 SUMMARY:Yogini Ekadashi
 DESCRIPTION:Tithi: Krishna Ekadashi\, ends 5:24 AM on 11 Jul (IST\, Delhi).
-  Abhijit Muhurat: 11:59 AM to 12:54 PM. Computed for Delhi (IST). A tithi-
- based date can differ by a day elsewhere. Details: https://bela.so/festiva
- ls/yogini-ekadashi/2026/
+  Computed for Delhi (IST). A tithi-based date can differ by a day elsewher
+ e. Details: https://bela.so/festivals/yogini-ekadashi/2026/
 URL:https://bela.so/festivals/yogini-ekadashi/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ashadha-ekadashi-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:ashadha-ekadashi-2026-07-25-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20260726
 SUMMARY:Ashadhi Ekadashi
 DESCRIPTION:Tithi: Shukla Ekadashi\, ends 11:36 AM on 25 Jul (IST\, Delhi).
-  Abhijit Muhurat: 12:00 PM to 12:55 PM. Computed for Delhi (IST). A tithi-
- based date can differ by a day elsewhere. Details: https://bela.so/festiva
- ls/ashadha-ekadashi/2026/
+  Computed for Delhi (IST). A tithi-based date can differ by a day elsewher
+ e. Details: https://bela.so/festivals/ashadha-ekadashi/2026/
 URL:https://bela.so/festivals/ashadha-ekadashi/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:devashayani-ekadashi-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:devashayani-ekadashi-2026-07-25-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20260726
 SUMMARY:Devshayani Ekadashi
 DESCRIPTION:Tithi: Shukla Ekadashi\, ends 11:36 AM on 25 Jul (IST\, Delhi).
-  Abhijit Muhurat: 12:00 PM to 12:55 PM. Computed for Delhi (IST). A tithi-
- based date can differ by a day elsewhere. Details: https://bela.so/festiva
- ls/devashayani-ekadashi/2026/
+  Computed for Delhi (IST). A tithi-based date can differ by a day elsewher
+ e. Details: https://bela.so/festivals/devashayani-ekadashi/2026/
 URL:https://bela.so/festivals/devashayani-ekadashi/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:guru-purnima-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:guru-purnima-2026-07-29-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260729
 DTEND;VALUE=DATE:20260730
 SUMMARY:Guru Purnima
-DESCRIPTION:Tithi: Shukla Purnima\, ends 8:06 PM on 29 Jul (IST\, Delhi). A
- bhijit Muhurat: 12:00 PM to 12:55 PM. Computed for Delhi (IST). A tithi-ba
- sed date can differ by a day elsewhere. Details: https://bela.so/festivals
- /guru-purnima/2026/
+DESCRIPTION:Tithi: Shukla Purnima\, ends 8:06 PM on 29 Jul (IST\, Delhi). C
+ omputed for Delhi (IST). A tithi-based date can differ by a day elsewhere.
+  Details: https://bela.so/festivals/guru-purnima/2026/
 URL:https://bela.so/festivals/guru-purnima/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:kamika-ekadashi-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:kamika-ekadashi-2026-08-09-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260809
 DTEND;VALUE=DATE:20260810
 SUMMARY:Kamika Ekadashi
 DESCRIPTION:Tithi: Krishna Ekadashi\, ends 11:06 AM on 9 Aug (IST\, Delhi).
-  Abhijit Muhurat: 12:00 PM to 12:53 PM. Computed for Delhi (IST). A tithi-
- based date can differ by a day elsewhere. Details: https://bela.so/festiva
- ls/kamika-ekadashi/2026/
+  Computed for Delhi (IST). A tithi-based date can differ by a day elsewher
+ e. Details: https://bela.so/festivals/kamika-ekadashi/2026/
 URL:https://bela.so/festivals/kamika-ekadashi/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:nag-panchami-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:nag-panchami-2026-08-17-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260817
 DTEND;VALUE=DATE:20260818
 SUMMARY:Nag Panchami
 DESCRIPTION:Tithi: Shukla Panchami\, ends 5:01 PM on 17 Aug (IST\, Delhi). 
- Abhijit Muhurat: 11:59 AM to 12:51 PM. Computed for Delhi (IST). A tithi-b
- ased date can differ by a day elsewhere. Details: https://bela.so/festival
- s/nag-panchami/2026/
+ Computed for Delhi (IST). A tithi-based date can differ by a day elsewhere
+ . Details: https://bela.so/festivals/nag-panchami/2026/
 URL:https://bela.so/festivals/nag-panchami/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:shravana-putrada-ekadashi-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:shravana-putrada-ekadashi-2026-08-23-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
 SUMMARY:Shravana Putrada Ekadashi
 DESCRIPTION:Tithi: Shukla Ekadashi\, ends 4:20 AM on 24 Aug (IST\, Delhi). 
- Abhijit Muhurat: 11:58 AM to 12:50 PM. Computed for Delhi (IST). A tithi-b
- ased date can differ by a day elsewhere. Details: https://bela.so/festival
- s/shravana-putrada-ekadashi/2026/
+ Computed for Delhi (IST). A tithi-based date can differ by a day elsewhere
+ . Details: https://bela.so/festivals/shravana-putrada-ekadashi/2026/
 URL:https://bela.so/festivals/shravana-putrada-ekadashi/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:onam-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:onam-2026-08-26-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
 SUMMARY:Onam (Thiruvonam)
-DESCRIPTION:Abhijit Muhurat: 11:57 AM to 12:49 PM. Computed for Delhi (IST)
- . A tithi-based date can differ by a day elsewhere. Details: https://bela.
- so/festivals/onam/2026/
+DESCRIPTION:Computed for Delhi (IST). A tithi-based date can differ by a da
+ y elsewhere. Details: https://bela.so/festivals/onam/2026/
 URL:https://bela.so/festivals/onam/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:raksha-bandhan-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:raksha-bandhan-2026-08-28-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
 SUMMARY:Raksha Bandhan
 DESCRIPTION:Tithi: Shukla Purnima\, ends 9:49 AM on 28 Aug (IST\, Delhi). R
- akhi muhurat (Purnima\, outside Bhadra): 5:58 AM to 9:49 AM. Abhijit Muhur
- at: 11:57 AM to 12:48 PM. Computed for Delhi (IST). A tithi-based date can
-  differ by a day elsewhere. Details: https://bela.so/festivals/raksha-band
- han/2026/
+ akhi muhurat (Purnima\, outside Bhadra): 5:58 AM to 9:49 AM. Computed for 
+ Delhi (IST). A tithi-based date can differ by a day elsewhere. Details: ht
+ tps://bela.so/festivals/raksha-bandhan/2026/
 URL:https://bela.so/festivals/raksha-bandhan/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:varalakshmi-vratam-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:varalakshmi-vratam-2026-08-28-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
 SUMMARY:Varalakshmi Vratam
-DESCRIPTION:Abhijit Muhurat: 11:57 AM to 12:48 PM. Computed for Delhi (IST)
- . A tithi-based date can differ by a day elsewhere. Details: https://bela.
- so/festivals/varalakshmi-vratam/2026/
+DESCRIPTION:Computed for Delhi (IST). A tithi-based date can differ by a da
+ y elsewhere. Details: https://bela.so/festivals/varalakshmi-vratam/2026/
 URL:https://bela.so/festivals/varalakshmi-vratam/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:janmashtami-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:janmashtami-2026-09-04-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Krishna Janmashtami
 DESCRIPTION:Tithi: Krishna Ashtami\, ends 12:15 AM on 5 Sep (IST\, Delhi). 
- Abhijit Muhurat: 11:55 AM to 12:45 PM. Computed for Delhi (IST). A tithi-b
- ased date can differ by a day elsewhere. Details: https://bela.so/festival
- s/janmashtami/2026/
+ Computed for Delhi (IST). A tithi-based date can differ by a day elsewhere
+ . Details: https://bela.so/festivals/janmashtami/2026/
 URL:https://bela.so/festivals/janmashtami/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:annada-aja-ekadashi-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:annada-aja-ekadashi-2026-09-07-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260908
 SUMMARY:Aja Ekadashi (Annada)
 DESCRIPTION:Tithi: Krishna Ekadashi\, ends 5:05 PM on 7 Sep (IST\, Delhi). 
- Abhijit Muhurat: 11:54 AM to 12:44 PM. Computed for Delhi (IST). A tithi-b
- ased date can differ by a day elsewhere. Details: https://bela.so/festival
- s/annada-aja-ekadashi/2026/
+ Computed for Delhi (IST). A tithi-based date can differ by a day elsewhere
+ . Details: https://bela.so/festivals/annada-aja-ekadashi/2026/
 URL:https://bela.so/festivals/annada-aja-ekadashi/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ganesh-chaturthi-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:ganesh-chaturthi-2026-09-14-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Ganesh Chaturthi
 DESCRIPTION:Tithi: Shukla Chaturthi\, ends 7:45 AM on 15 Sep (IST\, Delhi).
-  Abhijit Muhurat: 11:52 AM to 12:41 PM. Computed for Delhi (IST). A tithi-
- based date can differ by a day elsewhere. Details: https://bela.so/festiva
- ls/ganesh-chaturthi/2026/
+  Computed for Delhi (IST). A tithi-based date can differ by a day elsewher
+ e. Details: https://bela.so/festivals/ganesh-chaturthi/2026/
 URL:https://bela.so/festivals/ganesh-chaturthi/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:hartalika-teej-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:hartalika-teej-2026-09-14-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Hartalika Teej
-DESCRIPTION:Tithi: Shukla Tritiya\, ends 7:08 AM on 14 Sep (IST\, Delhi). A
- bhijit Muhurat: 11:52 AM to 12:41 PM. Computed for Delhi (IST). A tithi-ba
- sed date can differ by a day elsewhere. Details: https://bela.so/festivals
- /hartalika-teej/2026/
+DESCRIPTION:Tithi: Shukla Tritiya\, ends 7:08 AM on 14 Sep (IST\, Delhi). C
+ omputed for Delhi (IST). A tithi-based date can differ by a day elsewhere.
+  Details: https://bela.so/festivals/hartalika-teej/2026/
 URL:https://bela.so/festivals/hartalika-teej/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:parsva-ekadashi-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:parsva-ekadashi-2026-09-22-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:Parsva Ekadashi
 DESCRIPTION:Tithi: Shukla Ekadashi\, ends 9:45 PM on 22 Sep (IST\, Delhi). 
- Abhijit Muhurat: 11:50 AM to 12:38 PM. Computed for Delhi (IST). A tithi-b
- ased date can differ by a day elsewhere. Details: https://bela.so/festival
- s/parsva-ekadashi/2026/
+ Computed for Delhi (IST). A tithi-based date can differ by a day elsewhere
+ . Details: https://bela.so/festivals/parsva-ekadashi/2026/
 URL:https://bela.so/festivals/parsva-ekadashi/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:anant-chaturdashi-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:anant-chaturdashi-2026-09-25-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Anant Chaturdashi
 DESCRIPTION:Tithi: Shukla Chaturdashi\, ends 11:08 PM on 25 Sep (IST\, Delh
- i). Abhijit Muhurat: 11:49 AM to 12:37 PM. Computed for Delhi (IST). A tit
- hi-based date can differ by a day elsewhere. Details: https://bela.so/fest
- ivals/anant-chaturdashi/2026/
+ i). Computed for Delhi (IST). A tithi-based date can differ by a day elsew
+ here. Details: https://bela.so/festivals/anant-chaturdashi/2026/
 URL:https://bela.so/festivals/anant-chaturdashi/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:pitru-paksha-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:pitru-paksha-2026-09-27-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260928
 SUMMARY:Pitru Paksha (Mahalaya): Pitru Paksha begins
-DESCRIPTION:Tithi: Krishna Pratipada\, ends 9:00 PM on 27 Sep (IST\, Delhi)
- . Abhijit Muhurat: 11:48 AM to 12:36 PM. Computed for Delhi (IST). A tithi
- -based date can differ by a day elsewhere. Details: https://bela.so/festiv
- als/pitru-paksha/2026/
-URL:https://bela.so/festivals/pitru-paksha/2026/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:indira-ekadashi-2026-0@bela.so
-DTSTAMP:20261102T000000Z
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261007
-SUMMARY:Indira Ekadashi
-DESCRIPTION:Tithi: Krishna Ekadashi\, ends 12:36 AM on 7 Oct (IST\, Delhi).
-  Abhijit Muhurat: 11:46 AM to 12:33 PM. Computed for Delhi (IST). A tithi-
- based date can differ by a day elsewhere. Details: https://bela.so/festiva
- ls/indira-ekadashi/2026/
-URL:https://bela.so/festivals/indira-ekadashi/2026/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:pitru-paksha-2026-1@bela.so
-DTSTAMP:20261102T000000Z
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
-SUMMARY:Pitru Paksha (Mahalaya): Sarva Pitru Amavasya
 DESCRIPTION:Tithi: Krishna Pratipada\, ends 9:00 PM on 27 Sep (IST\, Delhi)
  . Computed for Delhi (IST). A tithi-based date can differ by a day elsewhe
  re. Details: https://bela.so/festivals/pitru-paksha/2026/
@@ -674,554 +601,561 @@ URL:https://bela.so/festivals/pitru-paksha/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:sharad-navratri-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:indira-ekadashi-2026-10-06-0@bela.so
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:Indira Ekadashi
+DESCRIPTION:Tithi: Krishna Ekadashi\, ends 12:36 AM on 7 Oct (IST\, Delhi).
+  Computed for Delhi (IST). A tithi-based date can differ by a day elsewher
+ e. Details: https://bela.so/festivals/indira-ekadashi/2026/
+URL:https://bela.so/festivals/indira-ekadashi/2026/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pitru-paksha-2026-09-27-1@bela.so
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Pitru Paksha (Mahalaya): Sarva Pitru Amavasya
+DESCRIPTION:Part of Pitru Paksha (Mahalaya). Main day: Sunday\, 27 Septembe
+ r 2026. Computed for Delhi (IST). A tithi-based date can differ by a day e
+ lsewhere. Details: https://bela.so/festivals/pitru-paksha/2026/
+URL:https://bela.so/festivals/pitru-paksha/2026/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sharad-navratri-2026-10-11-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
 SUMMARY:Sharad Navratri: Ghatasthapana (Pratipada)
 DESCRIPTION:Tithi: Shukla Pratipada\, ends 9:32 PM on 11 Oct (IST\, Delhi).
-  Abhijit Muhurat: 11:45 AM to 12:31 PM. Computed for Delhi (IST). A tithi-
- based date can differ by a day elsewhere. Details: https://bela.so/festiva
- ls/sharad-navratri/2026/
+  Computed for Delhi (IST). A tithi-based date can differ by a day elsewher
+ e. Details: https://bela.so/festivals/sharad-navratri/2026/
 URL:https://bela.so/festivals/sharad-navratri/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:durga-ashtami-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:durga-ashtami-2026-10-19-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Durga Ashtami (Maha Ashtami)
 DESCRIPTION:Tithi: Shukla Ashtami\, ends 10:53 AM on 19 Oct (IST\, Delhi). 
- Abhijit Muhurat: 11:43 AM to 12:29 PM. Computed for Delhi (IST). A tithi-b
- ased date can differ by a day elsewhere. Details: https://bela.so/festival
- s/durga-ashtami/2026/
+ Computed for Delhi (IST). A tithi-based date can differ by a day elsewhere
+ . Details: https://bela.so/festivals/durga-ashtami/2026/
 URL:https://bela.so/festivals/durga-ashtami/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:maha-navami-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:maha-navami-2026-10-19-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Maha Navami
-DESCRIPTION:Tithi: Shukla Navami\, ends 12:52 PM on 20 Oct (IST\, Delhi). A
- bhijit Muhurat: 11:43 AM to 12:29 PM. Computed for Delhi (IST). A tithi-ba
- sed date can differ by a day elsewhere. Details: https://bela.so/festivals
- /maha-navami/2026/
+DESCRIPTION:Tithi: Shukla Navami\, ends 12:52 PM on 20 Oct (IST\, Delhi). C
+ omputed for Delhi (IST). A tithi-based date can differ by a day elsewhere.
+  Details: https://bela.so/festivals/maha-navami/2026/
 URL:https://bela.so/festivals/maha-navami/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:sharad-navratri-2026-1@bela.so
-DTSTAMP:20261102T000000Z
+UID:sharad-navratri-2026-10-11-1@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Sharad Navratri: Durga Ashtami
-DESCRIPTION:Tithi: Shukla Pratipada\, ends 9:32 PM on 11 Oct (IST\, Delhi).
-  Computed for Delhi (IST). A tithi-based date can differ by a day elsewher
- e. Details: https://bela.so/festivals/sharad-navratri/2026/
+DESCRIPTION:Part of Sharad Navratri. Main day: Sunday\, 11 October 2026. Co
+ mputed for Delhi (IST). A tithi-based date can differ by a day elsewhere. 
+ Details: https://bela.so/festivals/sharad-navratri/2026/
 URL:https://bela.so/festivals/sharad-navratri/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:sharad-navratri-2026-2@bela.so
-DTSTAMP:20261102T000000Z
+UID:sharad-navratri-2026-10-11-2@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Sharad Navratri: Maha Navami
-DESCRIPTION:Tithi: Shukla Pratipada\, ends 9:32 PM on 11 Oct (IST\, Delhi).
-  Computed for Delhi (IST). A tithi-based date can differ by a day elsewher
- e. Details: https://bela.so/festivals/sharad-navratri/2026/
+DESCRIPTION:Part of Sharad Navratri. Main day: Sunday\, 11 October 2026. Co
+ mputed for Delhi (IST). A tithi-based date can differ by a day elsewhere. 
+ Details: https://bela.so/festivals/sharad-navratri/2026/
 URL:https://bela.so/festivals/sharad-navratri/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:dussehra-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:dussehra-2026-10-20-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Dussehra (Vijayadashami)
-DESCRIPTION:Tithi: Shukla Dashami\, ends 2:13 PM on 21 Oct (IST\, Delhi). A
- bhijit Muhurat: 11:43 AM to 12:28 PM. Computed for Delhi (IST). A tithi-ba
- sed date can differ by a day elsewhere. Details: https://bela.so/festivals
- /dussehra/2026/
+DESCRIPTION:Tithi: Shukla Dashami\, ends 2:13 PM on 21 Oct (IST\, Delhi). C
+ omputed for Delhi (IST). A tithi-based date can differ by a day elsewhere.
+  Details: https://bela.so/festivals/dussehra/2026/
 URL:https://bela.so/festivals/dussehra/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:sharad-navratri-2026-3@bela.so
-DTSTAMP:20261102T000000Z
+UID:sharad-navratri-2026-10-11-3@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Sharad Navratri: Vijayadashami (Dussehra)
-DESCRIPTION:Tithi: Shukla Pratipada\, ends 9:32 PM on 11 Oct (IST\, Delhi).
-  Computed for Delhi (IST). A tithi-based date can differ by a day elsewher
- e. Details: https://bela.so/festivals/sharad-navratri/2026/
+DESCRIPTION:Part of Sharad Navratri. Main day: Sunday\, 11 October 2026. Co
+ mputed for Delhi (IST). A tithi-based date can differ by a day elsewhere. 
+ Details: https://bela.so/festivals/sharad-navratri/2026/
 URL:https://bela.so/festivals/sharad-navratri/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:pasankusa-ekadashi-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:pasankusa-ekadashi-2026-10-22-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Papankusha Ekadashi
 DESCRIPTION:Tithi: Shukla Ekadashi\, ends 2:49 PM on 22 Oct (IST\, Delhi). 
- Abhijit Muhurat: 11:43 AM to 12:28 PM. Computed for Delhi (IST). A tithi-b
- ased date can differ by a day elsewhere. Details: https://bela.so/festival
- s/pasankusa-ekadashi/2026/
+ Computed for Delhi (IST). A tithi-based date can differ by a day elsewhere
+ . Details: https://bela.so/festivals/pasankusa-ekadashi/2026/
 URL:https://bela.so/festivals/pasankusa-ekadashi/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:sharad-purnima-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:sharad-purnima-2026-10-25-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
 SUMMARY:Sharad Purnima (Kojagari)
-DESCRIPTION:Tithi: Shukla Purnima\, ends 9:42 AM on 26 Oct (IST\, Delhi). A
- bhijit Muhurat: 11:43 AM to 12:27 PM. Computed for Delhi (IST). A tithi-ba
- sed date can differ by a day elsewhere. Details: https://bela.so/festivals
- /sharad-purnima/2026/
+DESCRIPTION:Tithi: Shukla Purnima\, ends 9:42 AM on 26 Oct (IST\, Delhi). C
+ omputed for Delhi (IST). A tithi-based date can differ by a day elsewhere.
+  Details: https://bela.so/festivals/sharad-purnima/2026/
 URL:https://bela.so/festivals/sharad-purnima/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:karwa-chauth-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:karwa-chauth-2026-10-29-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 SUMMARY:Karwa Chauth
 DESCRIPTION:Tithi: Krishna Chaturthi\, ends 10:11 PM on 29 Oct (IST\, Delhi
- ). Abhijit Muhurat: 11:43 AM to 12:27 PM. Computed for Delhi (IST). A tith
- i-based date can differ by a day elsewhere. Details: https://bela.so/festi
- vals/karwa-chauth/2026/
+ ). Computed for Delhi (IST). A tithi-based date can differ by a day elsewh
+ ere. Details: https://bela.so/festivals/karwa-chauth/2026/
 URL:https://bela.so/festivals/karwa-chauth/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ahoi-ashtami-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:ahoi-ashtami-2026-11-01-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Ahoi Ashtami
 DESCRIPTION:Tithi: Krishna Ashtami\, ends 1:12 PM on 2 Nov (IST\, Delhi). A
- hoi Ashtami puja muhurat: 5:36 PM to 6:54 PM. Abhijit Muhurat: 11:43 AM to
-  12:27 PM. Computed for Delhi (IST). A tithi-based date can differ by a da
- y elsewhere. Details: https://bela.so/festivals/ahoi-ashtami/2026/
+ hoi Ashtami puja muhurat: 5:36 PM to 6:54 PM. Star sighting (tare): 6:01 P
+ M. Moonrise: 11:40 PM. Computed for Delhi (IST). A tithi-based date can di
+ ffer by a day elsewhere. Details: https://bela.so/festivals/ahoi-ashtami/2
+ 026/
 URL:https://bela.so/festivals/ahoi-ashtami/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ramaa-ekadashi-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:ramaa-ekadashi-2026-11-05-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:Rama Ekadashi
 DESCRIPTION:Tithi: Krishna Ekadashi\, ends 10:37 AM on 5 Nov (IST\, Delhi).
-  Abhijit Muhurat: 11:43 AM to 12:26 PM. Computed for Delhi (IST). A tithi-
- based date can differ by a day elsewhere. Details: https://bela.so/festiva
- ls/ramaa-ekadashi/2026/
+  Computed for Delhi (IST). A tithi-based date can differ by a day elsewher
+ e. Details: https://bela.so/festivals/ramaa-ekadashi/2026/
 URL:https://bela.so/festivals/ramaa-ekadashi/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:dhanteras-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:dhanteras-2026-11-06-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Dhanteras (Dhantrayodashi)
 DESCRIPTION:Tithi: Krishna Trayodashi\, ends 10:49 AM on 7 Nov (IST\, Delhi
  ). Dhanteras puja muhurat: 6:02 PM to 7:58 PM. Pradosh Kaal: 5:33 PM to 8:
- 10 PM. Vrishabha Kaal (Taurus rising): 6:02 PM to 7:58 PM. Abhijit Muhurat
- : 11:43 AM to 12:26 PM. Computed for Delhi (IST). A tithi-based date can d
- iffer by a day elsewhere. Details: https://bela.so/festivals/dhanteras/202
- 6/
+ 10 PM. Vrishabha Kaal (Taurus rising): 6:02 PM to 7:58 PM. Computed for De
+ lhi (IST). A tithi-based date can differ by a day elsewhere. Details: http
+ s://bela.so/festivals/dhanteras/2026/
 URL:https://bela.so/festivals/dhanteras/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:diwali-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:diwali-2026-11-08-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY:Diwali (Lakshmi Puja)
 DESCRIPTION:Tithi: Krishna Amavasya\, ends 12:33 PM on 9 Nov (IST\, Delhi).
   Lakshmi Puja muhurat: 5:54 PM to 7:50 PM. Pradosh Kaal: 5:31 PM to 8:09 P
  M. Vrishabha Kaal (Taurus rising): 5:54 PM to 7:50 PM. Mahanishita Kaal: 1
- 1:39 PM to 12:31 AM. Simha Kaal (Leo rising): 12:25 AM to 2:42 AM. Abhijit
-  Muhurat: 11:43 AM to 12:26 PM. Computed for Delhi (IST). A tithi-based da
- te can differ by a day elsewhere. Details: https://bela.so/festivals/diwal
- i/2026/
+ 1:39 PM to 12:31 AM. Simha Kaal (Leo rising): 12:25 AM on 9 Nov to 2:42 AM
+ . Computed for Delhi (IST). A tithi-based date can differ by a day elsewhe
+ re. Details: https://bela.so/festivals/diwali/2026/
 URL:https://bela.so/festivals/diwali/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:kali-puja-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:kali-puja-2026-11-08-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY:Kali Puja
 DESCRIPTION:Tithi: Krishna Amavasya\, ends 12:33 PM on 9 Nov (IST\, Delhi).
-  Kali Puja (Nishita Kaal): 11:39 PM to 12:31 AM. Abhijit Muhurat: 11:43 AM
-  to 12:26 PM. Computed for Delhi (IST). A tithi-based date can differ by a
-  day elsewhere. Details: https://bela.so/festivals/kali-puja/2026/
+  Kali Puja (Nishita Kaal): 11:39 PM to 12:31 AM. Computed for Delhi (IST).
+  A tithi-based date can differ by a day elsewhere. Details: https://bela.s
+ o/festivals/kali-puja/2026/
 URL:https://bela.so/festivals/kali-puja/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:naraka-chaturdashi-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:naraka-chaturdashi-2026-11-08-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY:Naraka Chaturdashi (Choti Diwali)
 DESCRIPTION:Tithi: Krishna Chaturdashi\, ends 11:29 AM on 8 Nov (IST\, Delh
- i). Abhyang Snan (moonrise to sunrise): 5:41 AM to 6:38 AM. Abhijit Muhura
- t: 11:43 AM to 12:26 PM. Computed for Delhi (IST). A tithi-based date can 
- differ by a day elsewhere. Details: https://bela.so/festivals/naraka-chatu
- rdashi/2026/
+ i). Abhyang Snan (moonrise to sunrise): 5:41 AM to 6:38 AM. Computed for D
+ elhi (IST). A tithi-based date can differ by a day elsewhere. Details: htt
+ ps://bela.so/festivals/naraka-chaturdashi/2026/
 URL:https://bela.so/festivals/naraka-chaturdashi/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:govardhan-puja-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:govardhan-puja-2026-11-10-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:Govardhan Puja
 DESCRIPTION:Tithi: Shukla Pratipada\, ends 2:01 PM on 10 Nov (IST\, Delhi).
-  Govardhan Puja (Pratahkala): 6:40 AM to 8:50 AM. Abhijit Muhurat: 11:43 A
- M to 12:27 PM. Computed for Delhi (IST). A tithi-based date can differ by 
- a day elsewhere. Details: https://bela.so/festivals/govardhan-puja/2026/
+  Govardhan Puja (Pratahkala): 6:40 AM to 8:50 AM. Computed for Delhi (IST)
+ . A tithi-based date can differ by a day elsewhere. Details: https://bela.
+ so/festivals/govardhan-puja/2026/
 URL:https://bela.so/festivals/govardhan-puja/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:bhai-dooj-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:bhai-dooj-2026-11-11-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:Bhai Dooj
 DESCRIPTION:Tithi: Shukla Dwitiya\, ends 3:55 PM on 11 Nov (IST\, Delhi). B
- hai Dooj tilak (Aparahna): 1:10 PM to 3:20 PM. Abhijit Muhurat: 11:43 AM t
- o 12:27 PM. Computed for Delhi (IST). A tithi-based date can differ by a d
- ay elsewhere. Details: https://bela.so/festivals/bhai-dooj/2026/
+ hai Dooj tilak (Aparahna): 1:10 PM to 3:20 PM. Computed for Delhi (IST). A
+  tithi-based date can differ by a day elsewhere. Details: https://bela.so/
+ festivals/bhai-dooj/2026/
 URL:https://bela.so/festivals/bhai-dooj/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:chhath-puja-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:chhath-puja-2026-11-15-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Chhath Puja: Nahay Khay
-DESCRIPTION:Tithi: Shukla Shashthi\, ends 2:02 AM on 16 Nov (IST\, Delhi). 
- Computed for Delhi (IST). A tithi-based date can differ by a day elsewhere
- . Details: https://bela.so/festivals/chhath-puja/2026/
+DESCRIPTION:Part of Chhath Puja. Main day: Sunday\, 15 November 2026. Compu
+ ted for Delhi (IST). A tithi-based date can differ by a day elsewhere. Det
+ ails: https://bela.so/festivals/chhath-puja/2026/
 URL:https://bela.so/festivals/chhath-puja/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:chhath-puja-2026-1@bela.so
-DTSTAMP:20261102T000000Z
+UID:chhath-puja-2026-11-15-1@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:Chhath Puja: Kharna
-DESCRIPTION:Tithi: Shukla Shashthi\, ends 2:02 AM on 16 Nov (IST\, Delhi). 
- Computed for Delhi (IST). A tithi-based date can differ by a day elsewhere
- . Details: https://bela.so/festivals/chhath-puja/2026/
+DESCRIPTION:Part of Chhath Puja. Main day: Sunday\, 15 November 2026. Compu
+ ted for Delhi (IST). A tithi-based date can differ by a day elsewhere. Det
+ ails: https://bela.so/festivals/chhath-puja/2026/
 URL:https://bela.so/festivals/chhath-puja/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:chhath-puja-2026-2@bela.so
-DTSTAMP:20261102T000000Z
+UID:chhath-puja-2026-11-15-2@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:Chhath Puja: Sandhya Arghya
 DESCRIPTION:Tithi: Shukla Shashthi\, ends 2:02 AM on 16 Nov (IST\, Delhi). 
- Abhijit Muhurat: 11:44 AM to 12:27 PM. Computed for Delhi (IST). A tithi-b
- ased date can differ by a day elsewhere. Details: https://bela.so/festival
- s/chhath-puja/2026/
+ Sandhya Arghya (sunset): 5:28 PM. Computed for Delhi (IST). A tithi-based 
+ date can differ by a day elsewhere. Details: https://bela.so/festivals/chh
+ ath-puja/2026/
 URL:https://bela.so/festivals/chhath-puja/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:chhath-puja-2026-3@bela.so
-DTSTAMP:20261102T000000Z
+UID:chhath-puja-2026-11-15-3@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:Chhath Puja: Usha Arghya
-DESCRIPTION:Tithi: Shukla Shashthi\, ends 2:02 AM on 16 Nov (IST\, Delhi). 
- Computed for Delhi (IST). A tithi-based date can differ by a day elsewhere
- . Details: https://bela.so/festivals/chhath-puja/2026/
+DESCRIPTION:Part of Chhath Puja. Main day: Sunday\, 15 November 2026. Usha 
+ Arghya (sunrise): 6:44 AM. Computed for Delhi (IST). A tithi-based date ca
+ n differ by a day elsewhere. Details: https://bela.so/festivals/chhath-puj
+ a/2026/
 URL:https://bela.so/festivals/chhath-puja/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:guruvayur-ekadashi-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:guruvayur-ekadashi-2026-11-20-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Guruvayur Ekadashi
 DESCRIPTION:Tithi: Shukla Ekadashi\, ends 6:33 AM on 21 Nov (IST\, Delhi). 
- Abhijit Muhurat: 11:45 AM to 12:28 PM. Computed for Delhi (IST). A tithi-b
- ased date can differ by a day elsewhere. Details: https://bela.so/festival
- s/guruvayur-ekadashi/2026/
+ Computed for Delhi (IST). A tithi-based date can differ by a day elsewhere
+ . Details: https://bela.so/festivals/guruvayur-ekadashi/2026/
 URL:https://bela.so/festivals/guruvayur-ekadashi/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:prabodhini-devuthana-ekadashi-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:prabodhini-devuthana-ekadashi-2026-11-20-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Devutthana Ekadashi (Prabodhini)
 DESCRIPTION:Tithi: Shukla Ekadashi\, ends 6:33 AM on 21 Nov (IST\, Delhi). 
- Abhijit Muhurat: 11:45 AM to 12:28 PM. Computed for Delhi (IST). A tithi-b
- ased date can differ by a day elsewhere. Details: https://bela.so/festival
- s/prabodhini-devuthana-ekadashi/2026/
+ Computed for Delhi (IST). A tithi-based date can differ by a day elsewhere
+ . Details: https://bela.so/festivals/prabodhini-devuthana-ekadashi/2026/
 URL:https://bela.so/festivals/prabodhini-devuthana-ekadashi/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:karthigai-deepam-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:karthigai-deepam-2026-11-24-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Karthigai Deepam
-DESCRIPTION:Tithi: Shukla Purnima\, ends 8:24 PM on 24 Nov (IST\, Delhi). A
- bhijit Muhurat: 11:47 AM to 12:29 PM. Computed for Delhi (IST). A tithi-ba
- sed date can differ by a day elsewhere. Details: https://bela.so/festivals
- /karthigai-deepam/2026/
+DESCRIPTION:Tithi: Shukla Purnima\, ends 8:24 PM on 24 Nov (IST\, Delhi). C
+ omputed for Delhi (IST). A tithi-based date can differ by a day elsewhere.
+  Details: https://bela.so/festivals/karthigai-deepam/2026/
 URL:https://bela.so/festivals/karthigai-deepam/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:utpanna-ekadashi-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:utpanna-ekadashi-2026-12-04-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Utpanna Ekadashi
 DESCRIPTION:Tithi: Krishna Ekadashi\, ends 11:46 PM on 4 Dec (IST\, Delhi).
-  Abhijit Muhurat: 11:50 AM to 12:32 PM. Computed for Delhi (IST). A tithi-
- based date can differ by a day elsewhere. Details: https://bela.so/festiva
- ls/utpanna-ekadashi/2026/
+  Computed for Delhi (IST). A tithi-based date can differ by a day elsewher
+ e. Details: https://bela.so/festivals/utpanna-ekadashi/2026/
 URL:https://bela.so/festivals/utpanna-ekadashi/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:vivaha-panchami-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:vivaha-panchami-2026-12-14-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
 SUMMARY:Vivaha Panchami
 DESCRIPTION:Tithi: Shukla Panchami\, ends 7:17 PM on 14 Dec (IST\, Delhi). 
- Abhijit Muhurat: 11:55 AM to 12:36 PM. Computed for Delhi (IST). A tithi-b
- ased date can differ by a day elsewhere. Details: https://bela.so/festival
- s/vivaha-panchami/2026/
+ Computed for Delhi (IST). A tithi-based date can differ by a day elsewhere
+ . Details: https://bela.so/festivals/vivaha-panchami/2026/
 URL:https://bela.so/festivals/vivaha-panchami/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:gita-jayanti-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:gita-jayanti-2026-12-20-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:Gita Jayanti
 DESCRIPTION:Tithi: Shukla Ekadashi\, ends 8:16 PM on 20 Dec (IST\, Delhi). 
- Abhijit Muhurat: 11:58 AM to 12:39 PM. Computed for Delhi (IST). A tithi-b
- ased date can differ by a day elsewhere. Details: https://bela.so/festival
- s/gita-jayanti/2026/
+ Computed for Delhi (IST). A tithi-based date can differ by a day elsewhere
+ . Details: https://bela.so/festivals/gita-jayanti/2026/
 URL:https://bela.so/festivals/gita-jayanti/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mokshadha-ekadashi-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:mokshadha-ekadashi-2026-12-20-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:Mokshada Ekadashi
 DESCRIPTION:Tithi: Shukla Ekadashi\, ends 8:16 PM on 20 Dec (IST\, Delhi). 
- Abhijit Muhurat: 11:58 AM to 12:39 PM. Computed for Delhi (IST). A tithi-b
- ased date can differ by a day elsewhere. Details: https://bela.so/festival
- s/mokshadha-ekadashi/2026/
+ Computed for Delhi (IST). A tithi-based date can differ by a day elsewhere
+ . Details: https://bela.so/festivals/mokshadha-ekadashi/2026/
 URL:https://bela.so/festivals/mokshadha-ekadashi/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:vaikunta-ekadashi-2026-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:vaikunta-ekadashi-2026-12-20-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:Vaikuntha Ekadashi
 DESCRIPTION:Tithi: Shukla Ekadashi\, ends 8:16 PM on 20 Dec (IST\, Delhi). 
- Abhijit Muhurat: 11:58 AM to 12:39 PM. Computed for Delhi (IST). A tithi-b
- ased date can differ by a day elsewhere. Details: https://bela.so/festival
- s/vaikunta-ekadashi/2026/
+ Computed for Delhi (IST). A tithi-based date can differ by a day elsewhere
+ . Details: https://bela.so/festivals/vaikunta-ekadashi/2026/
 URL:https://bela.so/festivals/vaikunta-ekadashi/2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:saphala-ekadashi-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:saphala-ekadashi-2027-01-03-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
 SUMMARY:Saphala Ekadashi
 DESCRIPTION:Tithi: Krishna Ekadashi\, ends 4:10 PM on 3 Jan (IST\, Delhi). 
- Abhijit Muhurat: 12:05 PM to 12:46 PM. Computed for Delhi (IST). A tithi-b
- ased date can differ by a day elsewhere. Details: https://bela.so/festival
- s/saphala-ekadashi/2027/
+ Computed for Delhi (IST). A tithi-based date can differ by a day elsewhere
+ . Details: https://bela.so/festivals/saphala-ekadashi/2027/
 URL:https://bela.so/festivals/saphala-ekadashi/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:lohri-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:lohri-2027-01-14-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20270114
 DTEND;VALUE=DATE:20270115
 SUMMARY:Lohri
-DESCRIPTION:Abhijit Muhurat: 12:09 PM to 12:51 PM. Computed for Delhi (IST)
- . A tithi-based date can differ by a day elsewhere. Details: https://bela.
- so/festivals/lohri/2027/
+DESCRIPTION:Computed for Delhi (IST). A tithi-based date can differ by a da
+ y elsewhere. Details: https://bela.so/festivals/lohri/2027/
 URL:https://bela.so/festivals/lohri/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:makar-sankranti-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:makar-sankranti-2027-01-15-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:Makar Sankranti
-DESCRIPTION:Abhijit Muhurat: 12:10 PM to 12:51 PM. Computed for Delhi (IST)
- . A tithi-based date can differ by a day elsewhere. Details: https://bela.
- so/festivals/makar-sankranti/2027/
+DESCRIPTION:Computed for Delhi (IST). A tithi-based date can differ by a da
+ y elsewhere. Details: https://bela.so/festivals/makar-sankranti/2027/
 URL:https://bela.so/festivals/makar-sankranti/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:pongal-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:pongal-2027-01-15-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:Pongal
-DESCRIPTION:Abhijit Muhurat: 12:10 PM to 12:51 PM. Computed for Delhi (IST)
- . A tithi-based date can differ by a day elsewhere. Details: https://bela.
- so/festivals/pongal/2027/
+DESCRIPTION:Computed for Delhi (IST). A tithi-based date can differ by a da
+ y elsewhere. Details: https://bela.so/festivals/pongal/2027/
 URL:https://bela.so/festivals/pongal/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:pausha-putrada-ekadashi-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:pausha-putrada-ekadashi-2027-01-18-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20270118
 DTEND;VALUE=DATE:20270119
 SUMMARY:Pausha Putrada Ekadashi
 DESCRIPTION:Tithi: Shukla Ekadashi\, ends 7:51 AM on 19 Jan (IST\, Delhi). 
- Abhijit Muhurat: 12:10 PM to 12:53 PM. Computed for Delhi (IST). A tithi-b
- ased date can differ by a day elsewhere. Details: https://bela.so/festival
- s/pausha-putrada-ekadashi/2027/
+ Computed for Delhi (IST). A tithi-based date can differ by a day elsewhere
+ . Details: https://bela.so/festivals/pausha-putrada-ekadashi/2027/
 URL:https://bela.so/festivals/pausha-putrada-ekadashi/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:shattila-ekadashi-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:shattila-ekadashi-2027-02-02-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20270202
 DTEND;VALUE=DATE:20270203
 SUMMARY:Shattila Ekadashi
 DESCRIPTION:Tithi: Krishna Ekadashi\, ends 11:12 AM on 2 Feb (IST\, Delhi).
-  Abhijit Muhurat: 12:13 PM to 12:57 PM. Computed for Delhi (IST). A tithi-
- based date can differ by a day elsewhere. Details: https://bela.so/festiva
- ls/shattila-ekadashi/2027/
+  Computed for Delhi (IST). A tithi-based date can differ by a day elsewher
+ e. Details: https://bela.so/festivals/shattila-ekadashi/2027/
 URL:https://bela.so/festivals/shattila-ekadashi/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:vasant-panchami-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:vasant-panchami-2027-02-11-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20270211
 DTEND;VALUE=DATE:20270212
 SUMMARY:Vasant Panchami
 DESCRIPTION:Tithi: Shukla Panchami\, ends 3:19 AM on 12 Feb (IST\, Delhi). 
- Abhijit Muhurat: 12:13 PM to 12:58 PM. Computed for Delhi (IST). A tithi-b
- ased date can differ by a day elsewhere. Details: https://bela.so/festival
- s/vasant-panchami/2027/
+ Computed for Delhi (IST). A tithi-based date can differ by a day elsewhere
+ . Details: https://bela.so/festivals/vasant-panchami/2027/
 URL:https://bela.so/festivals/vasant-panchami/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ratha-saptami-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:ratha-saptami-2027-02-13-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
 SUMMARY:Ratha Saptami
-DESCRIPTION:Tithi: Shukla Saptami\, ends 2:08 AM on 14 Feb (IST\, Delhi). A
- bhijit Muhurat: 12:13 PM to 12:58 PM. Computed for Delhi (IST). A tithi-ba
- sed date can differ by a day elsewhere. Details: https://bela.so/festivals
- /ratha-saptami/2027/
+DESCRIPTION:Tithi: Shukla Saptami\, ends 2:08 AM on 14 Feb (IST\, Delhi). C
+ omputed for Delhi (IST). A tithi-based date can differ by a day elsewhere.
+  Details: https://bela.so/festivals/ratha-saptami/2027/
 URL:https://bela.so/festivals/ratha-saptami/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:jaya-ekadashi-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:jaya-ekadashi-2027-02-17-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20270217
 DTEND;VALUE=DATE:20270218
 SUMMARY:Jaya Ekadashi
 DESCRIPTION:Tithi: Shukla Ekadashi\, ends 5:33 PM on 17 Feb (IST\, Delhi). 
- Abhijit Muhurat: 12:13 PM to 12:58 PM. Computed for Delhi (IST). A tithi-b
- ased date can differ by a day elsewhere. Details: https://bela.so/festival
- s/jaya-ekadashi/2027/
+ Computed for Delhi (IST). A tithi-based date can differ by a day elsewhere
+ . Details: https://bela.so/festivals/jaya-ekadashi/2027/
 URL:https://bela.so/festivals/jaya-ekadashi/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:vijaya-ekadashi-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:vijaya-ekadashi-2027-03-04-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20270304
 DTEND;VALUE=DATE:20270305
 SUMMARY:Vijaya Ekadashi
 DESCRIPTION:Tithi: Krishna Ekadashi\, ends 7:25 AM on 4 Mar (IST\, Delhi). 
- Abhijit Muhurat: 12:10 PM to 12:56 PM. Computed for Delhi (IST). A tithi-b
- ased date can differ by a day elsewhere. Details: https://bela.so/festival
- s/vijaya-ekadashi/2027/
+ Computed for Delhi (IST). A tithi-based date can differ by a day elsewhere
+ . Details: https://bela.so/festivals/vijaya-ekadashi/2027/
 URL:https://bela.so/festivals/vijaya-ekadashi/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:maha-shivaratri-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:maha-shivaratri-2027-03-06-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20270306
 DTEND;VALUE=DATE:20270307
 SUMMARY:Maha Shivaratri
 DESCRIPTION:Tithi: Krishna Chaturdashi\, ends 1:48 PM on 7 Mar (IST\, Delhi
- ). Abhijit Muhurat: 12:09 PM to 12:56 PM. Computed for Delhi (IST). A tith
- i-based date can differ by a day elsewhere. Details: https://bela.so/festi
- vals/maha-shivaratri/2027/
+ ). Computed for Delhi (IST). A tithi-based date can differ by a day elsewh
+ ere. Details: https://bela.so/festivals/maha-shivaratri/2027/
 URL:https://bela.so/festivals/maha-shivaratri/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:amalaka-ekadashi-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:amalaka-ekadashi-2027-03-18-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20270318
 DTEND;VALUE=DATE:20270319
 SUMMARY:Amalaki Ekadashi
 DESCRIPTION:Tithi: Shukla Ekadashi\, ends 1:52 AM on 19 Mar (IST\, Delhi). 
- Abhijit Muhurat: 12:06 PM to 12:54 PM. Computed for Delhi (IST). A tithi-b
- ased date can differ by a day elsewhere. Details: https://bela.so/festival
- s/amalaka-ekadashi/2027/
+ Computed for Delhi (IST). A tithi-based date can differ by a day elsewhere
+ . Details: https://bela.so/festivals/amalaka-ekadashi/2027/
 URL:https://bela.so/festivals/amalaka-ekadashi/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:holi-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:holi-2027-03-22-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
 SUMMARY:Holi: Holika Dahan
+DESCRIPTION:Part of Holi. Main day: Monday\, 22 March 2027. Computed for De
+ lhi (IST). A tithi-based date can differ by a day elsewhere. Details: http
+ s://bela.so/festivals/holi/2027/
+URL:https://bela.so/festivals/holi/2027/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:holi-2027-03-22-1@bela.so
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+SUMMARY:Holi: Rangwali Holi (Dhulandi)
 DESCRIPTION:Tithi: Shukla Purnima\, ends 4:14 PM on 22 Mar (IST\, Delhi). C
  omputed for Delhi (IST). A tithi-based date can differ by a day elsewhere.
   Details: https://bela.so/festivals/holi/2027/
@@ -1229,112 +1163,35 @@ URL:https://bela.so/festivals/holi/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:holi-2027-1@bela.so
-DTSTAMP:20261102T000000Z
-DTSTART;VALUE=DATE:20270322
-DTEND;VALUE=DATE:20270323
-SUMMARY:Holi: Rangwali Holi (Dhulandi)
-DESCRIPTION:Tithi: Shukla Purnima\, ends 4:14 PM on 22 Mar (IST\, Delhi). A
- bhijit Muhurat: 12:04 PM to 12:53 PM. Computed for Delhi (IST). A tithi-ba
- sed date can differ by a day elsewhere. Details: https://bela.so/festivals
- /holi/2027/
-URL:https://bela.so/festivals/holi/2027/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:sheetala-ashtami-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:sheetala-ashtami-2027-03-30-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20270330
 DTEND;VALUE=DATE:20270331
 SUMMARY:Sheetala Ashtami (Basoda)
 DESCRIPTION:Tithi: Krishna Ashtami\, ends 7:41 PM on 30 Mar (IST\, Delhi). 
- Abhijit Muhurat: 12:01 PM to 12:51 PM. Computed for Delhi (IST). A tithi-b
- ased date can differ by a day elsewhere. Details: https://bela.so/festival
- s/sheetala-ashtami/2027/
+ Computed for Delhi (IST). A tithi-based date can differ by a day elsewhere
+ . Details: https://bela.so/festivals/sheetala-ashtami/2027/
 URL:https://bela.so/festivals/sheetala-ashtami/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:papavimochani-ekadashi-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:papavimochani-ekadashi-2027-04-02-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20270402
 DTEND;VALUE=DATE:20270403
 SUMMARY:Papamochani Ekadashi
 DESCRIPTION:Tithi: Krishna Ekadashi\, ends 2:53 AM on 3 Apr (IST\, Delhi). 
- Abhijit Muhurat: 12:00 PM to 12:50 PM. Computed for Delhi (IST). A tithi-b
- ased date can differ by a day elsewhere. Details: https://bela.so/festival
- s/papavimochani-ekadashi/2027/
+ Computed for Delhi (IST). A tithi-based date can differ by a day elsewhere
+ . Details: https://bela.so/festivals/papavimochani-ekadashi/2027/
 URL:https://bela.so/festivals/papavimochani-ekadashi/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:chaitra-navratri-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:chaitra-navratri-2027-04-07-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270408
 SUMMARY:Chaitra Navratri: Ghatasthapana (Pratipada)
-DESCRIPTION:Tithi: Shukla Pratipada\, ends 4:30 AM on 8 Apr (IST\, Delhi). 
- Abhijit Muhurat: 11:58 AM to 12:49 PM. Computed for Delhi (IST). A tithi-b
- ased date can differ by a day elsewhere. Details: https://bela.so/festival
- s/chaitra-navratri/2027/
-URL:https://bela.so/festivals/chaitra-navratri/2027/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ugadi-gudi-padwa-2027-0@bela.so
-DTSTAMP:20261102T000000Z
-DTSTART;VALUE=DATE:20270407
-DTEND;VALUE=DATE:20270408
-SUMMARY:Ugadi / Gudi Padwa
-DESCRIPTION:Tithi: Shukla Pratipada\, ends 4:30 AM on 8 Apr (IST\, Delhi). 
- Abhijit Muhurat: 11:58 AM to 12:49 PM. Computed for Delhi (IST). A tithi-b
- ased date can differ by a day elsewhere. Details: https://bela.so/festival
- s/ugadi-gudi-padwa/2027/
-URL:https://bela.so/festivals/ugadi-gudi-padwa/2027/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:baisakhi-2027-0@bela.so
-DTSTAMP:20261102T000000Z
-DTSTART;VALUE=DATE:20270414
-DTEND;VALUE=DATE:20270415
-SUMMARY:Baisakhi (Mesha Sankranti)
-DESCRIPTION:Abhijit Muhurat: 11:56 AM to 12:47 PM. Computed for Delhi (IST)
- . A tithi-based date can differ by a day elsewhere. Details: https://bela.
- so/festivals/baisakhi/2027/
-URL:https://bela.so/festivals/baisakhi/2027/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tamil-new-year-2027-0@bela.so
-DTSTAMP:20261102T000000Z
-DTSTART;VALUE=DATE:20270414
-DTEND;VALUE=DATE:20270415
-SUMMARY:Tamil New Year
-DESCRIPTION:Abhijit Muhurat: 11:56 AM to 12:47 PM. Computed for Delhi (IST)
- . A tithi-based date can differ by a day elsewhere. Details: https://bela.
- so/festivals/tamil-new-year/2027/
-URL:https://bela.so/festivals/tamil-new-year/2027/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:vishu-2027-0@bela.so
-DTSTAMP:20261102T000000Z
-DTSTART;VALUE=DATE:20270414
-DTEND;VALUE=DATE:20270415
-SUMMARY:Vishu
-DESCRIPTION:Abhijit Muhurat: 11:56 AM to 12:47 PM. Computed for Delhi (IST)
- . A tithi-based date can differ by a day elsewhere. Details: https://bela.
- so/festivals/vishu/2027/
-URL:https://bela.so/festivals/vishu/2027/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:chaitra-navratri-2027-1@bela.so
-DTSTAMP:20261102T000000Z
-DTSTART;VALUE=DATE:20270415
-DTEND;VALUE=DATE:20270416
-SUMMARY:Chaitra Navratri: Ram Navami (Navami)
 DESCRIPTION:Tithi: Shukla Pratipada\, ends 4:30 AM on 8 Apr (IST\, Delhi). 
  Computed for Delhi (IST). A tithi-based date can differ by a day elsewhere
  . Details: https://bela.so/festivals/chaitra-navratri/2027/
@@ -1342,387 +1199,391 @@ URL:https://bela.so/festivals/chaitra-navratri/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ram-navami-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:ugadi-gudi-padwa-2027-04-07-0@bela.so
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:Ugadi / Gudi Padwa
+DESCRIPTION:Tithi: Shukla Pratipada\, ends 4:30 AM on 8 Apr (IST\, Delhi). 
+ Computed for Delhi (IST). A tithi-based date can differ by a day elsewhere
+ . Details: https://bela.so/festivals/ugadi-gudi-padwa/2027/
+URL:https://bela.so/festivals/ugadi-gudi-padwa/2027/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:baisakhi-2027-04-14-0@bela.so
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270415
+SUMMARY:Baisakhi (Mesha Sankranti)
+DESCRIPTION:Computed for Delhi (IST). A tithi-based date can differ by a da
+ y elsewhere. Details: https://bela.so/festivals/baisakhi/2027/
+URL:https://bela.so/festivals/baisakhi/2027/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tamil-new-year-2027-04-14-0@bela.so
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270415
+SUMMARY:Tamil New Year
+DESCRIPTION:Computed for Delhi (IST). A tithi-based date can differ by a da
+ y elsewhere. Details: https://bela.so/festivals/tamil-new-year/2027/
+URL:https://bela.so/festivals/tamil-new-year/2027/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vishu-2027-04-14-0@bela.so
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270415
+SUMMARY:Vishu
+DESCRIPTION:Computed for Delhi (IST). A tithi-based date can differ by a da
+ y elsewhere. Details: https://bela.so/festivals/vishu/2027/
+URL:https://bela.so/festivals/vishu/2027/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:chaitra-navratri-2027-04-07-1@bela.so
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:Chaitra Navratri: Ram Navami (Navami)
+DESCRIPTION:Part of Chaitra Navratri. Main day: Wednesday\, 7 April 2027. C
+ omputed for Delhi (IST). A tithi-based date can differ by a day elsewhere.
+  Details: https://bela.so/festivals/chaitra-navratri/2027/
+URL:https://bela.so/festivals/chaitra-navratri/2027/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-navami-2027-04-15-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
 SUMMARY:Ram Navami
-DESCRIPTION:Tithi: Shukla Navami\, ends 1:22 PM on 15 Apr (IST\, Delhi). Ab
- hijit Muhurat: 11:56 AM to 12:47 PM. Computed for Delhi (IST). A tithi-bas
- ed date can differ by a day elsewhere. Details: https://bela.so/festivals/
- ram-navami/2027/
+DESCRIPTION:Tithi: Shukla Navami\, ends 1:22 PM on 15 Apr (IST\, Delhi). Co
+ mputed for Delhi (IST). A tithi-based date can differ by a day elsewhere. 
+ Details: https://bela.so/festivals/ram-navami/2027/
 URL:https://bela.so/festivals/ram-navami/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:kamada-ekadashi-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:kamada-ekadashi-2027-04-17-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20270417
 DTEND;VALUE=DATE:20270418
 SUMMARY:Kamada Ekadashi
 DESCRIPTION:Tithi: Shukla Ekadashi\, ends 9:29 AM on 17 Apr (IST\, Delhi). 
- Abhijit Muhurat: 11:55 AM to 12:47 PM. Computed for Delhi (IST). A tithi-b
- ased date can differ by a day elsewhere. Details: https://bela.so/festival
- s/kamada-ekadashi/2027/
+ Computed for Delhi (IST). A tithi-based date can differ by a day elsewhere
+ . Details: https://bela.so/festivals/kamada-ekadashi/2027/
 URL:https://bela.so/festivals/kamada-ekadashi/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:hanuman-jayanti-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:hanuman-jayanti-2027-04-20-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20270420
 DTEND;VALUE=DATE:20270421
 SUMMARY:Hanuman Jayanti
-DESCRIPTION:Tithi: Shukla Purnima\, ends 3:58 AM on 21 Apr (IST\, Delhi). A
- bhijit Muhurat: 11:54 AM to 12:46 PM. Computed for Delhi (IST). A tithi-ba
- sed date can differ by a day elsewhere. Details: https://bela.so/festivals
- /hanuman-jayanti/2027/
+DESCRIPTION:Tithi: Shukla Purnima\, ends 3:58 AM on 21 Apr (IST\, Delhi). C
+ omputed for Delhi (IST). A tithi-based date can differ by a day elsewhere.
+  Details: https://bela.so/festivals/hanuman-jayanti/2027/
 URL:https://bela.so/festivals/hanuman-jayanti/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:varuthini-ekadashi-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:varuthini-ekadashi-2027-05-02-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
 SUMMARY:Varuthini Ekadashi
 DESCRIPTION:Tithi: Krishna Ekadashi\, ends 7:53 PM on 2 May (IST\, Delhi). 
- Abhijit Muhurat: 11:52 AM to 12:45 PM. Computed for Delhi (IST). A tithi-b
- ased date can differ by a day elsewhere. Details: https://bela.so/festival
- s/varuthini-ekadashi/2027/
+ Computed for Delhi (IST). A tithi-based date can differ by a day elsewhere
+ . Details: https://bela.so/festivals/varuthini-ekadashi/2027/
 URL:https://bela.so/festivals/varuthini-ekadashi/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:akshaya-tritiya-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:akshaya-tritiya-2027-05-09-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
 SUMMARY:Akshaya Tritiya
-DESCRIPTION:Tithi: Shukla Tritiya\, ends 9:04 AM on 9 May (IST\, Delhi). Ab
- hijit Muhurat: 11:51 AM to 12:45 PM. Computed for Delhi (IST). A tithi-bas
- ed date can differ by a day elsewhere. Details: https://bela.so/festivals/
- akshaya-tritiya/2027/
+DESCRIPTION:Tithi: Shukla Tritiya\, ends 9:04 AM on 9 May (IST\, Delhi). Co
+ mputed for Delhi (IST). A tithi-based date can differ by a day elsewhere. 
+ Details: https://bela.so/festivals/akshaya-tritiya/2027/
 URL:https://bela.so/festivals/akshaya-tritiya/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:sita-navami-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:sita-navami-2027-05-14-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20270514
 DTEND;VALUE=DATE:20270515
 SUMMARY:Sita Navami
-DESCRIPTION:Tithi: Shukla Navami\, ends 7:40 PM on 14 May (IST\, Delhi). Ab
- hijit Muhurat: 11:51 AM to 12:45 PM. Computed for Delhi (IST). A tithi-bas
- ed date can differ by a day elsewhere. Details: https://bela.so/festivals/
- sita-navami/2027/
+DESCRIPTION:Tithi: Shukla Navami\, ends 7:40 PM on 14 May (IST\, Delhi). Co
+ mputed for Delhi (IST). A tithi-based date can differ by a day elsewhere. 
+ Details: https://bela.so/festivals/sita-navami/2027/
 URL:https://bela.so/festivals/sita-navami/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mohini-ekadashi-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:mohini-ekadashi-2027-05-16-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20270516
 DTEND;VALUE=DATE:20270517
 SUMMARY:Mohini Ekadashi
 DESCRIPTION:Tithi: Shukla Ekadashi\, ends 5:15 PM on 16 May (IST\, Delhi). 
- Abhijit Muhurat: 11:51 AM to 12:45 PM. Computed for Delhi (IST). A tithi-b
- ased date can differ by a day elsewhere. Details: https://bela.so/festival
- s/mohini-ekadashi/2027/
+ Computed for Delhi (IST). A tithi-based date can differ by a day elsewhere
+ . Details: https://bela.so/festivals/mohini-ekadashi/2027/
 URL:https://bela.so/festivals/mohini-ekadashi/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:narasimha-jayanti-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:narasimha-jayanti-2027-05-18-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20270518
 DTEND;VALUE=DATE:20270519
 SUMMARY:Narasimha Jayanti
 DESCRIPTION:Tithi: Shukla Chaturdashi\, ends 4:04 PM on 19 May (IST\, Delhi
- ). Abhijit Muhurat: 11:51 AM to 12:45 PM. Computed for Delhi (IST). A tith
- i-based date can differ by a day elsewhere. Details: https://bela.so/festi
- vals/narasimha-jayanti/2027/
+ ). Computed for Delhi (IST). A tithi-based date can differ by a day elsewh
+ ere. Details: https://bela.so/festivals/narasimha-jayanti/2027/
 URL:https://bela.so/festivals/narasimha-jayanti/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:buddha-purnima-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:buddha-purnima-2027-05-20-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20270520
 DTEND;VALUE=DATE:20270521
 SUMMARY:Buddha Purnima
-DESCRIPTION:Tithi: Shukla Purnima\, ends 4:30 PM on 20 May (IST\, Delhi). A
- bhijit Muhurat: 11:51 AM to 12:45 PM. Computed for Delhi (IST). A tithi-ba
- sed date can differ by a day elsewhere. Details: https://bela.so/festivals
- /buddha-purnima/2027/
+DESCRIPTION:Tithi: Shukla Purnima\, ends 4:30 PM on 20 May (IST\, Delhi). C
+ omputed for Delhi (IST). A tithi-based date can differ by a day elsewhere.
+  Details: https://bela.so/festivals/buddha-purnima/2027/
 URL:https://bela.so/festivals/buddha-purnima/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:apara-ekadashi-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:apara-ekadashi-2027-06-01-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20270601
 DTEND;VALUE=DATE:20270602
 SUMMARY:Apara Ekadashi
 DESCRIPTION:Tithi: Krishna Ekadashi\, ends 9:41 AM on 1 Jun (IST\, Delhi). 
- Abhijit Muhurat: 11:51 AM to 12:47 PM. Computed for Delhi (IST). A tithi-b
- ased date can differ by a day elsewhere. Details: https://bela.so/festival
- s/apara-ekadashi/2027/
+ Computed for Delhi (IST). A tithi-based date can differ by a day elsewhere
+ . Details: https://bela.so/festivals/apara-ekadashi/2027/
 URL:https://bela.so/festivals/apara-ekadashi/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:nirjala-ekadashi-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:nirjala-ekadashi-2027-06-14-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20270614
 DTEND;VALUE=DATE:20270615
 SUMMARY:Nirjala Ekadashi
 DESCRIPTION:Tithi: Shukla Ekadashi\, ends 2:09 AM on 15 Jun (IST\, Delhi). 
- Abhijit Muhurat: 11:54 AM to 12:49 PM. Computed for Delhi (IST). A tithi-b
- ased date can differ by a day elsewhere. Details: https://bela.so/festival
- s/nirjala-ekadashi/2027/
+ Computed for Delhi (IST). A tithi-based date can differ by a day elsewhere
+ . Details: https://bela.so/festivals/nirjala-ekadashi/2027/
 URL:https://bela.so/festivals/nirjala-ekadashi/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:yogini-ekadashi-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:yogini-ekadashi-2027-06-30-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20270630
 DTEND;VALUE=DATE:20270701
 SUMMARY:Yogini Ekadashi
 DESCRIPTION:Tithi: Krishna Ekadashi\, ends 8:32 PM on 30 Jun (IST\, Delhi).
-  Abhijit Muhurat: 11:57 AM to 12:53 PM. Computed for Delhi (IST). A tithi-
- based date can differ by a day elsewhere. Details: https://bela.so/festiva
- ls/yogini-ekadashi/2027/
+  Computed for Delhi (IST). A tithi-based date can differ by a day elsewher
+ e. Details: https://bela.so/festivals/yogini-ekadashi/2027/
 URL:https://bela.so/festivals/yogini-ekadashi/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ashadha-ekadashi-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:ashadha-ekadashi-2027-07-14-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20270714
 DTEND;VALUE=DATE:20270715
 SUMMARY:Ashadhi Ekadashi
 DESCRIPTION:Tithi: Shukla Ekadashi\, ends 1:11 PM on 14 Jul (IST\, Delhi). 
- Abhijit Muhurat: 11:59 AM to 12:54 PM. Computed for Delhi (IST). A tithi-b
- ased date can differ by a day elsewhere. Details: https://bela.so/festival
- s/ashadha-ekadashi/2027/
+ Computed for Delhi (IST). A tithi-based date can differ by a day elsewhere
+ . Details: https://bela.so/festivals/ashadha-ekadashi/2027/
 URL:https://bela.so/festivals/ashadha-ekadashi/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:devashayani-ekadashi-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:devashayani-ekadashi-2027-07-14-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20270714
 DTEND;VALUE=DATE:20270715
 SUMMARY:Devshayani Ekadashi
 DESCRIPTION:Tithi: Shukla Ekadashi\, ends 1:11 PM on 14 Jul (IST\, Delhi). 
- Abhijit Muhurat: 11:59 AM to 12:54 PM. Computed for Delhi (IST). A tithi-b
- ased date can differ by a day elsewhere. Details: https://bela.so/festival
- s/devashayani-ekadashi/2027/
+ Computed for Delhi (IST). A tithi-based date can differ by a day elsewhere
+ . Details: https://bela.so/festivals/devashayani-ekadashi/2027/
 URL:https://bela.so/festivals/devashayani-ekadashi/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:guru-purnima-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:guru-purnima-2027-07-18-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20270718
 DTEND;VALUE=DATE:20270719
 SUMMARY:Guru Purnima
-DESCRIPTION:Tithi: Shukla Purnima\, ends 9:16 PM on 18 Jul (IST\, Delhi). A
- bhijit Muhurat: 12:00 PM to 12:55 PM. Computed for Delhi (IST). A tithi-ba
- sed date can differ by a day elsewhere. Details: https://bela.so/festivals
- /guru-purnima/2027/
+DESCRIPTION:Tithi: Shukla Purnima\, ends 9:16 PM on 18 Jul (IST\, Delhi). C
+ omputed for Delhi (IST). A tithi-based date can differ by a day elsewhere.
+  Details: https://bela.so/festivals/guru-purnima/2027/
 URL:https://bela.so/festivals/guru-purnima/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:kamika-ekadashi-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:kamika-ekadashi-2027-07-29-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20270729
 DTEND;VALUE=DATE:20270730
 SUMMARY:Kamika Ekadashi
 DESCRIPTION:Tithi: Krishna Ekadashi\, ends 5:14 AM on 30 Jul (IST\, Delhi).
-  Abhijit Muhurat: 12:00 PM to 12:55 PM. Computed for Delhi (IST). A tithi-
- based date can differ by a day elsewhere. Details: https://bela.so/festiva
- ls/kamika-ekadashi/2027/
+  Computed for Delhi (IST). A tithi-based date can differ by a day elsewher
+ e. Details: https://bela.so/festivals/kamika-ekadashi/2027/
 URL:https://bela.so/festivals/kamika-ekadashi/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:nag-panchami-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:nag-panchami-2027-08-06-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20270806
 DTEND;VALUE=DATE:20270807
 SUMMARY:Nag Panchami
 DESCRIPTION:Tithi: Shukla Panchami\, ends 12:24 AM on 7 Aug (IST\, Delhi). 
- Abhijit Muhurat: 12:00 PM to 12:54 PM. Computed for Delhi (IST). A tithi-b
- ased date can differ by a day elsewhere. Details: https://bela.so/festival
- s/nag-panchami/2027/
+ Computed for Delhi (IST). A tithi-based date can differ by a day elsewhere
+ . Details: https://bela.so/festivals/nag-panchami/2027/
 URL:https://bela.so/festivals/nag-panchami/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:shravana-putrada-ekadashi-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:shravana-putrada-ekadashi-2027-08-12-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20270812
 DTEND;VALUE=DATE:20270813
 SUMMARY:Shravana Putrada Ekadashi
 DESCRIPTION:Tithi: Shukla Ekadashi\, ends 3:01 AM on 13 Aug (IST\, Delhi). 
- Abhijit Muhurat: 12:00 PM to 12:53 PM. Computed for Delhi (IST). A tithi-b
- ased date can differ by a day elsewhere. Details: https://bela.so/festival
- s/shravana-putrada-ekadashi/2027/
+ Computed for Delhi (IST). A tithi-based date can differ by a day elsewhere
+ . Details: https://bela.so/festivals/shravana-putrada-ekadashi/2027/
 URL:https://bela.so/festivals/shravana-putrada-ekadashi/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:varalakshmi-vratam-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:varalakshmi-vratam-2027-08-13-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20270813
 DTEND;VALUE=DATE:20270814
 SUMMARY:Varalakshmi Vratam
-DESCRIPTION:Abhijit Muhurat: 12:00 PM to 12:52 PM. Computed for Delhi (IST)
- . A tithi-based date can differ by a day elsewhere. Details: https://bela.
- so/festivals/varalakshmi-vratam/2027/
+DESCRIPTION:Computed for Delhi (IST). A tithi-based date can differ by a da
+ y elsewhere. Details: https://bela.so/festivals/varalakshmi-vratam/2027/
 URL:https://bela.so/festivals/varalakshmi-vratam/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:raksha-bandhan-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:raksha-bandhan-2027-08-17-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20270817
 DTEND;VALUE=DATE:20270818
 SUMMARY:Raksha Bandhan
 DESCRIPTION:Tithi: Shukla Purnima\, ends 12:59 PM on 17 Aug (IST\, Delhi). 
- Rakhi muhurat (Purnima\, outside Bhadra): 5:52 AM to 12:59 PM. Abhijit Muh
- urat: 11:59 AM to 12:51 PM. Computed for Delhi (IST). A tithi-based date c
- an differ by a day elsewhere. Details: https://bela.so/festivals/raksha-ba
- ndhan/2027/
+ Rakhi muhurat (Purnima\, outside Bhadra): 5:52 AM to 12:59 PM. Computed fo
+ r Delhi (IST). A tithi-based date can differ by a day elsewhere. Details: 
+ https://bela.so/festivals/raksha-bandhan/2027/
 URL:https://bela.so/festivals/raksha-bandhan/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:janmashtami-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:janmashtami-2027-08-25-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20270825
 DTEND;VALUE=DATE:20270826
 SUMMARY:Krishna Janmashtami
 DESCRIPTION:Tithi: Krishna Ashtami\, ends 7:21 PM on 25 Aug (IST\, Delhi). 
- Abhijit Muhurat: 11:57 AM to 12:49 PM. Computed for Delhi (IST). A tithi-b
- ased date can differ by a day elsewhere. Details: https://bela.so/festival
- s/janmashtami/2027/
+ Computed for Delhi (IST). A tithi-based date can differ by a day elsewhere
+ . Details: https://bela.so/festivals/janmashtami/2027/
 URL:https://bela.so/festivals/janmashtami/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:annada-aja-ekadashi-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:annada-aja-ekadashi-2027-08-28-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20270828
 DTEND;VALUE=DATE:20270829
 SUMMARY:Aja Ekadashi (Annada)
 DESCRIPTION:Tithi: Krishna Ekadashi\, ends 12:43 PM on 28 Aug (IST\, Delhi)
- . Abhijit Muhurat: 11:57 AM to 12:48 PM. Computed for Delhi (IST). A tithi
- -based date can differ by a day elsewhere. Details: https://bela.so/festiv
- als/annada-aja-ekadashi/2027/
+ . Computed for Delhi (IST). A tithi-based date can differ by a day elsewhe
+ re. Details: https://bela.so/festivals/annada-aja-ekadashi/2027/
 URL:https://bela.so/festivals/annada-aja-ekadashi/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:hartalika-teej-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:hartalika-teej-2027-09-03-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20270903
 DTEND;VALUE=DATE:20270904
 SUMMARY:Hartalika Teej
-DESCRIPTION:Tithi: Shukla Tritiya\, ends 2:20 PM on 3 Sep (IST\, Delhi). Ab
- hijit Muhurat: 11:55 AM to 12:46 PM. Computed for Delhi (IST). A tithi-bas
- ed date can differ by a day elsewhere. Details: https://bela.so/festivals/
- hartalika-teej/2027/
+DESCRIPTION:Tithi: Shukla Tritiya\, ends 2:20 PM on 3 Sep (IST\, Delhi). Co
+ mputed for Delhi (IST). A tithi-based date can differ by a day elsewhere. 
+ Details: https://bela.so/festivals/hartalika-teej/2027/
 URL:https://bela.so/festivals/hartalika-teej/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ganesh-chaturthi-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:ganesh-chaturthi-2027-09-04-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20270904
 DTEND;VALUE=DATE:20270905
 SUMMARY:Ganesh Chaturthi
 DESCRIPTION:Tithi: Shukla Chaturthi\, ends 12:27 PM on 4 Sep (IST\, Delhi).
-  Abhijit Muhurat: 11:55 AM to 12:45 PM. Computed for Delhi (IST). A tithi-
- based date can differ by a day elsewhere. Details: https://bela.so/festiva
- ls/ganesh-chaturthi/2027/
+  Computed for Delhi (IST). A tithi-based date can differ by a day elsewher
+ e. Details: https://bela.so/festivals/ganesh-chaturthi/2027/
 URL:https://bela.so/festivals/ganesh-chaturthi/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:parsva-ekadashi-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:parsva-ekadashi-2027-09-11-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20270911
 DTEND;VALUE=DATE:20270912
 SUMMARY:Parsva Ekadashi
 DESCRIPTION:Tithi: Shukla Ekadashi\, ends 7:37 PM on 11 Sep (IST\, Delhi). 
- Abhijit Muhurat: 11:53 AM to 12:43 PM. Computed for Delhi (IST). A tithi-b
- ased date can differ by a day elsewhere. Details: https://bela.so/festival
- s/parsva-ekadashi/2027/
+ Computed for Delhi (IST). A tithi-based date can differ by a day elsewhere
+ . Details: https://bela.so/festivals/parsva-ekadashi/2027/
 URL:https://bela.so/festivals/parsva-ekadashi/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:onam-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:onam-2027-09-12-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20270912
 DTEND;VALUE=DATE:20270913
 SUMMARY:Onam (Thiruvonam)
-DESCRIPTION:Abhijit Muhurat: 11:53 AM to 12:42 PM. Computed for Delhi (IST)
- . A tithi-based date can differ by a day elsewhere. Details: https://bela.
- so/festivals/onam/2027/
+DESCRIPTION:Computed for Delhi (IST). A tithi-based date can differ by a da
+ y elsewhere. Details: https://bela.so/festivals/onam/2027/
 URL:https://bela.so/festivals/onam/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:anant-chaturdashi-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:anant-chaturdashi-2027-09-14-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20270914
 DTEND;VALUE=DATE:20270915
 SUMMARY:Anant Chaturdashi
 DESCRIPTION:Tithi: Shukla Chaturdashi\, ends 2:49 AM on 15 Sep (IST\, Delhi
- ). Abhijit Muhurat: 11:52 AM to 12:41 PM. Computed for Delhi (IST). A tith
- i-based date can differ by a day elsewhere. Details: https://bela.so/festi
- vals/anant-chaturdashi/2027/
+ ). Computed for Delhi (IST). A tithi-based date can differ by a day elsewh
+ ere. Details: https://bela.so/festivals/anant-chaturdashi/2027/
 URL:https://bela.so/festivals/anant-chaturdashi/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:pitru-paksha-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:pitru-paksha-2027-09-16-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20270916
 DTEND;VALUE=DATE:20270917
 SUMMARY:Pitru Paksha (Mahalaya): Pitru Paksha begins
-DESCRIPTION:Tithi: Krishna Pratipada\, ends 5:53 AM on 17 Sep (IST\, Delhi)
- . Abhijit Muhurat: 11:51 AM to 12:41 PM. Computed for Delhi (IST). A tithi
- -based date can differ by a day elsewhere. Details: https://bela.so/festiv
- als/pitru-paksha/2027/
-URL:https://bela.so/festivals/pitru-paksha/2027/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:indira-ekadashi-2027-0@bela.so
-DTSTAMP:20261102T000000Z
-DTSTART;VALUE=DATE:20270926
-DTEND;VALUE=DATE:20270927
-SUMMARY:Indira Ekadashi
-DESCRIPTION:Tithi: Krishna Ekadashi\, ends 7:51 PM on 26 Sep (IST\, Delhi).
-  Abhijit Muhurat: 11:48 AM to 12:36 PM. Computed for Delhi (IST). A tithi-
- based date can differ by a day elsewhere. Details: https://bela.so/festiva
- ls/indira-ekadashi/2027/
-URL:https://bela.so/festivals/indira-ekadashi/2027/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:pitru-paksha-2027-1@bela.so
-DTSTAMP:20261102T000000Z
-DTSTART;VALUE=DATE:20270929
-DTEND;VALUE=DATE:20270930
-SUMMARY:Pitru Paksha (Mahalaya): Sarva Pitru Amavasya
 DESCRIPTION:Tithi: Krishna Pratipada\, ends 5:53 AM on 17 Sep (IST\, Delhi)
  . Computed for Delhi (IST). A tithi-based date can differ by a day elsewhe
  re. Details: https://bela.so/festivals/pitru-paksha/2027/
@@ -1730,203 +1591,218 @@ URL:https://bela.so/festivals/pitru-paksha/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:sharad-navratri-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:indira-ekadashi-2027-09-26-0@bela.so
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20270926
+DTEND;VALUE=DATE:20270927
+SUMMARY:Indira Ekadashi
+DESCRIPTION:Tithi: Krishna Ekadashi\, ends 7:51 PM on 26 Sep (IST\, Delhi).
+  Computed for Delhi (IST). A tithi-based date can differ by a day elsewher
+ e. Details: https://bela.so/festivals/indira-ekadashi/2027/
+URL:https://bela.so/festivals/indira-ekadashi/2027/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pitru-paksha-2027-09-16-1@bela.so
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20270929
+DTEND;VALUE=DATE:20270930
+SUMMARY:Pitru Paksha (Mahalaya): Sarva Pitru Amavasya
+DESCRIPTION:Part of Pitru Paksha (Mahalaya). Main day: Thursday\, 16 Septem
+ ber 2027. Computed for Delhi (IST). A tithi-based date can differ by a day
+  elsewhere. Details: https://bela.so/festivals/pitru-paksha/2027/
+URL:https://bela.so/festivals/pitru-paksha/2027/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sharad-navratri-2027-09-30-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20270930
 DTEND;VALUE=DATE:20271001
 SUMMARY:Sharad Navratri: Ghatasthapana (Pratipada)
 DESCRIPTION:Tithi: Shukla Pratipada\, ends 5:36 AM on 1 Oct (IST\, Delhi). 
- Abhijit Muhurat: 11:47 AM to 12:35 PM. Computed for Delhi (IST). A tithi-b
- ased date can differ by a day elsewhere. Details: https://bela.so/festival
- s/sharad-navratri/2027/
+ Computed for Delhi (IST). A tithi-based date can differ by a day elsewhere
+ . Details: https://bela.so/festivals/sharad-navratri/2027/
 URL:https://bela.so/festivals/sharad-navratri/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:durga-ashtami-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:durga-ashtami-2027-10-07-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20271007
 DTEND;VALUE=DATE:20271008
 SUMMARY:Durga Ashtami (Maha Ashtami)
-DESCRIPTION:Tithi: Shukla Ashtami\, ends 6:29 AM on 8 Oct (IST\, Delhi). Ab
- hijit Muhurat: 11:46 AM to 12:32 PM. Computed for Delhi (IST). A tithi-bas
- ed date can differ by a day elsewhere. Details: https://bela.so/festivals/
- durga-ashtami/2027/
+DESCRIPTION:Tithi: Shukla Ashtami\, ends 6:29 AM on 8 Oct (IST\, Delhi). Co
+ mputed for Delhi (IST). A tithi-based date can differ by a day elsewhere. 
+ Details: https://bela.so/festivals/durga-ashtami/2027/
 URL:https://bela.so/festivals/durga-ashtami/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:sharad-navratri-2027-1@bela.so
-DTSTAMP:20261102T000000Z
+UID:sharad-navratri-2027-09-30-1@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20271007
 DTEND;VALUE=DATE:20271008
 SUMMARY:Sharad Navratri: Durga Ashtami
-DESCRIPTION:Tithi: Shukla Pratipada\, ends 5:36 AM on 1 Oct (IST\, Delhi). 
- Computed for Delhi (IST). A tithi-based date can differ by a day elsewhere
- . Details: https://bela.so/festivals/sharad-navratri/2027/
+DESCRIPTION:Part of Sharad Navratri. Main day: Thursday\, 30 September 2027
+ . Computed for Delhi (IST). A tithi-based date can differ by a day elsewhe
+ re. Details: https://bela.so/festivals/sharad-navratri/2027/
 URL:https://bela.so/festivals/sharad-navratri/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:maha-navami-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:maha-navami-2027-10-08-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20271008
 DTEND;VALUE=DATE:20271009
 SUMMARY:Maha Navami
-DESCRIPTION:Tithi: Shukla Navami\, ends 9:03 AM on 9 Oct (IST\, Delhi). Abh
- ijit Muhurat: 11:45 AM to 12:32 PM. Computed for Delhi (IST). A tithi-base
- d date can differ by a day elsewhere. Details: https://bela.so/festivals/m
- aha-navami/2027/
+DESCRIPTION:Tithi: Shukla Navami\, ends 9:03 AM on 9 Oct (IST\, Delhi). Com
+ puted for Delhi (IST). A tithi-based date can differ by a day elsewhere. D
+ etails: https://bela.so/festivals/maha-navami/2027/
 URL:https://bela.so/festivals/maha-navami/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:sharad-navratri-2027-2@bela.so
-DTSTAMP:20261102T000000Z
+UID:sharad-navratri-2027-09-30-2@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20271008
 DTEND;VALUE=DATE:20271009
 SUMMARY:Sharad Navratri: Maha Navami
-DESCRIPTION:Tithi: Shukla Pratipada\, ends 5:36 AM on 1 Oct (IST\, Delhi). 
- Computed for Delhi (IST). A tithi-based date can differ by a day elsewhere
- . Details: https://bela.so/festivals/sharad-navratri/2027/
+DESCRIPTION:Part of Sharad Navratri. Main day: Thursday\, 30 September 2027
+ . Computed for Delhi (IST). A tithi-based date can differ by a day elsewhe
+ re. Details: https://bela.so/festivals/sharad-navratri/2027/
 URL:https://bela.so/festivals/sharad-navratri/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:dussehra-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:dussehra-2027-10-09-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20271009
 DTEND;VALUE=DATE:20271010
 SUMMARY:Dussehra (Vijayadashami)
 DESCRIPTION:Tithi: Shukla Dashami\, ends 11:42 AM on 10 Oct (IST\, Delhi). 
- Abhijit Muhurat: 11:45 AM to 12:32 PM. Computed for Delhi (IST). A tithi-b
- ased date can differ by a day elsewhere. Details: https://bela.so/festival
- s/dussehra/2027/
+ Computed for Delhi (IST). A tithi-based date can differ by a day elsewhere
+ . Details: https://bela.so/festivals/dussehra/2027/
 URL:https://bela.so/festivals/dussehra/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:sharad-navratri-2027-3@bela.so
-DTSTAMP:20261102T000000Z
+UID:sharad-navratri-2027-09-30-3@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20271009
 DTEND;VALUE=DATE:20271010
 SUMMARY:Sharad Navratri: Vijayadashami (Dussehra)
-DESCRIPTION:Tithi: Shukla Pratipada\, ends 5:36 AM on 1 Oct (IST\, Delhi). 
- Computed for Delhi (IST). A tithi-based date can differ by a day elsewhere
- . Details: https://bela.so/festivals/sharad-navratri/2027/
+DESCRIPTION:Part of Sharad Navratri. Main day: Thursday\, 30 September 2027
+ . Computed for Delhi (IST). A tithi-based date can differ by a day elsewhe
+ re. Details: https://bela.so/festivals/sharad-navratri/2027/
 URL:https://bela.so/festivals/sharad-navratri/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:pasankusa-ekadashi-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:pasankusa-ekadashi-2027-10-11-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20271011
 DTEND;VALUE=DATE:20271012
 SUMMARY:Papankusha Ekadashi
 DESCRIPTION:Tithi: Shukla Ekadashi\, ends 2:10 PM on 11 Oct (IST\, Delhi). 
- Abhijit Muhurat: 11:45 AM to 12:31 PM. Computed for Delhi (IST). A tithi-b
- ased date can differ by a day elsewhere. Details: https://bela.so/festival
- s/pasankusa-ekadashi/2027/
+ Computed for Delhi (IST). A tithi-based date can differ by a day elsewhere
+ . Details: https://bela.so/festivals/pasankusa-ekadashi/2027/
 URL:https://bela.so/festivals/pasankusa-ekadashi/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:sharad-purnima-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:sharad-purnima-2027-10-14-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20271014
 DTEND;VALUE=DATE:20271015
 SUMMARY:Sharad Purnima (Kojagari)
-DESCRIPTION:Tithi: Shukla Purnima\, ends 7:18 PM on 15 Oct (IST\, Delhi). A
- bhijit Muhurat: 11:44 AM to 12:30 PM. Computed for Delhi (IST). A tithi-ba
- sed date can differ by a day elsewhere. Details: https://bela.so/festivals
- /sharad-purnima/2027/
+DESCRIPTION:Tithi: Shukla Purnima\, ends 7:18 PM on 15 Oct (IST\, Delhi). C
+ omputed for Delhi (IST). A tithi-based date can differ by a day elsewhere.
+  Details: https://bela.so/festivals/sharad-purnima/2027/
 URL:https://bela.so/festivals/sharad-purnima/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:karwa-chauth-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:karwa-chauth-2027-10-18-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20271018
 DTEND;VALUE=DATE:20271019
 SUMMARY:Karwa Chauth
 DESCRIPTION:Tithi: Krishna Chaturthi\, ends 4:43 PM on 19 Oct (IST\, Delhi)
- . Abhijit Muhurat: 11:43 AM to 12:29 PM. Computed for Delhi (IST). A tithi
- -based date can differ by a day elsewhere. Details: https://bela.so/festiv
- als/karwa-chauth/2027/
+ . Computed for Delhi (IST). A tithi-based date can differ by a day elsewhe
+ re. Details: https://bela.so/festivals/karwa-chauth/2027/
 URL:https://bela.so/festivals/karwa-chauth/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ahoi-ashtami-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:ahoi-ashtami-2027-10-22-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20271022
 DTEND;VALUE=DATE:20271023
 SUMMARY:Ahoi Ashtami
 DESCRIPTION:Tithi: Krishna Ashtami\, ends 10:00 AM on 23 Oct (IST\, Delhi).
-  Ahoi Ashtami puja muhurat: 5:45 PM to 7:01 PM. Abhijit Muhurat: 11:43 AM 
- to 12:28 PM. Computed for Delhi (IST). A tithi-based date can differ by a 
- day elsewhere. Details: https://bela.so/festivals/ahoi-ashtami/2027/
+  Ahoi Ashtami puja muhurat: 5:45 PM to 7:01 PM. Star sighting (tare): 6:09
+  PM. Moonrise: 11:41 PM. Computed for Delhi (IST). A tithi-based date can 
+ differ by a day elsewhere. Details: https://bela.so/festivals/ahoi-ashtami
+ /2027/
 URL:https://bela.so/festivals/ahoi-ashtami/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ramaa-ekadashi-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:ramaa-ekadashi-2027-10-25-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20271025
 DTEND;VALUE=DATE:20271026
 SUMMARY:Rama Ekadashi
 DESCRIPTION:Tithi: Krishna Ekadashi\, ends 3:23 AM on 26 Oct (IST\, Delhi).
-  Abhijit Muhurat: 11:43 AM to 12:27 PM. Computed for Delhi (IST). A tithi-
- based date can differ by a day elsewhere. Details: https://bela.so/festiva
- ls/ramaa-ekadashi/2027/
+  Computed for Delhi (IST). A tithi-based date can differ by a day elsewher
+ e. Details: https://bela.so/festivals/ramaa-ekadashi/2027/
 URL:https://bela.so/festivals/ramaa-ekadashi/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:dhanteras-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:dhanteras-2027-10-27-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20271027
 DTEND;VALUE=DATE:20271028
 SUMMARY:Dhanteras (Dhantrayodashi)
 DESCRIPTION:Tithi: Krishna Trayodashi\, ends 10:51 PM on 27 Oct (IST\, Delh
  i). Dhanteras puja muhurat: 6:43 PM to 8:14 PM. Pradosh Kaal: 5:40 PM to 8
- :14 PM. Vrishabha Kaal (Taurus rising): 6:43 PM to 8:38 PM. Abhijit Muhura
- t: 11:43 AM to 12:27 PM. Computed for Delhi (IST). A tithi-based date can 
- differ by a day elsewhere. Details: https://bela.so/festivals/dhanteras/20
- 27/
+ :14 PM. Vrishabha Kaal (Taurus rising): 6:43 PM to 8:38 PM. Computed for D
+ elhi (IST). A tithi-based date can differ by a day elsewhere. Details: htt
+ ps://bela.so/festivals/dhanteras/2027/
 URL:https://bela.so/festivals/dhanteras/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:kali-puja-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:kali-puja-2027-10-28-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20271028
 DTEND;VALUE=DATE:20271029
 SUMMARY:Kali Puja
 DESCRIPTION:Tithi: Krishna Amavasya\, ends 7:07 PM on 29 Oct (IST\, Delhi).
-  Kali Puja (Nishita Kaal): 11:39 PM to 12:31 AM. Abhijit Muhurat: 11:43 AM
-  to 12:27 PM. Computed for Delhi (IST). A tithi-based date can differ by a
-  day elsewhere. Details: https://bela.so/festivals/kali-puja/2027/
+  Kali Puja (Nishita Kaal): 11:39 PM to 12:31 AM. Computed for Delhi (IST).
+  A tithi-based date can differ by a day elsewhere. Details: https://bela.s
+ o/festivals/kali-puja/2027/
 URL:https://bela.so/festivals/kali-puja/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:naraka-chaturdashi-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:naraka-chaturdashi-2027-10-28-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20271028
 DTEND;VALUE=DATE:20271029
 SUMMARY:Naraka Chaturdashi (Choti Diwali)
 DESCRIPTION:Tithi: Krishna Chaturdashi\, ends 8:49 PM on 28 Oct (IST\, Delh
- i). Abhyang Snan (moonrise to sunrise): 5:06 AM to 6:30 AM. Abhijit Muhura
- t: 11:43 AM to 12:27 PM. Computed for Delhi (IST). A tithi-based date can 
- differ by a day elsewhere. Details: https://bela.so/festivals/naraka-chatu
- rdashi/2027/
+ i). Abhyang Snan (moonrise to sunrise): 5:06 AM to 6:30 AM. Computed for D
+ elhi (IST). A tithi-based date can differ by a day elsewhere. Details: htt
+ ps://bela.so/festivals/naraka-chaturdashi/2027/
 URL:https://bela.so/festivals/naraka-chaturdashi/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:diwali-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:diwali-2027-10-29-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20271029
 DTEND;VALUE=DATE:20271030
 SUMMARY:Diwali (Lakshmi Puja)
@@ -1934,189 +1810,182 @@ DESCRIPTION:Tithi: Krishna Amavasya\, ends 7:07 PM on 29 Oct (IST\, Delhi).
   Lakshmi Puja muhurat: 6:35 PM to 7:07 PM. Pradosh Kaal: 5:39 PM to 8:13 P
  M. Vrishabha Kaal (Taurus rising): 6:35 PM to 8:30 PM. Mahanishita Kaal (n
  o puja window: Amavasya has ended): 11:39 PM to 12:31 AM. Simha Kaal (Leo 
- rising): 1:05 AM to 3:23 AM. Abhijit Muhurat: 11:43 AM to 12:27 PM. Comput
- ed for Delhi (IST). A tithi-based date can differ by a day elsewhere. Deta
- ils: https://bela.so/festivals/diwali/2027/
+ rising): 1:05 AM on 30 Oct to 3:23 AM. Computed for Delhi (IST). A tithi-b
+ ased date can differ by a day elsewhere. Details: https://bela.so/festival
+ s/diwali/2027/
 URL:https://bela.so/festivals/diwali/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:govardhan-puja-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:govardhan-puja-2027-10-30-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20271030
 DTEND;VALUE=DATE:20271031
 SUMMARY:Govardhan Puja
 DESCRIPTION:Tithi: Shukla Pratipada\, ends 5:53 PM on 30 Oct (IST\, Delhi).
   Govardhan Puja (Pratahkala): 6:31 AM to 8:45 AM. Govardhan Puja (Sayankal
- a): 3:25 PM to 5:38 PM. Abhijit Muhurat: 11:43 AM to 12:27 PM. Computed fo
- r Delhi (IST). A tithi-based date can differ by a day elsewhere. Details: 
- https://bela.so/festivals/govardhan-puja/2027/
+ a): 3:25 PM to 5:38 PM. Computed for Delhi (IST). A tithi-based date can d
+ iffer by a day elsewhere. Details: https://bela.so/festivals/govardhan-puj
+ a/2027/
 URL:https://bela.so/festivals/govardhan-puja/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:bhai-dooj-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:bhai-dooj-2027-10-31-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20271031
 DTEND;VALUE=DATE:20271101
 SUMMARY:Bhai Dooj
 DESCRIPTION:Tithi: Shukla Dwitiya\, ends 5:14 PM on 31 Oct (IST\, Delhi). B
- hai Dooj tilak (Aparahna): 1:11 PM to 3:24 PM. Abhijit Muhurat: 11:43 AM t
- o 12:27 PM. Computed for Delhi (IST). A tithi-based date can differ by a d
- ay elsewhere. Details: https://bela.so/festivals/bhai-dooj/2027/
+ hai Dooj tilak (Aparahna): 1:11 PM to 3:24 PM. Computed for Delhi (IST). A
+  tithi-based date can differ by a day elsewhere. Details: https://bela.so/
+ festivals/bhai-dooj/2027/
 URL:https://bela.so/festivals/bhai-dooj/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:chhath-puja-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:chhath-puja-2027-11-04-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20271102
 DTEND;VALUE=DATE:20271103
 SUMMARY:Chhath Puja: Nahay Khay
-DESCRIPTION:Tithi: Shukla Shashthi\, ends 9:39 PM on 4 Nov (IST\, Delhi). C
- omputed for Delhi (IST). A tithi-based date can differ by a day elsewhere.
-  Details: https://bela.so/festivals/chhath-puja/2027/
+DESCRIPTION:Part of Chhath Puja. Main day: Thursday\, 4 November 2027. Comp
+ uted for Delhi (IST). A tithi-based date can differ by a day elsewhere. De
+ tails: https://bela.so/festivals/chhath-puja/2027/
 URL:https://bela.so/festivals/chhath-puja/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:chhath-puja-2027-1@bela.so
-DTSTAMP:20261102T000000Z
+UID:chhath-puja-2027-11-04-1@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20271103
 DTEND;VALUE=DATE:20271104
 SUMMARY:Chhath Puja: Kharna
-DESCRIPTION:Tithi: Shukla Shashthi\, ends 9:39 PM on 4 Nov (IST\, Delhi). C
- omputed for Delhi (IST). A tithi-based date can differ by a day elsewhere.
-  Details: https://bela.so/festivals/chhath-puja/2027/
+DESCRIPTION:Part of Chhath Puja. Main day: Thursday\, 4 November 2027. Comp
+ uted for Delhi (IST). A tithi-based date can differ by a day elsewhere. De
+ tails: https://bela.so/festivals/chhath-puja/2027/
 URL:https://bela.so/festivals/chhath-puja/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:chhath-puja-2027-2@bela.so
-DTSTAMP:20261102T000000Z
+UID:chhath-puja-2027-11-04-2@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20271104
 DTEND;VALUE=DATE:20271105
 SUMMARY:Chhath Puja: Sandhya Arghya
-DESCRIPTION:Tithi: Shukla Shashthi\, ends 9:39 PM on 4 Nov (IST\, Delhi). A
- bhijit Muhurat: 11:43 AM to 12:26 PM. Computed for Delhi (IST). A tithi-ba
- sed date can differ by a day elsewhere. Details: https://bela.so/festivals
- /chhath-puja/2027/
+DESCRIPTION:Tithi: Shukla Shashthi\, ends 9:39 PM on 4 Nov (IST\, Delhi). S
+ andhya Arghya (sunset): 5:34 PM. Computed for Delhi (IST). A tithi-based d
+ ate can differ by a day elsewhere. Details: https://bela.so/festivals/chha
+ th-puja/2027/
 URL:https://bela.so/festivals/chhath-puja/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:chhath-puja-2027-3@bela.so
-DTSTAMP:20261102T000000Z
+UID:chhath-puja-2027-11-04-3@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20271105
 DTEND;VALUE=DATE:20271106
 SUMMARY:Chhath Puja: Usha Arghya
-DESCRIPTION:Tithi: Shukla Shashthi\, ends 9:39 PM on 4 Nov (IST\, Delhi). C
- omputed for Delhi (IST). A tithi-based date can differ by a day elsewhere.
-  Details: https://bela.so/festivals/chhath-puja/2027/
+DESCRIPTION:Part of Chhath Puja. Main day: Thursday\, 4 November 2027. Usha
+  Arghya (sunrise): 6:36 AM. Computed for Delhi (IST). A tithi-based date c
+ an differ by a day elsewhere. Details: https://bela.so/festivals/chhath-pu
+ ja/2027/
 URL:https://bela.so/festivals/chhath-puja/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:prabodhini-devuthana-ekadashi-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:prabodhini-devuthana-ekadashi-2027-11-10-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20271110
 DTEND;VALUE=DATE:20271111
 SUMMARY:Devutthana Ekadashi (Prabodhini)
 DESCRIPTION:Tithi: Shukla Ekadashi\, ends 9:12 AM on 10 Nov (IST\, Delhi). 
- Abhijit Muhurat: 11:43 AM to 12:26 PM. Computed for Delhi (IST). A tithi-b
- ased date can differ by a day elsewhere. Details: https://bela.so/festival
- s/prabodhini-devuthana-ekadashi/2027/
+ Computed for Delhi (IST). A tithi-based date can differ by a day elsewhere
+ . Details: https://bela.so/festivals/prabodhini-devuthana-ekadashi/2027/
 URL:https://bela.so/festivals/prabodhini-devuthana-ekadashi/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:utpanna-ekadashi-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:utpanna-ekadashi-2027-11-24-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20271124
 DTEND;VALUE=DATE:20271125
 SUMMARY:Utpanna Ekadashi
 DESCRIPTION:Tithi: Krishna Ekadashi\, ends 12:12 PM on 24 Nov (IST\, Delhi)
- . Abhijit Muhurat: 11:47 AM to 12:29 PM. Computed for Delhi (IST). A tithi
- -based date can differ by a day elsewhere. Details: https://bela.so/festiv
- als/utpanna-ekadashi/2027/
+ . Computed for Delhi (IST). A tithi-based date can differ by a day elsewhe
+ re. Details: https://bela.so/festivals/utpanna-ekadashi/2027/
 URL:https://bela.so/festivals/utpanna-ekadashi/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:vivaha-panchami-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:vivaha-panchami-2027-12-03-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20271203
 DTEND;VALUE=DATE:20271204
 SUMMARY:Vivaha Panchami
-DESCRIPTION:Tithi: Shukla Panchami\, ends 4:15 PM on 3 Dec (IST\, Delhi). A
- bhijit Muhurat: 11:50 AM to 12:32 PM. Computed for Delhi (IST). A tithi-ba
- sed date can differ by a day elsewhere. Details: https://bela.so/festivals
- /vivaha-panchami/2027/
+DESCRIPTION:Tithi: Shukla Panchami\, ends 4:15 PM on 3 Dec (IST\, Delhi). C
+ omputed for Delhi (IST). A tithi-based date can differ by a day elsewhere.
+  Details: https://bela.so/festivals/vivaha-panchami/2027/
 URL:https://bela.so/festivals/vivaha-panchami/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:gita-jayanti-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:gita-jayanti-2027-12-09-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20271209
 DTEND;VALUE=DATE:20271210
 SUMMARY:Gita Jayanti
 DESCRIPTION:Tithi: Shukla Ekadashi\, ends 3:21 AM on 10 Dec (IST\, Delhi). 
- Abhijit Muhurat: 11:53 AM to 12:34 PM. Computed for Delhi (IST). A tithi-b
- ased date can differ by a day elsewhere. Details: https://bela.so/festival
- s/gita-jayanti/2027/
+ Computed for Delhi (IST). A tithi-based date can differ by a day elsewhere
+ . Details: https://bela.so/festivals/gita-jayanti/2027/
 URL:https://bela.so/festivals/gita-jayanti/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:guruvayur-ekadashi-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:guruvayur-ekadashi-2027-12-09-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20271209
 DTEND;VALUE=DATE:20271210
 SUMMARY:Guruvayur Ekadashi
 DESCRIPTION:Tithi: Shukla Ekadashi\, ends 3:21 AM on 10 Dec (IST\, Delhi). 
- Abhijit Muhurat: 11:53 AM to 12:34 PM. Computed for Delhi (IST). A tithi-b
- ased date can differ by a day elsewhere. Details: https://bela.so/festival
- s/guruvayur-ekadashi/2027/
+ Computed for Delhi (IST). A tithi-based date can differ by a day elsewhere
+ . Details: https://bela.so/festivals/guruvayur-ekadashi/2027/
 URL:https://bela.so/festivals/guruvayur-ekadashi/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mokshadha-ekadashi-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:mokshadha-ekadashi-2027-12-09-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20271209
 DTEND;VALUE=DATE:20271210
 SUMMARY:Mokshada Ekadashi
 DESCRIPTION:Tithi: Shukla Ekadashi\, ends 3:21 AM on 10 Dec (IST\, Delhi). 
- Abhijit Muhurat: 11:53 AM to 12:34 PM. Computed for Delhi (IST). A tithi-b
- ased date can differ by a day elsewhere. Details: https://bela.so/festival
- s/mokshadha-ekadashi/2027/
+ Computed for Delhi (IST). A tithi-based date can differ by a day elsewhere
+ . Details: https://bela.so/festivals/mokshadha-ekadashi/2027/
 URL:https://bela.so/festivals/mokshadha-ekadashi/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:karthigai-deepam-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:karthigai-deepam-2027-12-13-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20271213
 DTEND;VALUE=DATE:20271214
 SUMMARY:Karthigai Deepam
-DESCRIPTION:Tithi: Shukla Purnima\, ends 9:39 PM on 13 Dec (IST\, Delhi). A
- bhijit Muhurat: 11:54 AM to 12:36 PM. Computed for Delhi (IST). A tithi-ba
- sed date can differ by a day elsewhere. Details: https://bela.so/festivals
- /karthigai-deepam/2027/
+DESCRIPTION:Tithi: Shukla Purnima\, ends 9:39 PM on 13 Dec (IST\, Delhi). C
+ omputed for Delhi (IST). A tithi-based date can differ by a day elsewhere.
+  Details: https://bela.so/festivals/karthigai-deepam/2027/
 URL:https://bela.so/festivals/karthigai-deepam/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:saphala-ekadashi-2027-0@bela.so
-DTSTAMP:20261102T000000Z
+UID:saphala-ekadashi-2027-12-23-0@bela.so
+DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20271223
 DTEND;VALUE=DATE:20271224
 SUMMARY:Saphala Ekadashi
 DESCRIPTION:Tithi: Krishna Ekadashi\, ends 11:13 PM on 23 Dec (IST\, Delhi)
- . Abhijit Muhurat: 11:59 AM to 12:41 PM. Computed for Delhi (IST). A tithi
- -based date can differ by a day elsewhere. Details: https://bela.so/festiv
- als/saphala-ekadashi/2027/
+ . Computed for Delhi (IST). A tithi-based date can differ by a day elsewhe
+ re. Details: https://bela.so/festivals/saphala-ekadashi/2027/
 URL:https://bela.so/festivals/saphala-ekadashi/2027/
 TRANSP:TRANSPARENT
 END:VEVENT
